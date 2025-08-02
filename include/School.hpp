@@ -7,7 +7,7 @@
 
 
 
-class School {p
+class School {
 
 };
 
