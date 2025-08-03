@@ -1,0 +1,2 @@
+/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
