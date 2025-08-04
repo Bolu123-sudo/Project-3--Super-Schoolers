@@ -13,7 +13,7 @@ struct Weights {
     float safe;
     float stable;
 };
-
+//Compute and adds all scores
 inline float computeScore(const School& s, const Weights& w) {
     return s.testScore * w.test
          + s.graduationRate * w.grad

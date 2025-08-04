@@ -6,14 +6,17 @@
 
 const int DEGREE = 3;
 
+// A node in the B-Tree
 class BTreeNode {
 public:
     bool leaf;
     std::vector<School> keys;
     std::vector<BTreeNode*> children;
 
+    // Constructor- create a node
     BTreeNode(bool isLeaf);
     void traverse(std::vector<School>& out);
+    // Insert a new key
     void insertNonFull(const School& s);
     void splitChild(int i, BTreeNode* y);
 };
@@ -24,7 +27,10 @@ private:
 
 public:
     BTree();
+    // Insert a new School record into the B-Tree
     void insert(const School& s);
+
+    // Retrieved all School records in sorted order.
     std::vector<School> getAll();
 };
 

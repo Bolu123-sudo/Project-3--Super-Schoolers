@@ -30,12 +30,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0071aaa4-41e8-4430-8f53-e0105d8c1d92" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SuperSchoolers.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SuperSchoolers.dir/src/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/SuperSchoolers" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SuperSchoolers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Ranking.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/Ranking.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/School.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/School.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SchoolSystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolSystem.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/BTree.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -159,7 +164,7 @@
       <updated>1754178120773</updated>
       <workItem from="1754178122150" duration="501000" />
       <workItem from="1754178784493" duration="2487000" />
-      <workItem from="1754311822785" duration="6947000" />
+      <workItem from="1754311822785" duration="13544000" />
     </task>
     <task id="LOCAL-00001" summary="main, parsing, and object refining">
       <option name="closed" value="true" />
@@ -201,7 +206,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754319636817</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <option name="closed" value="true" />
+      <created>1754319912496</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754319912496</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new">
+      <option name="closed" value="true" />
+      <created>1754319925206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754319925206</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

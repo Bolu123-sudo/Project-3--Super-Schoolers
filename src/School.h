@@ -16,7 +16,7 @@ struct School {
     float safetyScore;
     float stabilityScore;
 
-
+    //Compute and adds all scores
     float computeScore(float wTest, float wGrad, float wSafe, float wStable) const {
         return testScore * wTest + graduationRate * wGrad + safetyScore * wSafe + stabilityScore * wStable;
     }

@@ -9,6 +9,7 @@
 #include <vector>
 #include "MaxHeap.h"
 
+// Removes whitespaces
 static string trim(const string& s) {
     size_t a = s.find_first_not_of(" \t\r\n");
     if (a == string::npos) return "";
@@ -16,6 +17,7 @@ static string trim(const string& s) {
     return s.substr(a, b - a + 1);
 }
 
+// Find last non whitespace character
 static vector<string> splitLine(const string& line, char delim = ',') {
     vector<string> result;
     string cell;
@@ -26,6 +28,7 @@ static vector<string> splitLine(const string& line, char delim = ',') {
     return result;
 }
 
+// Parses a numeric string
 static double parseNum(const string& s) {
     string cleaned;
     for (char c : s) {
@@ -38,13 +41,14 @@ static double parseNum(const string& s) {
 static string makeKey(const string& a, const string& b) {
     return a + "|" + b;
 }
-
+// Converts to lowercase
 static string toLower(const string& s) {
     string out = s;
     transform(out.begin(), out.end(), out.begin(), ::tolower);
     return out;
 }
 
+// Infers the school level, "Elementary", "Middle"
 static string inferLevel(const string& name) {
     string low = toLower(name);
     if (low.find("elementary") != string::npos || low.find("elem") != string::npos) return "Elementary";
@@ -53,6 +57,7 @@ static string inferLevel(const string& name) {
     return "Unknown";
 }
 
+// Loads school data
 void SchoolSystem::loadData() {
     vector<School> loaded;
 
@@ -213,6 +218,7 @@ void SchoolSystem::loadData() {
     cout << "[SchoolSystem] Loaded " << base.size() << " schools\n";
 }
 
+// Returns all schools
 vector<School> SchoolSystem::filterSchools(const string& county, const string& level) {
     vector<School> result;
     string key = toLower(county);
@@ -222,7 +228,7 @@ vector<School> SchoolSystem::filterSchools(const string& county, const string& l
     }
     return result;
 }
-
+// Recommends the top N schools in any given county and level
 vector<School> SchoolSystem::recommendTopSchools(const string& county, const string& level,
                                                  float wTest, float wGrad, float wSafe, float wStable, int topN) {
     auto filtered = filterSchools(county, level);
