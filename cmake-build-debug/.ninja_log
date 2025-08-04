@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # ninja log v5
 0	1114	1754277800820900634	CMakeFiles/Main.dir/src/main.cpp.o	c7c07e0f7f558c28
 1	1128	1754277800820881801	CMakeFiles/Project3.dir/src/main.cpp.o	e032045868562fa3
 1	1427	1754277801142051038	CMakeFiles/Main.dir/src/SchoolSystem.cpp.o	40787adf7d387232
 12	822	1754280520415754237	CMakeFiles/Project3.dir/src/SchoolSystem.cpp.o	1ac3e20d5242f3d9
+=======
+# ninja log v6
+>>>>>>> origin/main

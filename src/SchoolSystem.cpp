@@ -6,6 +6,8 @@
 #include <iomanip>
 #include <algorithm>
 #include <cmath>
+#include <vector>
+#include "MaxHeap.h"
 
 static string trim(const string& s) {
     size_t a = s.find_first_not_of(" \t\r\n");
@@ -55,7 +57,7 @@ void SchoolSystem::loadData() {
     vector<School> loaded;
 
     // --- Parse: Grades (base school list) ---
-    ifstream gradeFile("data/SchoolGrades-High,Middle,Elematary School.csv");
+    ifstream gradeFile("data/SchoolGrades-High,Middle,Elementary School.csv");
     string line;
     for (int i = 0; i < 5; ++i) getline(gradeFile, line); // skip
     getline(gradeFile, line); // column header
@@ -207,6 +209,6 @@ vector<School> SchoolSystem::filterSchools(const string& county, const string& l
 vector<School> SchoolSystem::recommendTopSchools(const string& county, const string& level,
                                                  float wTest, float wGrad, float wSafe, float wStable, int topN) {
     auto filtered = filterSchools(county, level);
-    return {};
-    //return MaxHeap::getTopSchools(filtered, wTest, wGrad, wSafe, wStable, topN);
+
+    return MaxHeap::getTopSchools(filtered, wTest, wGrad, wSafe, wStable, topN);
 }

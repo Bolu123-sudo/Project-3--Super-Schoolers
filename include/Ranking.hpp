@@ -2,15 +2,20 @@
 // Created by Bolu Abegunde on 8/2/25.
 //
 
-#ifndef SCORES_HPP
-#define SCORES_HPP
+#ifndef RANKING_HPP
+#define RANKING_HPP
 
+#include "School.h"
 
-
-class Scores {
-
+struct Weights {
+    float test;
+    float grad;
+    float safe;
+    float stable;
 };
 
+inline float computeScore(const School& s, const Weights& w) {
+    return s.testScore * w.test + s.graduationRate * w.grad + s.safetyScore * w.safe + s.stabilityScore * w.stable;
+}
 
-
-#endif //SCORES_HPP
+#endif
