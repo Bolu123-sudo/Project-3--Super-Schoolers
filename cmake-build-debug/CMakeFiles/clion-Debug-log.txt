@@ -1,7 +1,17 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers -B /Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/cmake-build-debug
-CMake Error at CMakeLists.txt:8 (target_include_directories):
-  Cannot specify include directories for target "SchoolSystem" which is not
-  built by this project.
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S "/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers" -B "/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+CMake Error:
+  Running
+
+   '/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja' '-C' '/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug' '-t' 'recompact'
+
+  failed with:
+
+   ninja: warning: build log version invalid, perhaps due to being too old; starting over
+
+  ninja: error: failed recompaction: No such file or directory
 
 
--- Configuring incomplete, errors occurred!
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
