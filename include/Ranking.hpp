@@ -15,7 +15,10 @@ struct Weights {
 };
 
 inline float computeScore(const School& s, const Weights& w) {
-    return s.testScore * w.test + s.graduationRate * w.grad + s.safetyScore * w.safe + s.stabilityScore * w.stable;
+    return s.testScore * w.test
+         + s.graduationRate * w.grad
+         + s.safetyScore * w.safe
+         + s.stabilityScore * w.stable;
 }
 
 #endif
