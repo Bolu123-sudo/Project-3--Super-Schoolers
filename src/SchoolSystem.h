@@ -1,9 +1,5 @@
-
 #ifndef PROJECT_3_SUPER_SCHOOLERS_SCHOOLSYSTEM_H
 #define PROJECT_3_SUPER_SCHOOLERS_SCHOOLSYSTEM_H
-
-#ifndef SCHOOLSYSTEM_H
-#define SCHOOLSYSTEM_H
 
 #include "School.h"
 #include "BTree.h"
@@ -19,26 +15,15 @@ private:
     unordered_map<string, vector<School>> countyIndex;
 
 public:
-
+    // Loads and parses schools_clean.csv into the BTree and index
     void loadData();
 
-
+    // Filters schools by county and level
     vector<School> filterSchools(const string& county, const string& level);
 
-
+    // Ranks top N schools by weighted score
     vector<School> recommendTopSchools(const string& county, const string& level,
                                        float wTest, float wGrad, float wSafe, float wStable, int topN);
-
-
-    void normalize(School& school);
-
-    // helpers
-    void parseTestScores(const string& filename);
-    void parseGraduationRates(const string& filename);
-    void parseSafetyReports(const string& filename);
-    void parseStabilityScores(const string& filename);
-    void parseSchoolGrades(const string& filename);
 };
-
 
 #endif //PROJECT_3_SUPER_SCHOOLERS_SCHOOLSYSTEM_H

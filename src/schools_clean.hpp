@@ -1,4 +1,7 @@
-﻿#include <algorithm>
+﻿/*
+
+
+#include <algorithm>
 #include <cmath>
 #include <exception>
 #include <fstream>
@@ -330,3 +333,4 @@ int main() {
     }
     return 0;
 }
+*/
