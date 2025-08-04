@@ -44,8 +44,8 @@ int main() {
     cout << "\nTop " << results.size() << " schools in " << county << " (" << level << "):\n";
     for (int i = 0; i < results.size(); ++i) {
         const auto& s = results[i];
-        float score = s.computeScore(wTest, wGrad, wSafe, wStab);
-        cout << i + 1 << ". " << s.name << " | Score: " << fixed << setprecision(2) << score << "\n";
+        //float score = s.computeScore(wTest, wGrad, wSafe, wStab);
+        cout << i + 1 << ". " << s.name << "\n";
     }
 
     if (results.empty()) {
