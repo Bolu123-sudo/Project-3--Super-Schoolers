@@ -11,7 +11,7 @@ int getPreferenceWeight(const string& metric) {
         if (!cin.fail() && weight >= 1 && weight <= 10) return weight;
         cin.clear();
         cin.ignore(1000, '\n');
-        cout << "Invalid input. Please enter a number from 1 to 10 .\n";
+        cout << "Invalid input. Please enter a number from 1 to 10.\n";
     }
 }
 

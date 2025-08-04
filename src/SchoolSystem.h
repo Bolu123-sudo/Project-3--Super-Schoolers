@@ -24,6 +24,10 @@ public:
     // Ranks top N schools by weighted score
     vector<School> recommendTopSchools(const string& county, const string& level,
                                        float wTest, float wGrad, float wSafe, float wStable, int topN);
+
+    std::vector<School> allSchools;
+
+
 };
 
 #endif //PROJECT_3_SUPER_SCHOOLERS_SCHOOLSYSTEM_H

@@ -63,6 +63,13 @@ build CMakeFiles/SuperSchoolers.dir/src/SchoolSystem.cpp.o: CXX_COMPILER__SuperS
   OBJECT_DIR = CMakeFiles/SuperSchoolers.dir
   OBJECT_FILE_DIR = CMakeFiles/SuperSchoolers.dir/src
 
+build CMakeFiles/SuperSchoolers.dir/src/BTree.cpp.o: CXX_COMPILER__SuperSchoolers_unscanned_Debug /Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/BTree.cpp || cmake_object_order_depends_target_SuperSchoolers
+  DEP_FILE = CMakeFiles/SuperSchoolers.dir/src/BTree.cpp.o.d
+  FLAGS = -Wall -Werror -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src -I/Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/include
+  OBJECT_DIR = CMakeFiles/SuperSchoolers.dir
+  OBJECT_FILE_DIR = CMakeFiles/SuperSchoolers.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SuperSchoolers
@@ -71,7 +78,7 @@ build CMakeFiles/SuperSchoolers.dir/src/SchoolSystem.cpp.o: CXX_COMPILER__SuperS
 #############################################
 # Link the executable SuperSchoolers
 
-build SuperSchoolers: CXX_EXECUTABLE_LINKER__SuperSchoolers_Debug CMakeFiles/SuperSchoolers.dir/src/main.cpp.o CMakeFiles/SuperSchoolers.dir/src/SchoolSystem.cpp.o
+build SuperSchoolers: CXX_EXECUTABLE_LINKER__SuperSchoolers_Debug CMakeFiles/SuperSchoolers.dir/src/main.cpp.o CMakeFiles/SuperSchoolers.dir/src/SchoolSystem.cpp.o CMakeFiles/SuperSchoolers.dir/src/BTree.cpp.o
   FLAGS = -Wall -Werror -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk
   OBJECT_DIR = CMakeFiles/SuperSchoolers.dir
   POST_BUILD = :

@@ -58,6 +58,10 @@ void SchoolSystem::loadData() {
 
     // --- Parse: Grades (base school list) ---
     ifstream gradeFile("data/SchoolGrades-High,Middle,Elementary School.csv");
+    if (!gradeFile) {
+        gradeFile.open("../data/SchoolGrades-High,Middle,Elematary School.csv");
+
+    }
     string line;
     for (int i = 0; i < 5; ++i) getline(gradeFile, line); // skip
     getline(gradeFile, line); // column header
@@ -67,7 +71,6 @@ void SchoolSystem::loadData() {
         auto cols = splitLine(line);
         if (cols.size() < 5) continue;
 
-        string distNum = cols[0];
         string county = cols[1];
         string name = cols[4];
         if (name.empty()) continue;
@@ -76,10 +79,10 @@ void SchoolSystem::loadData() {
         s.name = name;
         s.county = county;
         s.level = inferLevel(name);
-        s.testScore = 0.0;
-        s.graduationRate = 0.0;
-        s.safetyScore = 1.0;
-        s.stabilityScore = 0.0;
+        s.testScore = 0.0f;
+        s.graduationRate = 0.0f;
+        s.safetyScore = 1.0f;
+        s.stabilityScore = 0.0f;
 
         base.push_back(s);
     }
@@ -87,16 +90,23 @@ void SchoolSystem::loadData() {
     // --- Parse: Math Scores ---
     unordered_map<string, double> testScores;
     ifstream mathFile("data/EodOfYear Math Scores- Grade 3 up.csv");
-    for (int i = 0; i < 4; ++i) getline(mathFile, line);
-    getline(mathFile, line);
-    while (getline(mathFile, line)) {
-        auto cols = splitLine(line);
-        if (cols.size() < 2) continue;
-        string key = makeKey(cols[0], cols[1]);
-        for (int i = cols.size() - 1; i >= 0; --i) {
-            if (cols[i].find('%') != string::npos) {
-                testScores[key] = parseNum(cols[i]);
-                break;
+    if (!mathFile) {
+        mathFile.open("../data/EodOfYear Math Scores- Grade 3 up.csv");
+    }
+    if (!mathFile) {
+        cerr << "[WARN] can't open math scores CSV\n";
+    } else {
+        for (int i = 0; i < 4; ++i) getline(mathFile, line);
+        getline(mathFile, line);
+        while (getline(mathFile, line)) {
+            auto cols = splitLine(line);
+            if (cols.size() < 2) continue;
+            string county = toLower(cols[1]);
+            for (int i = static_cast<int>(cols.size()) - 1; i >= 0; --i) {
+                if (cols[i].find('%') != string::npos) {
+                    testScores[county] = parseNum(cols[i]);
+                    break;
+                }
             }
         }
     }
@@ -104,38 +114,45 @@ void SchoolSystem::loadData() {
     // --- Parse: Graduation Rates ---
     unordered_map<string, double> gradRates;
     ifstream gradFile("data/High School Graduations.csv");
-    for (int i = 0; i < 6; ++i) getline(gradFile, line);
-    vector<vector<string>> rows;
-    while (getline(gradFile, line)) rows.push_back(splitLine(line));
+    if (!gradFile) {
+        gradFile.open("../data/High School Graduations.csv");
+    }
+    else {
+        for (int i = 0; i < 6; ++i) getline(gradFile, line);
+        vector<vector<string>> rows;
+        while (getline(gradFile, line)) rows.push_back(splitLine(line));
 
-    for (size_t i = 0; i < rows.size();) {
-        if (rows[i].size() < 4) { ++i; continue; }
-        string distNum = rows[i][0];
-        string county = rows[i][1];
-        double total = 0.0, standard = 0.0;
-        size_t j = i;
-        while (j < rows.size() && rows[j][0] == distNum && rows[j][1] == county) {
-            string label = toLower(rows[j][2]);
-            if (label.find("total") != string::npos && rows[j].size() > 3)
-                total = parseNum(rows[j][3]);
-            if (label.find("standard") != string::npos && rows[j].size() > 3)
-                standard = parseNum(rows[j][3]);
-            ++j;
+        for (size_t i = 0; i < rows.size();) {
+            if (rows[i].size() < 4) { ++i; continue; }
+            string county = toLower(rows[i][1]);
+            double total = 0.0, standard = 0.0;
+            size_t j = i;
+            while (j < rows.size() && rows[j].size() > 1 && toLower(rows[j][1]) == county) {
+                string label = toLower(rows[j][2]);
+                if (label.find("total") != string::npos && rows[j].size() > 3)
+                    total = parseNum(rows[j][3]);
+                if (label.find("standard") != string::npos && rows[j].size() > 3)
+                    standard = parseNum(rows[j][3]);
+                ++j;
+            }
+            double rate = (total > 0) ? (standard / total) * 100.0 : 0.0;
+            gradRates[county] = rate;
+            i = j;
         }
-        double rate = (total > 0) ? (standard / total) * 100.0 : 0.0;
-        gradRates[makeKey(distNum, county)] = rate;
-        i = j;
     }
 
     // --- Parse: Safety Reports ---
     unordered_map<string, double> incidentMap;
     auto parseSafety = [&](const string& path) {
         ifstream file(path);
+
         for (int i = 0; i < 7; ++i) getline(file, line);
         while (getline(file, line)) {
             auto cols = splitLine(line);
             if (cols.size() < 6) continue;
-            string key = makeKey(makeKey(cols[0], cols[1]), cols[3]);
+            string county = toLower(cols[1]);
+            string schoolName = cols[3];
+            string key = makeKey(county, schoolName);
             double total = 0.0;
             for (size_t i = 5; i < cols.size(); ++i)
                 total += parseNum(cols[i]);
@@ -148,41 +165,45 @@ void SchoolSystem::loadData() {
     // --- Parse: Stability Scores ---
     unordered_map<string, double> stabilityMap;
     ifstream stabFile("data/Stability Rates.csv");
-    getline(stabFile, line); getline(stabFile, line); // skip notes
-    getline(stabFile, line);
-    while (getline(stabFile, line)) {
-        auto cols = splitLine(line);
-        if (cols.size() < 7) continue;
-        string distNum = cols[0], county = cols[1], school = cols[3];
-        string rate = cols[6];
-        string key = makeKey(makeKey(distNum, county), school);
-        stabilityMap[key] = parseNum(rate);
+    if (!stabFile) {
+        stabFile.open("../data/Stability Rates.csv");
+    }
+    else {
+        getline(stabFile, line); getline(stabFile, line); // skip notes
+        getline(stabFile, line);
+        while (getline(stabFile, line)) {
+            auto cols = splitLine(line);
+            if (cols.size() < 7) continue;
+            string county = toLower(cols[1]);
+            string school = cols[3];
+            string key = makeKey(county, school);
+            stabilityMap[key] = parseNum(cols[6]);
+        }
     }
 
     // --- Merge everything into base schools ---
     double minInc = 1e9, maxInc = -1e9;
     for (auto& s : base) {
-        string dkey = makeKey("?", s.county); // test/grad only by county
-        string skey = makeKey(dkey, s.name);
+        string countyKey = toLower(s.county);
+        string schoolKey = makeKey(countyKey, s.name);
 
-        if (testScores.count(dkey)) s.testScore = testScores[dkey];
-        if (gradRates.count(dkey)) s.graduationRate = gradRates[dkey];
-        if (incidentMap.count(skey)) {
-            double inc = incidentMap[skey];
+        if (testScores.count(countyKey)) s.testScore = static_cast<float>(testScores[countyKey]);
+        if (gradRates.count(countyKey)) s.graduationRate = static_cast<float>(gradRates[countyKey]);
+        if (incidentMap.count(schoolKey)) {
+            double inc = incidentMap[schoolKey];
             minInc = min(minInc, inc);
             maxInc = max(maxInc, inc);
-            s.safetyScore = inc; // temporarily raw
+            s.safetyScore = static_cast<float>(inc); // temporarily raw
         }
-        if (stabilityMap.count(skey)) s.stabilityScore = stabilityMap[skey];
+        if (stabilityMap.count(schoolKey)) s.stabilityScore = static_cast<float>(stabilityMap[schoolKey]);
     }
 
-    // Normalize safety (1 - incidentRate)
     for (auto& s : base) {
-        if (maxInc > minInc && s.safetyScore != 1.0) {
+        if (maxInc > minInc && s.safetyScore != 1.0f) {
             double norm = (s.safetyScore - minInc) / (maxInc - minInc);
-            s.safetyScore = 1.0 - norm;
+            s.safetyScore = 1.0f - norm;
         } else {
-            s.safetyScore = 1.0;
+            s.safetyScore = 1.0f;
         }
     }
 

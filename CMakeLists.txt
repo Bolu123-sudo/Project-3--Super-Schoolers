@@ -14,7 +14,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 add_executable(SuperSchoolers
         src/main.cpp
         src/SchoolSystem.cpp
-        src/BTree.h
+        src/BTree.cpp
         src/School.h
         src/MaxHeap.h
         src/SchoolSystem.h

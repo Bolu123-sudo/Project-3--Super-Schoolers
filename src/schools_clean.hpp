@@ -15,7 +15,7 @@
 using namespace std;
 
 // file paths (can change)
-const string GRADES_FILE = "data/SchoolGrades-High,Middle,Elematary School.csv";
+const string GRADES_FILE = "data/SchoolGrades-High,Middle,Elementary School.csv";
 const string MATH_FILE = "data/EodOfYear Math Scores- Grade 3 up.csv";
 const string GRAD_FILE = "data/High School Graduations.csv";
 const string SAFETY_AH_FILE = "data/School Safety A-H.csv";
