@@ -23,7 +23,7 @@ int main() {
 
     string county, level;
     cout << "Enter a Florida county: ";
-    cin.ignore();
+
     getline(cin, county);
 
     cout << "Enter school level (Elementary / Middle / High): ";

@@ -1,445 +1,1128 @@
-﻿"High School Standard Diplomas
-2023-24, Final Survey 5
-District Summary Report",,,,,,,,,,,,,,,,,,,
-"(Standard Diploma includes only those codes that meet the Federal Definition of a standard diploma graduate. 
-Standard Diplomas: ‘W06’, ‘WD1’, ‘WFT’, ‘WME’, ‘WRW’, ‘WXL’, ‘WXT’, ‘WXW’, 'WCO’, ‘WWW’, ‘WWE’, ‘WWT’, 'WEL')",,,,,,,,,,,,,,,,,,,
-District #,District Name,Diploma Type,White,,Black or African American,,Hispanic/Latino,,Asian,,Native Hawaiian or Other Pacific Islander,,American Indian or Alaska Native,,Two or More Races,,Total,,
-,,,Female,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female,Male,Female,Male,Total
-01,ALACHUA,Total Diplomas/Certificates/GEDs,418,447,288,290,125,110,56,53,0,1,2,0,59,62,948,963,"1,911"
-01,ALACHUA,Certificate of Completion,1,0,8,11,1,2,0,1,0,0,0,0,0,2,10,16,26
-01,ALACHUA,Standard Diploma,417,447,280,279,124,108,56,52,0,1,2,0,59,60,938,947,"1,885"
-01,ALACHUA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-01,ALACHUA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-01,ALACHUA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-02,BAKER,Total Diplomas/Certificates/GEDs,130,118,22,25,4,4,2,1,0,1,0,0,8,4,166,153,319
-02,BAKER,Standard Diploma,126,115,20,21,4,3,2,1,0,1,0,0,8,4,160,145,305
-02,BAKER,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-02,BAKER,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-02,BAKER,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-02,BAKER,Certificate of Completion,4,3,2,4,0,1,0,0,0,0,0,0,0,0,6,8,14
-03,BAY,Certificate of Completion,0,1,5,4,2,2,0,0,0,0,0,0,0,0,7,7,14
-03,BAY,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-03,BAY,Total Diplomas/Certificates/GEDs,648,629,131,133,134,109,25,33,2,1,0,2,49,73,989,980,"1,969"
-03,BAY,Standard Diploma,648,628,126,129,132,107,25,33,2,1,0,2,49,73,982,973,"1,955"
-03,BAY,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-03,BAY,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-04,BRADFORD,Total Diplomas/Certificates/GEDs,76,55,19,24,5,5,1,1,0,0,0,0,6,3,107,88,195
-04,BRADFORD,Certificate of Completion,2,1,2,1,0,0,0,0,0,0,0,0,0,0,4,2,6
-04,BRADFORD,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-04,BRADFORD,Standard Diploma,74,54,17,23,5,5,1,1,0,0,0,0,6,3,103,86,189
-04,BRADFORD,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-04,BRADFORD,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-05,BREVARD,Certificate of Completion,19,29,27,31,25,27,1,2,1,0,0,0,6,4,79,93,172
-05,BREVARD,Standard Diploma,"1,581","1,542",365,339,423,400,66,77,6,5,8,6,188,195,"2,637","2,564","5,201"
-05,BREVARD,Total Diplomas/Certificates/GEDs,"1,600","1,571",392,370,448,427,67,79,7,5,8,6,194,199,"2,716","2,657","5,373"
-05,BREVARD,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-05,BREVARD,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-05,BREVARD,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-06,BROWARD,Certificate of Completion,25,26,204,237,150,146,5,8,0,1,1,0,4,3,389,421,810
-06,BROWARD,GED,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,8,8
-06,BROWARD,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-06,BROWARD,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-06,BROWARD,Total Diplomas/Certificates/GEDs,"1,711","1,782","3,773","3,637","3,362","3,439",343,397,20,14,12,24,171,184,"9,392","9,477","18,869"
-06,BROWARD,Standard Diploma,"1,686","1,752","3,569","3,396","3,212","3,293",338,389,20,13,11,24,167,181,"9,003","9,048","18,051"
-07,CALHOUN,Standard Diploma,64,56,8,11,7,6,0,1,0,0,0,0,3,2,82,76,158
-07,CALHOUN,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-07,CALHOUN,Certificate of Completion,0,3,0,0,0,1,0,0,0,0,0,0,1,0,1,4,5
-07,CALHOUN,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-07,CALHOUN,Total Diplomas/Certificates/GEDs,64,59,8,11,7,7,0,1,0,0,0,0,4,2,83,80,163
-07,CALHOUN,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-08,CHARLOTTE,Standard Diploma,521,560,52,71,143,166,21,20,3,6,1,1,29,33,770,857,"1,627"
-08,CHARLOTTE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-08,CHARLOTTE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-08,CHARLOTTE,Total Diplomas/Certificates/GEDs,546,580,54,77,148,180,21,20,3,8,1,1,31,38,804,904,"1,708"
-08,CHARLOTTE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-08,CHARLOTTE,Certificate of Completion,25,20,2,6,5,14,0,0,0,2,0,0,2,5,34,47,81
-09,CITRUS,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-09,CITRUS,Certificate of Completion,9,7,1,1,2,3,0,0,0,0,0,0,1,3,13,14,27
-09,CITRUS,Total Diplomas/Certificates/GEDs,444,375,20,31,64,51,16,7,2,0,3,3,27,28,576,495,"1,071"
-09,CITRUS,Standard Diploma,435,368,19,30,62,48,16,7,2,0,3,3,26,25,563,481,"1,044"
-09,CITRUS,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-09,CITRUS,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-10,CLAY,Standard Diploma,841,902,315,280,241,250,51,47,4,5,5,4,92,76,"1,549","1,564","3,113"
-10,CLAY,Total Diplomas/Certificates/GEDs,858,916,325,289,250,257,53,47,4,5,5,4,92,78,"1,587","1,596","3,183"
-10,CLAY,Certificate of Completion,10,14,9,9,9,7,2,0,0,0,0,0,0,2,30,32,62
-10,CLAY,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-10,CLAY,GED,7,0,1,0,0,0,0,0,0,0,0,0,0,0,8,0,8
-10,CLAY,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-11,COLLIER,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-11,COLLIER,Total Diplomas/Certificates/GEDs,597,645,219,207,956,987,34,28,0,0,3,2,35,36,"1,844","1,905","3,749"
-11,COLLIER,Standard Diploma,594,644,215,200,936,955,34,28,0,0,3,2,34,36,"1,816","1,865","3,681"
-11,COLLIER,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-11,COLLIER,Certificate of Completion,3,1,4,7,20,32,0,0,0,0,0,0,1,0,28,40,68
-11,COLLIER,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,COLUMBIA,Certificate of Completion,14,7,8,14,2,2,0,0,0,0,0,0,0,1,24,24,48
-12,COLUMBIA,Total Diplomas/Certificates/GEDs,195,183,68,72,30,23,4,2,0,0,0,2,8,13,305,295,600
-12,COLUMBIA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,COLUMBIA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,COLUMBIA,Standard Diploma,181,176,60,58,28,21,4,2,0,0,0,2,8,12,281,271,552
-12,COLUMBIA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,MIAMI-DADE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,MIAMI-DADE,Total Diplomas/Certificates/GEDs,817,810,"2,233","2,087","8,995","8,972",153,126,9,5,4,11,79,99,"12,290","12,110","24,400"
-13,MIAMI-DADE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,MIAMI-DADE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,MIAMI-DADE,Certificate of Completion,4,6,33,35,102,106,2,1,0,0,0,0,0,3,141,151,292
-13,MIAMI-DADE,Standard Diploma,813,804,"2,200","2,052","8,893","8,866",151,125,9,5,4,11,79,96,"12,149","11,959","24,108"
-14,DESOTO,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,DESOTO,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,DESOTO,Certificate of Completion,5,5,0,0,11,12,0,0,0,0,0,0,0,0,16,17,33
-14,DESOTO,Total Diplomas/Certificates/GEDs,62,47,14,10,82,72,1,0,0,1,0,0,1,4,160,134,294
-14,DESOTO,Standard Diploma,57,42,14,10,71,60,1,0,0,1,0,0,1,4,144,117,261
-14,DESOTO,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,DIXIE,Total Diplomas/Certificates/GEDs,47,52,5,3,3,7,0,0,0,0,0,0,2,2,57,64,121
-15,DIXIE,Certificate of Completion,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
-15,DIXIE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,DIXIE,Standard Diploma,47,52,5,2,3,7,0,0,0,0,0,0,2,2,57,63,120
-15,DIXIE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,DIXIE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,DUVAL,Certificate of Completion,12,14,41,47,21,9,1,0,0,0,0,0,3,2,78,72,150
-16,DUVAL,Total Diplomas/Certificates/GEDs,"1,265","1,383","1,856","1,777",615,639,181,238,10,7,14,15,180,186,"4,121","4,245","8,366"
-16,DUVAL,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,DUVAL,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,DUVAL,GED,8,18,3,2,1,5,0,0,0,0,0,1,2,3,14,29,43
-16,DUVAL,Standard Diploma,"1,245","1,351","1,812","1,728",593,625,180,238,10,7,14,14,175,181,"4,029","4,144","8,173"
-17,ESCAMBIA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,ESCAMBIA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,ESCAMBIA,Certificate of Completion,17,22,43,33,8,3,1,3,1,0,0,0,7,6,77,67,144
-17,ESCAMBIA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,ESCAMBIA,Standard Diploma,619,595,403,366,113,93,36,47,3,8,7,4,87,83,"1,268","1,196","2,464"
-17,ESCAMBIA,Total Diplomas/Certificates/GEDs,636,617,446,399,121,96,37,50,4,8,7,4,94,89,"1,345","1,263","2,608"
-18,FLAGLER,Certificate of Completion,6,6,3,2,3,3,0,0,0,0,0,0,0,2,12,13,25
-18,FLAGLER,Total Diplomas/Certificates/GEDs,279,353,84,78,101,90,11,11,0,0,1,3,34,30,510,565,"1,075"
-18,FLAGLER,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,FLAGLER,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,FLAGLER,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,FLAGLER,Standard Diploma,273,347,81,76,98,87,11,11,0,0,1,3,34,28,498,552,"1,050"
-19,FRANKLIN,Standard Diploma,20,21,1,5,3,2,0,0,0,0,0,0,1,1,25,29,54
-19,FRANKLIN,Total Diplomas/Certificates/GEDs,20,21,1,5,4,3,0,0,0,0,0,0,1,1,26,30,56
-19,FRANKLIN,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,FRANKLIN,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,FRANKLIN,Certificate of Completion,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,2
-19,FRANKLIN,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,GADSDEN,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,GADSDEN,Standard Diploma,2,3,90,88,28,26,0,0,0,0,0,1,5,0,125,118,243
-20,GADSDEN,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,GADSDEN,Total Diplomas/Certificates/GEDs,2,3,90,88,28,26,0,0,0,0,0,1,5,0,125,118,243
-20,GADSDEN,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,GADSDEN,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,GILCHRIST,Total Diplomas/Certificates/GEDs,63,50,4,5,11,13,0,0,0,0,0,0,1,3,79,71,150
-21,GILCHRIST,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,GILCHRIST,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,GILCHRIST,Certificate of Completion,1,1,0,0,0,2,0,0,0,0,0,0,0,0,1,3,4
-21,GILCHRIST,Standard Diploma,62,49,4,5,11,11,0,0,0,0,0,0,1,3,78,68,146
-21,GILCHRIST,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,GLADES,Certificate of Completion,1,0,1,1,0,2,0,0,0,0,0,0,0,0,2,3,5
-22,GLADES,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,GLADES,Total Diplomas/Certificates/GEDs,14,8,4,9,12,19,0,0,0,0,3,2,0,3,33,41,74
-22,GLADES,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,GLADES,Standard Diploma,13,8,3,8,12,17,0,0,0,0,3,2,0,3,31,38,69
-22,GLADES,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,GULF,Certificate of Completion,2,3,1,2,0,0,0,0,0,0,0,1,0,0,3,6,9
-23,GULF,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,GULF,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,GULF,Standard Diploma,63,57,9,10,5,2,0,1,0,0,0,0,3,5,80,75,155
-23,GULF,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,GULF,Total Diplomas/Certificates/GEDs,65,60,10,12,5,2,0,1,0,0,0,1,3,5,83,81,164
-24,HAMILTON,Certificate of Completion,2,1,2,2,2,2,0,0,0,0,0,0,0,0,6,5,11
-24,HAMILTON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,HAMILTON,GED,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,8,8
-24,HAMILTON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,HAMILTON,Total Diplomas/Certificates/GEDs,23,23,28,17,20,5,0,0,0,0,0,0,1,0,72,45,117
-24,HAMILTON,Standard Diploma,21,18,26,11,18,3,0,0,0,0,0,0,1,0,66,32,98
-25,HARDEE,Standard Diploma,36,43,6,9,92,88,1,0,0,0,0,0,4,0,139,140,279
-25,HARDEE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-25,HARDEE,Certificate of Completion,4,4,1,2,10,14,0,0,0,0,0,0,0,0,15,20,35
-25,HARDEE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-25,HARDEE,Total Diplomas/Certificates/GEDs,40,47,7,11,102,102,1,0,0,0,0,0,4,0,154,160,314
-25,HARDEE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-26,HENDRY,Certificate of Completion,12,10,6,4,35,23,0,1,0,0,1,0,1,2,55,40,95
-26,HENDRY,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-26,HENDRY,Total Diplomas/Certificates/GEDs,135,131,87,65,311,279,6,5,0,0,1,0,9,18,549,498,"1,047"
-26,HENDRY,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-26,HENDRY,Standard Diploma,123,121,81,61,276,256,6,4,0,0,0,0,8,16,494,458,952
-26,HENDRY,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-27,HERNANDO,Certificate of Completion,22,24,2,3,8,7,1,2,0,0,0,0,5,2,38,38,76
-27,HERNANDO,Standard Diploma,493,455,62,68,220,209,19,23,0,1,4,0,35,41,833,797,"1,630"
-27,HERNANDO,Total Diplomas/Certificates/GEDs,515,479,64,71,228,216,20,25,0,1,4,0,40,43,871,835,"1,706"
-27,HERNANDO,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-27,HERNANDO,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-27,HERNANDO,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-28,HIGHLANDS,Certificate of Completion,0,2,3,4,5,4,0,0,0,0,0,0,0,0,8,10,18
-28,HIGHLANDS,Standard Diploma,153,142,51,58,170,143,8,3,1,2,0,2,13,10,396,360,756
-28,HIGHLANDS,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-28,HIGHLANDS,Total Diplomas/Certificates/GEDs,153,144,54,62,175,147,8,3,1,2,0,2,13,10,404,370,774
-28,HIGHLANDS,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-28,HIGHLANDS,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-29,HILLSBOROUGH,Standard Diploma,"2,545","2,567","1,483","1,396","2,797","2,697",359,370,10,15,12,7,353,334,"7,559","7,386","14,945"
-29,HILLSBOROUGH,Certificate of Completion,22,24,67,42,82,82,1,0,0,0,0,0,2,1,174,149,323
-29,HILLSBOROUGH,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-29,HILLSBOROUGH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-29,HILLSBOROUGH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-29,HILLSBOROUGH,Total Diplomas/Certificates/GEDs,"2,567","2,591","1,550","1,438","2,879","2,779",360,370,10,15,12,7,355,335,"7,733","7,535","15,268"
-30,HOLMES,Certificate of Completion,3,4,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
-30,HOLMES,Standard Diploma,91,106,4,3,1,8,0,2,0,0,0,0,1,1,97,120,217
-30,HOLMES,Total Diplomas/Certificates/GEDs,94,110,4,3,1,8,0,2,0,0,0,0,1,1,100,124,224
-30,HOLMES,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-30,HOLMES,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-30,HOLMES,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,INDIAN RIVER,Standard Diploma,324,333,115,106,170,137,11,12,1,0,0,1,26,23,647,612,"1,259"
-31,INDIAN RIVER,Certificate of Completion,5,1,2,5,3,2,0,0,0,0,0,0,0,1,10,9,19
-31,INDIAN RIVER,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,INDIAN RIVER,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,INDIAN RIVER,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-31,INDIAN RIVER,Total Diplomas/Certificates/GEDs,329,334,117,111,173,139,11,12,1,0,0,1,26,24,657,621,"1,278"
-32,JACKSON,Certificate of Completion,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,1,3
-32,JACKSON,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,JACKSON,Total Diplomas/Certificates/GEDs,118,117,63,72,8,7,0,0,0,1,0,0,15,12,204,209,413
-32,JACKSON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,JACKSON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,JACKSON,Standard Diploma,118,117,61,71,8,7,0,0,0,1,0,0,15,12,202,208,410
-33,JEFFERSON,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,JEFFERSON,Total Diplomas/Certificates/GEDs,5,3,10,10,0,4,0,0,0,0,0,0,0,0,15,17,32
-33,JEFFERSON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,JEFFERSON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,JEFFERSON,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,JEFFERSON,Standard Diploma,5,3,10,10,0,4,0,0,0,0,0,0,0,0,15,17,32
-34,LAFAYETTE,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,LAFAYETTE,Total Diplomas/Certificates/GEDs,29,22,2,6,6,12,0,0,0,0,0,0,1,1,38,41,79
-34,LAFAYETTE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,LAFAYETTE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,LAFAYETTE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,LAFAYETTE,Standard Diploma,29,22,2,6,6,12,0,0,0,0,0,0,1,1,38,41,79
-35,LAKE,Certificate of Completion,6,9,4,8,4,7,0,1,0,0,0,0,1,2,15,27,42
-35,LAKE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,LAKE,Standard Diploma,790,827,301,339,491,544,66,45,1,6,15,8,71,73,"1,735","1,842","3,577"
-35,LAKE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,LAKE,Total Diplomas/Certificates/GEDs,796,836,305,347,495,551,66,46,1,6,15,8,72,75,"1,750","1,869","3,619"
-35,LAKE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,LEE,Certificate of Completion,15,23,37,39,131,121,1,5,0,0,0,0,3,3,187,191,378
-36,LEE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,LEE,Standard Diploma,"1,283","1,232",484,440,"1,510","1,437",74,71,1,4,4,3,86,95,"3,442","3,282","6,724"
-36,LEE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,LEE,Total Diplomas/Certificates/GEDs,"1,298","1,255",521,479,"1,641","1,558",75,76,1,4,4,3,89,98,"3,629","3,473","7,102"
-36,LEE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,LEON,GED,2,0,2,0,3,0,0,0,0,0,0,0,0,0,7,0,7
-37,LEON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,LEON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,LEON,Standard Diploma,429,408,429,358,89,97,61,56,0,0,3,1,68,42,"1,079",962,"2,041"
-37,LEON,Total Diplomas/Certificates/GEDs,433,410,488,394,101,103,63,56,0,0,3,1,71,47,"1,159","1,011","2,170"
-37,LEON,Certificate of Completion,2,2,57,36,9,6,2,0,0,0,0,0,3,5,73,49,122
-38,LEVY,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,LEVY,Total Diplomas/Certificates/GEDs,116,102,9,30,21,32,1,1,0,2,0,1,4,11,151,179,330
-38,LEVY,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,LEVY,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,LEVY,Standard Diploma,116,102,9,30,20,30,1,1,0,2,0,1,4,11,150,177,327
-38,LEVY,Certificate of Completion,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,2,3
-39,LIBERTY,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,LIBERTY,Total Diplomas/Certificates/GEDs,33,39,4,2,5,2,0,0,0,0,0,0,1,0,43,43,86
-39,LIBERTY,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,LIBERTY,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,LIBERTY,Standard Diploma,33,39,3,2,5,2,0,0,0,0,0,0,1,0,42,43,85
-39,LIBERTY,Certificate of Completion,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
-40,MADISON,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,MADISON,Total Diplomas/Certificates/GEDs,37,28,27,28,6,6,1,0,0,0,0,0,2,5,73,67,140
-40,MADISON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,MADISON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,MADISON,Standard Diploma,36,28,27,28,6,6,1,0,0,0,0,0,2,5,72,67,139
-40,MADISON,Certificate of Completion,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
-41,MANATEE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,MANATEE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,MANATEE,Standard Diploma,828,812,213,204,610,647,65,39,0,1,2,5,55,65,"1,773","1,773","3,546"
-41,MANATEE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,MANATEE,Total Diplomas/Certificates/GEDs,836,816,220,205,632,667,66,40,0,1,2,5,56,65,"1,812","1,799","3,611"
-41,MANATEE,Certificate of Completion,8,4,7,1,22,20,1,1,0,0,0,0,1,0,39,26,65
-42,MARION,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,MARION,Total Diplomas/Certificates/GEDs,630,606,304,259,441,407,36,36,7,3,5,4,64,64,"1,487","1,379","2,866"
-42,MARION,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,MARION,Standard Diploma,610,587,281,239,402,381,35,35,6,2,5,3,62,62,"1,401","1,309","2,710"
-42,MARION,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,MARION,Certificate of Completion,20,19,23,20,39,26,1,1,1,1,0,1,2,2,86,70,156
-43,MARTIN,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,MARTIN,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,MARTIN,Standard Diploma,412,434,50,51,212,240,17,13,1,0,1,0,28,21,721,759,"1,480"
-43,MARTIN,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,MARTIN,Total Diplomas/Certificates/GEDs,412,435,50,51,219,244,17,13,1,0,1,0,28,21,728,764,"1,492"
-43,MARTIN,Certificate of Completion,0,1,0,0,7,4,0,0,0,0,0,0,0,0,7,5,12
-44,MONROE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-44,MONROE,Total Diplomas/Certificates/GEDs,136,152,27,24,110,124,4,7,1,0,1,2,9,10,288,319,607
-44,MONROE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-44,MONROE,Standard Diploma,132,149,24,22,105,112,4,7,1,0,1,2,9,9,276,301,577
-44,MONROE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-44,MONROE,Certificate of Completion,4,3,3,2,5,12,0,0,0,0,0,0,0,1,12,18,30
-45,NASSAU,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,NASSAU,Total Diplomas/Certificates/GEDs,328,353,23,50,38,34,8,2,1,0,1,1,28,24,427,464,891
-45,NASSAU,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,NASSAU,Standard Diploma,326,350,23,49,38,34,8,2,1,0,1,1,28,24,425,460,885
-45,NASSAU,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,NASSAU,Certificate of Completion,2,3,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6
-46,OKALOOSA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-46,OKALOOSA,Total Diplomas/Certificates/GEDs,796,755,105,138,137,120,21,20,10,3,2,5,120,91,"1,191","1,132","2,323"
-46,OKALOOSA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-46,OKALOOSA,Standard Diploma,761,727,92,122,120,109,20,20,10,3,2,5,109,87,"1,114","1,073","2,187"
-46,OKALOOSA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-46,OKALOOSA,Certificate of Completion,35,28,13,16,17,11,1,0,0,0,0,0,11,4,77,59,136
-47,OKEECHOBEE,GED,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,4,4
-47,OKEECHOBEE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-47,OKEECHOBEE,Standard Diploma,77,87,9,22,84,85,2,1,0,1,4,1,2,3,178,200,378
-47,OKEECHOBEE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-47,OKEECHOBEE,Total Diplomas/Certificates/GEDs,81,93,12,32,90,94,2,1,0,1,4,1,3,4,192,226,418
-47,OKEECHOBEE,Certificate of Completion,4,5,3,7,6,9,0,0,0,0,0,0,1,1,14,22,36
-48,ORANGE,GED,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,6,6
-48,ORANGE,Total Diplomas/Certificates/GEDs,"1,840","1,884","1,821","1,695","3,247","3,224",404,391,29,23,19,11,150,162,"7,510","7,390","14,900"
-48,ORANGE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-48,ORANGE,Standard Diploma,"1,826","1,861","1,705","1,567","3,145","3,108",401,386,29,22,18,11,147,159,"7,271","7,114","14,385"
-48,ORANGE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-48,ORANGE,Certificate of Completion,14,19,116,126,102,116,3,5,0,1,1,0,3,3,239,270,509
-49,OSCEOLA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-49,OSCEOLA,Standard Diploma,551,489,295,329,"1,642","1,575",67,68,6,7,7,4,51,51,"2,619","2,523","5,142"
-49,OSCEOLA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-49,OSCEOLA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-49,OSCEOLA,Total Diplomas/Certificates/GEDs,554,499,304,340,"1,695","1,652",68,69,7,7,7,4,52,52,"2,687","2,623","5,310"
-49,OSCEOLA,Certificate of Completion,3,10,9,11,53,77,1,1,1,0,0,0,1,1,68,100,168
-50,PALM BEACH,GED,1,1,0,1,0,3,0,0,0,0,0,0,0,1,1,6,7
-50,PALM BEACH,Total Diplomas/Certificates/GEDs,"2,122","2,216","2,001","1,934","2,766","2,702",198,245,7,10,43,41,171,218,"7,308","7,366","14,674"
-50,PALM BEACH,Standard Diploma,"2,111","2,210","1,959","1,895","2,694","2,639",198,244,7,10,43,40,170,215,"7,182","7,253","14,435"
-50,PALM BEACH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50,PALM BEACH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-50,PALM BEACH,Certificate of Completion,10,5,42,38,72,60,0,1,0,0,0,1,1,2,125,107,232
-51,PASCO,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51,PASCO,Total Diplomas/Certificates/GEDs,"1,626","1,697",253,269,812,825,116,134,2,8,7,9,137,139,"2,953","3,081","6,034"
-51,PASCO,Standard Diploma,"1,604","1,668",240,252,785,794,114,133,2,8,6,9,133,136,"2,884","3,000","5,884"
-51,PASCO,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51,PASCO,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-51,PASCO,Certificate of Completion,22,29,13,17,27,31,2,1,0,0,1,0,4,3,69,81,150
-52,PINELLAS,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52,PINELLAS,Total Diplomas/Certificates/GEDs,"1,910","1,925",657,577,739,679,187,181,14,13,5,7,171,153,"3,683","3,535","7,218"
-52,PINELLAS,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52,PINELLAS,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-52,PINELLAS,Standard Diploma,"1,902","1,916",646,564,732,671,187,180,13,12,5,7,171,153,"3,656","3,503","7,159"
-52,PINELLAS,Certificate of Completion,8,9,11,13,7,8,0,1,1,1,0,0,0,0,27,32,59
-53,POLK,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53,POLK,Standard Diploma,"1,312","1,233",828,834,"1,552","1,556",72,82,8,11,11,9,83,85,"3,866","3,810","7,676"
-53,POLK,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53,POLK,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-53,POLK,Total Diplomas/Certificates/GEDs,"1,353","1,271",908,915,"1,744","1,692",74,82,9,12,12,10,87,88,"4,187","4,070","8,257"
-53,POLK,Certificate of Completion,41,38,80,81,192,136,2,0,1,1,1,1,4,3,321,260,581
-54,PUTNAM,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54,PUTNAM,Standard Diploma,147,160,93,66,73,62,2,3,0,0,0,1,19,8,334,300,634
-54,PUTNAM,Total Diplomas/Certificates/GEDs,149,160,93,66,73,62,2,3,0,0,0,1,19,8,336,300,636
-54,PUTNAM,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54,PUTNAM,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-54,PUTNAM,Certificate of Completion,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
-55,ST. JOHNS,Standard Diploma,"1,383","1,492",128,132,227,290,107,100,6,3,3,4,84,110,"1,938","2,131","4,069"
-55,ST. JOHNS,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-55,ST. JOHNS,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-55,ST. JOHNS,Total Diplomas/Certificates/GEDs,"1,386","1,498",128,133,228,292,107,100,6,3,3,4,85,110,"1,943","2,140","4,083"
-55,ST. JOHNS,Certificate of Completion,3,5,0,1,1,2,0,0,0,0,0,0,1,0,5,8,13
-55,ST. JOHNS,GED,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-56,ST. LUCIE,Standard Diploma,487,554,644,677,626,656,33,33,7,2,1,2,72,87,"1,870","2,011","3,881"
-56,ST. LUCIE,Total Diplomas/Certificates/GEDs,496,560,656,692,639,668,33,33,7,3,1,2,72,90,"1,904","2,048","3,952"
-56,ST. LUCIE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-56,ST. LUCIE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-56,ST. LUCIE,Certificate of Completion,9,6,12,15,13,12,0,0,0,1,0,0,0,3,34,37,71
-56,ST. LUCIE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-57,SANTA ROSA,Standard Diploma,857,935,49,57,97,100,29,24,8,5,6,6,85,95,"1,131","1,222","2,353"
-57,SANTA ROSA,Total Diplomas/Certificates/GEDs,875,949,51,59,100,101,29,24,8,5,6,6,87,98,"1,156","1,242","2,398"
-57,SANTA ROSA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-57,SANTA ROSA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-57,SANTA ROSA,Certificate of Completion,18,14,2,2,3,1,0,0,0,0,0,0,2,3,25,20,45
-57,SANTA ROSA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-58,SARASOTA,Standard Diploma,"1,025","1,048",113,108,378,427,48,48,1,2,5,2,99,93,"1,669","1,728","3,397"
-58,SARASOTA,Total Diplomas/Certificates/GEDs,"1,031","1,056",118,115,386,435,48,49,1,2,5,2,99,93,"1,688","1,752","3,440"
-58,SARASOTA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-58,SARASOTA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-58,SARASOTA,Certificate of Completion,6,8,5,7,8,8,0,1,0,0,0,0,0,0,19,24,43
-58,SARASOTA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-59,SEMINOLE,Standard Diploma,"1,198","1,187",354,323,756,728,158,137,11,9,8,9,85,104,"2,570","2,497","5,067"
-59,SEMINOLE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-59,SEMINOLE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-59,SEMINOLE,Total Diplomas/Certificates/GEDs,"1,208","1,196",373,349,772,747,158,140,11,9,8,10,87,105,"2,617","2,556","5,173"
-59,SEMINOLE,Certificate of Completion,9,9,19,26,16,19,0,3,0,0,0,1,2,1,46,59,105
-59,SEMINOLE,GED,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
-60,SUMTER,Standard Diploma,189,161,32,39,66,41,8,8,0,1,0,0,9,10,304,260,564
-60,SUMTER,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60,SUMTER,Total Diplomas/Certificates/GEDs,189,163,33,39,67,41,8,8,0,1,0,0,9,10,306,262,568
-60,SUMTER,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-60,SUMTER,Certificate of Completion,0,2,1,0,1,0,0,0,0,0,0,0,0,0,2,2,4
-60,SUMTER,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61,SUWANNEE,Standard Diploma,115,100,24,25,25,37,1,0,0,0,0,0,7,3,172,165,337
-61,SUWANNEE,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61,SUWANNEE,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-61,SUWANNEE,Certificate of Completion,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2
-61,SUWANNEE,Total Diplomas/Certificates/GEDs,116,100,25,25,25,37,1,0,0,0,0,0,7,3,174,165,339
-61,SUWANNEE,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62,TAYLOR,Standard Diploma,39,42,19,15,1,3,1,2,0,0,0,0,4,1,64,63,127
-62,TAYLOR,Total Diplomas/Certificates/GEDs,40,42,19,24,1,4,1,2,0,0,0,0,4,1,65,73,138
-62,TAYLOR,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62,TAYLOR,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-62,TAYLOR,Certificate of Completion,1,0,0,9,0,1,0,0,0,0,0,0,0,0,1,10,11
-62,TAYLOR,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63,UNION,Standard Diploma,44,49,6,13,1,1,0,0,0,0,0,1,4,7,55,71,126
-63,UNION,Total Diplomas/Certificates/GEDs,44,49,6,13,2,1,0,0,0,0,0,1,4,7,56,71,127
-63,UNION,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63,UNION,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-63,UNION,Certificate of Completion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
-63,UNION,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-64,VOLUSIA,Total Diplomas/Certificates/GEDs,"1,304","1,311",394,378,599,584,46,71,3,6,6,6,94,94,"2,446","2,450","4,896"
-64,VOLUSIA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-64,VOLUSIA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-64,VOLUSIA,Certificate of Completion,30,24,24,24,29,14,1,2,0,0,0,0,3,2,87,66,153
-64,VOLUSIA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-64,VOLUSIA,Standard Diploma,"1,274","1,287",370,354,570,570,45,69,3,6,6,6,91,92,"2,359","2,384","4,743"
-65,WAKULLA,Total Diplomas/Certificates/GEDs,117,121,16,20,5,11,0,3,0,0,0,0,9,5,147,160,307
-65,WAKULLA,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-65,WAKULLA,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-65,WAKULLA,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-65,WAKULLA,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-65,WAKULLA,Standard Diploma,117,121,16,20,5,11,0,3,0,0,0,0,9,5,147,160,307
-66,WALTON,Total Diplomas/Certificates/GEDs,289,302,16,17,64,57,4,2,0,1,2,2,11,10,386,391,777
-66,WALTON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-66,WALTON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-66,WALTON,Certificate of Completion,5,2,0,0,1,2,0,0,0,0,0,0,0,0,6,4,10
-66,WALTON,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-66,WALTON,Standard Diploma,284,300,16,17,63,55,4,2,0,1,2,2,11,10,380,387,767
-67,WASHINGTON,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-67,WASHINGTON,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-67,WASHINGTON,Total Diplomas/Certificates/GEDs,87,77,17,11,5,4,3,0,1,0,0,2,5,8,118,102,220
-67,WASHINGTON,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-67,WASHINGTON,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-67,WASHINGTON,Standard Diploma,87,77,17,11,5,4,3,0,1,0,0,2,5,8,118,102,220
-68,DEAF/BLIND,Total Diplomas/Certificates/GEDs,22,18,5,10,9,16,0,1,0,0,0,0,0,4,36,49,85
-68,DEAF/BLIND,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68,DEAF/BLIND,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68,DEAF/BLIND,Certificate of Completion,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2
-68,DEAF/BLIND,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-68,DEAF/BLIND,Standard Diploma,22,18,3,10,9,16,0,1,0,0,0,0,0,4,34,49,83
-71,FL VIRTUAL,Total Diplomas/Certificates/GEDs,330,280,68,32,217,137,15,18,0,0,3,1,42,26,675,494,"1,169"
-71,FL VIRTUAL,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71,FL VIRTUAL,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71,FL VIRTUAL,Certificate of Completion,5,8,1,0,4,2,0,0,0,0,1,0,1,1,12,11,23
-71,FL VIRTUAL,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-71,FL VIRTUAL,Standard Diploma,325,272,67,32,213,135,15,18,0,0,2,1,41,25,663,483,"1,146"
-72,FAU LAB SCH,Total Diplomas/Certificates/GEDs,40,26,17,13,28,30,18,10,0,0,0,0,6,3,109,82,191
-72,FAU LAB SCH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72,FAU LAB SCH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72,FAU LAB SCH,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72,FAU LAB SCH,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-72,FAU LAB SCH,Standard Diploma,40,26,17,13,28,30,18,10,0,0,0,0,6,3,109,82,191
-73,FSU LAB SCH,Total Diplomas/Certificates/GEDs,37,39,23,24,12,15,3,3,0,0,0,0,7,4,82,85,167
-73,FSU LAB SCH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73,FSU LAB SCH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73,FSU LAB SCH,Certificate of Completion,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2
-73,FSU LAB SCH,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-73,FSU LAB SCH,Standard Diploma,37,38,23,23,12,15,3,3,0,0,0,0,7,4,82,83,165
-74,FAMU LAB SCH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74,FAMU LAB SCH,Total Diplomas/Certificates/GEDs,0,0,15,17,0,0,0,0,0,0,0,0,0,0,15,17,32
-74,FAMU LAB SCH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74,FAMU LAB SCH,Standard Diploma,0,0,14,17,0,0,0,0,0,0,0,0,0,0,14,17,31
-74,FAMU LAB SCH,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-74,FAMU LAB SCH,Certificate of Completion,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
-75,UF LAB SCH,Special Diploma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-75,UF LAB SCH,Total Diplomas/Certificates/GEDs,25,31,17,15,11,13,1,1,0,0,0,0,8,4,62,64,126
-75,UF LAB SCH,Special Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-75,UF LAB SCH,Standard Diploma,25,31,17,15,11,13,1,1,0,0,0,0,8,4,62,64,126
-75,UF LAB SCH,GED,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-75,UF LAB SCH,Certificate of Completion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+﻿Cohort Graduation Rate Using Federal Guidelines 2023-24 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+School Information by Subgroup,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Note: An asterisk (*) indicates a subgroup population fewer than 10 students. A blank cell indicates no population for the subgroup.,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+District Number,District Name,School Number,Virtual Provider Number,School Name,Total Graduates,Total Cohort,Total Federal Graduation Rate,ESE Graduates,ESE Cohort,ESE Graduation Rate,Free/Reduced Lunch Graduates,Free/Reduced Lunch Cohort,Free/Reduced Lunch Graduation Rate,ELL Graduates,ELL Cohort,ELL Graduation Rate,Migrant Graduates,Migrant Cohort,Migrant Graduation Rate,At-Risk Graduates,At-Risk Cohort,At-Risk Graduation Rate,Male Graduates,Male Cohort,Male Graduation Rate,Female Graduates,Female Cohort,Female Graduation Rate
+01,ALACHUA,0052,,A.QUINN JONES CENTER,2,13,15.4,*,*,*,1,10,10,,,,,,,*,*,*,2,11,18.2,*,*,*
+01,ALACHUA,0081,,SIDNEY LANIER CENTER,13,13,100,13,13,100,*,*,*,,,,,,,,,,*,*,*,*,*,*
+01,ALACHUA,0082,,HOSPITAL HOMEBOUND,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+01,ALACHUA,0151,,GAINESVILLE HIGH SCHOOL,395,422,93.6,49,55,89.1,154,177,87,28,31,90.3,*,*,*,,,,151,162,93.2,244,260,93.8
+01,ALACHUA,0201,,HAWTHORNE MIDDLE/HIGH SCHOOL,50,61,82,10,12,83.3,37,46,80.4,,,,,,,*,*,*,24,34,70.6,26,27,96.3
+01,ALACHUA,0261,,NEWBERRY HIGH SCHOOL,153,158,96.8,16,17,94.1,72,74,97.3,*,*,*,*,*,*,,,,71,74,95.9,82,84,97.6
+01,ALACHUA,0271,,SANTA FE HIGH SCHOOL,228,264,86.4,26,35,74.3,85,105,81,*,*,*,*,*,*,,,,112,135,83,116,129,89.9
+01,ALACHUA,0411,,PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL,61,61,100,21,21,100,26,26,100,*,*,*,,,,,,,44,44,100,17,17,100
+01,ALACHUA,0421,,EASTSIDE HIGH SCHOOL,251,282,89,26,32,81.3,127,152,83.6,*,*,*,,,,,,,119,136,87.5,132,146,90.4
+01,ALACHUA,0431,,F. W. BUCHHOLZ HIGH SCHOOL,539,561,96.1,54,57,94.7,157,169,92.9,12,12,100,,,,*,*,*,308,318,96.9,231,243,95.1
+01,ALACHUA,0601,,CHALLENGE AT ALACHUA ACADEMY,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+01,ALACHUA,0603,,AMIKIDS,*,*,*,,,,*,*,*,,,,,,,*,*,*,*,*,*,,,
+01,ALACHUA,0604,,PACE,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,,,,*,*,*
+01,ALACHUA,0924,,SANTA FE COLLEGE HIGH SCHOOL DUAL ENROLLMENT,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+01,ALACHUA,0961,,MICANOPY ACADEMY,13,13,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+01,ALACHUA,0991,,"SIATECH MYCROSCHOOL, INC.",17,54,31.5,4,12,33.3,12,37,32.4,*,*,*,,,,*,*,*,12,40,30,5,14,35.7
+01,ALACHUA,1003,,NORTH CENTRAL FLORIDA PUBLIC CHARTER SCHOOL,13,69,18.8,6,20,30,9,58,15.5,*,*,*,,,,*,*,*,5,28,17.9,8,41,19.5
+01,ALACHUA,7004,,ALACHUA ESCHOOL (VIRTUAL FRANCHISE),50,82,61,9,15,60,27,49,55.1,,,,,,,,,,24,42,57.1,26,40,65
+01,ALACHUA,9025,,ALACHUA REGIONAL JUEVNILE DETENTION CENTER,2,57,3.5,2,11,18.2,1,31,3.2,,,,,,,*,*,*,2,49,4.1,*,*,*
+01,ALACHUA,9029,,ALACHUA REGIONAL JUVENILE DETENTION CENTER,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,,,
+02,BAKER,0012,,BAKER COUNTY SENIOR HIGH SCHOOL,291,350,83.1,34,42,81,44,57,77.2,,,,,,,,,,138,181,76.2,153,169,90.5
+03,BAY,0061,,BAY HIGH SCHOOL,254,285,89.1,46,55,83.6,38,46,82.6,21,22,95.5,,,,,,,135,154,87.7,119,131,90.8
+03,BAY,0201,,SURFSIDE MIDDLE SCHOOL,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+03,BAY,0281,,MARGARET K. LEWIS IN MILLVILLE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+03,BAY,0341,,RUTHERFORD HIGH SCHOOL,168,188,89.4,27,28,96.4,29,33,87.9,10,11,90.9,,,,*,*,*,82,94,87.2,86,94,91.5
+03,BAY,0491,,A. CRAWFORD MOSLEY HIGH SCHOOL,464,482,96.3,52,56,92.9,35,39,89.7,9,12,75,,,,*,*,*,223,237,94.1,241,245,98.4
+03,BAY,0531,,NEW HORIZONS LEARNING CENTER,9,16,56.3,9,16,56.3,*,*,*,*,*,*,,,,,,,9,15,60,*,*,*
+03,BAY,0541,,DEANE BOZEMAN SCHOOL,149,151,98.7,20,21,95.2,14,15,93.3,*,*,*,,,,,,,73,73,100,76,78,97.4
+03,BAY,0551,,J.R. ARNOLD HIGH SCHOOL,356,373,95.4,51,56,91.1,30,33,90.9,25,30,83.3,,,,*,*,*,193,205,94.1,163,168,97
+03,BAY,0581,,ROSENWALD HIGH SCHOOL,101,147,68.7,32,35,91.4,29,40,72.5,7,12,58.3,,,,*,*,*,49,71,69,52,76,68.4
+03,BAY,0602,,BAY REGIONAL JUVENILE DETENTION CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+03,BAY,0741,,NORTH BAY HAVEN CAREER ACADEMY,211,211,100,10,10,100,36,36,100,*,*,*,,,,,,,94,94,100,117,117,100
+03,BAY,0764,,AMIKIDS MARITIME ACADEMY,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+03,BAY,0771,,PALM BAY PREPARATORY ACADEMY 6-12,12,12,100,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+03,BAY,0781,,CHAUTAUQUA CHARTER SCHOOL,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+03,BAY,0782,,CENTRAL HIGH SCHOOL,41,72,56.9,10,19,52.6,12,23,52.2,*,*,*,,,,,,,18,38,47.4,23,34,67.6
+03,BAY,2701,,RISING LEADERS ACADEMY,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+03,BAY,7004,,BAY VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+03,BAY,7023,,BAY VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED),51,51,100,*,*,*,*,*,*,,,,,,,,,,20,20,100,31,31,100
+04,BRADFORD,0021,,BRADFORD HIGH SCHOOL,178,203,87.7,32,41,78,14,19,73.7,,,,,,,*,*,*,79,95,83.2,99,108,91.7
+04,BRADFORD,7001,309,EDGENUITY – GRADES KG-12,*,*,*,,,,,,,,,,,,,*,*,*,*,*,*,,,
+04,BRADFORD,7004,,BRADFORD VIRTUAL FRANCHISE WITH FLVS,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+05,BREVARD,0011,,TITUSVILLE HIGH SCHOOL,278,300,92.7,36,41,87.8,150,168,89.3,8,10,80,,,,,,,132,146,90.4,146,154,94.8
+05,BREVARD,0082,,BREVARD ADULT EDUCATION AT TITUSVILLE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+05,BREVARD,0089,,GARDENDALE SEPARATE DAY SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+05,BREVARD,0161,,ASTRONAUT HIGH SCHOOL,227,254,89.4,52,61,85.2,112,135,83,*,*,*,,,,,,,107,127,84.3,120,127,94.5
+05,BREVARD,0302,,SPACE COAST JUNIOR/SENIOR HIGH SCHOOL,200,209,95.7,37,39,94.9,81,85,95.3,,,,,,,*,*,*,113,119,95,87,90,96.7
+05,BREVARD,1011,,ROCKLEDGE SENIOR HIGH SCHOOL,341,383,89,55,65,84.6,174,202,86.1,12,17,70.6,,,,*,*,*,165,196,84.2,176,187,94.1
+05,BREVARD,1014,,BREVARD COUNTY JAIL COMPLEX,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+05,BREVARD,1017,,NORTH/CENTRAL AREA ALTERNATIVE LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+05,BREVARD,1018,,SOUTH AREA ALTERNATIVE LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+05,BREVARD,1025,,BREVARD COUNTY JUVENILE DETENTION CENTER,0,12,0,,,,,,,,,,,,,*,*,*,0,10,0,*,*,*
+05,BREVARD,1028,,DEVEREUX HOSPITAL,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+05,BREVARD,1029,,RIVERDALE COUNTRY DAY SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+05,BREVARD,1073,,PROJECT SEARCH,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+05,BREVARD,1121,,COCOA HIGH SCHOOL,193,269,71.7,40,67,59.7,152,209,72.7,17,31,54.8,,,,*,*,*,113,157,72,80,112,71.4
+05,BREVARD,1171,,VIERA HIGH SCHOOL,567,578,98.1,52,57,91.2,70,76,92.1,15,15,100,,,,,,,292,298,98,275,280,98.2
+05,BREVARD,2011,,MELBOURNE SENIOR HIGH SCHOOL,492,534,92.1,49,60,81.7,129,155,83.2,26,27,96.3,,,,*,*,*,230,258,89.1,262,276,94.9
+05,BREVARD,2021,,PALM BAY MAGNET SENIOR HIGH SCHOOL,254,300,84.7,57,64,89.1,170,205,82.9,14,20,70,,,,*,*,*,131,157,83.4,123,143,86
+05,BREVARD,2211,,BAYSIDE HIGH SCHOOL,364,453,80.4,57,68,83.8,185,245,75.5,33,46,71.7,,,,*,*,*,192,242,79.3,172,211,81.5
+05,BREVARD,2311,,HERITAGE HIGH SCHOOL,482,535,90.1,77,88,87.5,288,324,88.9,24,33,72.7,,,,*,*,*,199,225,88.4,283,310,91.3
+05,BREVARD,3011,,EAU GALLIE HIGH SCHOOL,313,374,83.7,56,67,83.6,159,209,76.1,7,16,43.8,,,,*,*,*,151,187,80.7,162,187,86.6
+05,BREVARD,3141,,WEST SHORE JUNIOR/SENIOR HIGH SCHOOL,138,138,100,*,*,*,18,18,100,,,,,,,,,,62,62,100,76,76,100
+05,BREVARD,4011,,MERRITT ISLAND HIGH SCHOOL,373,377,98.9,64,65,98.5,120,123,97.6,*,*,*,,,,,,,184,187,98.4,189,190,99.5
+05,BREVARD,4021,,EDGEWOOD JR/SR HIGH SCHOOL,121,121,100,*,*,*,22,22,100,,,,,,,,,,61,61,100,60,60,100
+05,BREVARD,5011,,COCOA BEACH JUNIOR/SENIOR HIGH SCHOOL,159,168,94.6,21,24,87.5,35,38,92.1,*,*,*,,,,*,*,*,79,83,95.2,80,85,94.1
+05,BREVARD,6011,,SATELLITE SENIOR HIGH SCHOOL,373,378,98.7,39,40,97.5,75,77,97.4,*,*,*,,,,,,,174,178,97.8,199,200,99.5
+05,BREVARD,6507,,ODYSSEY CHARTER SCHOOL,70,76,92.1,10,12,83.3,31,35,88.6,*,*,*,,,,*,*,*,33,37,89.2,37,39,94.9
+05,BREVARD,6521,,RIVERSIDE CHARTER HIGH SCHOOL,26,56,46.4,4,15,26.7,11,29,37.9,,,,,,,,,,15,30,50,11,26,42.3
+05,BREVARD,6543,,PINEAPPLE COVE CLASSICAL ACADEMY,51,51,100,*,*,*,,,,*,*,*,,,,,,,24,24,100,27,27,100
+05,BREVARD,7004,,BREVARD VIRTUAL FRANCHISE,43,49,87.8,*,*,*,14,17,82.4,*,*,*,,,,,,,20,22,90.9,23,27,85.2
+06,BROWARD,0171,,SOUTH BROWARD HIGH SCHOOL,512,560,91.4,64,71,90.1,291,318,91.5,69,88,78.4,,,,*,*,*,263,290,90.7,249,270,92.2
+06,BROWARD,0185,,POMPANO BEACH HIGH SCHOOL,268,268,100,*,*,*,117,117,100,*,*,*,,,,,,,134,134,100,134,134,100
+06,BROWARD,0211,,STRANAHAN HIGH SCHOOL,272,277,98.2,35,36,97.2,214,218,98.2,28,30,93.3,,,,,,,128,131,97.7,144,146,98.6
+06,BROWARD,0241,,MCARTHUR HIGH SCHOOL,459,510,90,61,67,91,310,346,89.6,78,99,78.8,,,,*,*,*,235,267,88,224,243,92.2
+06,BROWARD,0361,,BLANCHE ELY HIGH SCHOOL,355,397,89.4,35,39,89.7,288,318,90.6,40,49,81.6,*,*,*,,,,155,171,90.6,200,226,88.5
+06,BROWARD,0371,,DILLARD 6-12,397,427,93,61,62,98.4,316,342,92.4,23,26,88.5,*,*,*,,,,186,204,91.2,211,223,94.6
+06,BROWARD,0403,,HALLANDALE HIGH SCHOOL,210,223,94.2,30,32,93.8,152,161,94.4,32,38,84.2,,,,,,,108,113,95.6,102,110,92.7
+06,BROWARD,0405,,LANIER-JAMES EDUCATION CENTER,5,20,25,*,*,*,3,16,18.8,*,*,*,,,,,,,4,16,25,*,*,*
+06,BROWARD,0452,,WHIDDON RODGERS EDUCATION CENTER,65,222,29.3,21,44,47.7,52,176,29.5,13,33,39.4,*,*,*,*,*,*,42,139,30.2,23,83,27.7
+06,BROWARD,0601,,SEAGULL SCHOOL,31,51,60.8,12,18,66.7,25,41,61,*,*,*,,,,,,,11,23,47.8,20,28,71.4
+06,BROWARD,0871,,BRIGHT HORIZONS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+06,BROWARD,0951,,FORT LAUDERDALE HIGH SCHOOL,486,491,99,55,56,98.2,265,269,98.5,32,34,94.1,*,*,*,*,*,*,200,201,99.5,286,290,98.6
+06,BROWARD,0991,,WINGATE OAKS CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+06,BROWARD,1021,,THE QUEST CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+06,BROWARD,1051,,SHERIDAN TECHNICAL COLLEGE,98,100,98,*,*,*,58,58,100,*,*,*,,,,,,,42,42,100,56,58,96.6
+06,BROWARD,1151,,CORAL SPRINGS HIGH SCHOOL,506,516,98.1,92,93,98.9,290,298,97.3,87,90,96.7,,,,*,*,*,239,244,98,267,272,98.2
+06,BROWARD,1241,,NORTHEAST HIGH SCHOOL,297,305,97.4,36,36,100,212,218,97.2,35,38,92.1,*,*,*,,,,145,146,99.3,152,159,95.6
+06,BROWARD,1281,,NOVA HIGH SCHOOL,492,505,97.4,54,55,98.2,305,315,96.8,13,16,81.3,,,,,,,237,245,96.7,255,260,98.1
+06,BROWARD,1291,,MCFATTER TECHNICAL COLLEGE,132,132,100,12,12,100,65,65,100,*,*,*,,,,,,,83,83,100,49,49,100
+06,BROWARD,1391,,LAUDERHILL 6-12,18,18,100,*,*,*,11,11,100,,,,,,,,,,11,11,100,*,*,*
+06,BROWARD,1451,,PLANTATION HIGH SCHOOL,394,421,93.6,50,50,100,267,286,93.4,52,61,85.2,,,,*,*,*,206,223,92.4,188,198,94.9
+06,BROWARD,1661,,HOLLYWOOD HILLS HIGH SCHOOL,306,334,91.6,54,59,91.5,209,230,90.9,44,53,83,,,,,,,166,183,90.7,140,151,92.7
+06,BROWARD,1681,,COCONUT CREEK HIGH SCHOOL,346,389,88.9,50,55,90.9,265,296,89.5,32,40,80,*,*,*,*,*,*,171,185,92.4,175,204,85.8
+06,BROWARD,1711,,DEERFIELD BEACH HIGH SCHOOL,413,449,92,64,65,98.5,290,312,92.9,83,101,82.2,*,*,*,*,*,*,202,216,93.5,211,233,90.6
+06,BROWARD,1741,,BOYD H. ANDERSON HIGH SCHOOL,360,375,96,42,42,100,270,279,96.8,70,72,97.2,,,,*,*,*,173,185,93.5,187,190,98.4
+06,BROWARD,1751,,MIRAMAR HIGH SCHOOL,406,437,92.9,48,53,90.6,297,318,93.4,46,54,85.2,,,,*,*,*,189,210,90,217,227,95.6
+06,BROWARD,1752,,WHISPERING PINES EXCEPTIONAL EDUCATION CENTER,9,19,47.4,9,19,47.4,7,14,50,,,,,,,*,*,*,6,13,46.2,*,*,*
+06,BROWARD,1901,,PIPER HIGH SCHOOL,586,594,98.7,83,84,98.8,390,396,98.5,52,53,98.1,,,,*,*,*,287,293,98,299,301,99.3
+06,BROWARD,1931,,COOPER CITY HIGH SCHOOL,534,540,98.9,70,71,98.6,154,157,98.1,27,29,93.1,,,,,,,250,253,98.8,284,287,99
+06,BROWARD,2123,,CYPRESS RUN ALTERNATIVE CENTER,2,14,14.3,*,*,*,2,13,15.4,*,*,*,,,,,,,*,*,*,*,*,*
+06,BROWARD,2221,,ATLANTIC TECHNICAL COLLEGE,140,140,100,*,*,*,103,103,100,*,*,*,,,,,,,52,52,100,88,88,100
+06,BROWARD,2351,,SOUTH PLANTATION HIGH SCHOOL,504,512,98.4,64,65,98.5,299,303,98.7,53,55,96.4,,,,*,*,*,238,244,97.5,266,268,99.3
+06,BROWARD,2751,,J. P. TARAVELLA HIGH SCHOOL,543,578,93.9,68,71,95.8,301,323,93.2,53,60,88.3,,,,*,*,*,287,310,92.6,256,268,95.5
+06,BROWARD,2831,,WESTERN HIGH SCHOOL,819,851,96.2,99,100,99,338,352,96,80,98,81.6,,,,*,*,*,433,453,95.6,386,398,97
+06,BROWARD,3011,,MARJORY STONEMAN DOUGLAS HIGH SCHOOL,830,838,99,85,87,97.7,187,189,98.9,48,49,98,,,,,,,437,443,98.6,393,395,99.5
+06,BROWARD,3222,,CROSS CREEK SCHOOL,10,16,62.5,10,16,62.5,9,15,60,,,,,,,*,*,*,9,12,75,*,*,*
+06,BROWARD,3391,,CHARLES W FLANAGAN HIGH SCHOOL,590,599,98.5,68,70,97.1,325,330,98.5,78,80,97.5,,,,,,,282,286,98.6,308,313,98.4
+06,BROWARD,3541,,MONARCH HIGH SCHOOL,507,535,94.8,81,81,100,246,261,94.3,35,47,74.5,,,,,,,261,278,93.9,246,257,95.7
+06,BROWARD,3623,,CYPRESS BAY HIGH SCHOOL,"1,091","1,113",98,86,91,94.5,184,191,96.3,141,150,94,,,,*,*,*,564,573,98.4,527,540,97.6
+06,BROWARD,3651,,DAVE THOMAS EDUCATION CENTER WEST,109,264,41.3,29,54,53.7,84,206,40.8,26,52,50,,,,*,*,*,62,161,38.5,47,103,45.6
+06,BROWARD,3731,,EVERGLADES HIGH SCHOOL,439,448,98,44,44,100,237,243,97.5,32,38,84.2,,,,*,*,*,240,246,97.6,199,202,98.5
+06,BROWARD,3851,,COLLEGE ACADEMY AT BROWARD COLLEGE,219,219,100,*,*,*,84,84,100,*,*,*,,,,,,,88,88,100,131,131,100
+06,BROWARD,3861,,CORAL GLADES HIGH SCHOOL,640,658,97.3,90,92,97.8,357,371,96.2,67,71,94.4,,,,*,*,*,287,298,96.3,353,360,98.1
+06,BROWARD,3971,,WEST BROWARD HIGH SCHOOL,624,633,98.6,79,81,97.5,199,201,99,36,39,92.3,,,,,,,303,311,97.4,321,322,99.7
+06,BROWARD,4772,,MILLENNIUM 6-12 COLLEGIATE ACADEMY,57,57,100,*,*,*,37,37,100,,,,,,,*,*,*,17,17,100,40,40,100
+06,BROWARD,5006,,SOMERSET PREPARATORY ACADEMY CHARTER HIGH AT NORTH LAUDERDALE,74,80,92.5,*,*,*,63,67,94,*,*,*,,,,,,,34,37,91.9,40,43,93
+06,BROWARD,5007,,SOMERSET ACADEMY CHARTER HIGH SCHOOL MIRAMAR CAMPUS,48,48,100,*,*,*,34,34,100,*,*,*,,,,,,,17,17,100,31,31,100
+06,BROWARD,5009,,ANDREWS HIGH SCHOOL,34,38,89.5,*,*,*,24,27,88.9,19,20,95,,,,,,,19,21,90.5,15,17,88.2
+06,BROWARD,5028,,ACADEMIC SOLUTIONS HIGH SCHOOL,11,80,13.8,3,17,17.6,6,48,12.5,0,22,0,,,,,,,5,43,11.6,6,37,16.2
+06,BROWARD,5053,,SUNED HIGH OF SOUTH BROWARD,19,179,10.6,6,45,13.3,15,128,11.7,2,33,6.1,,,,*,*,*,8,118,6.8,11,61,18
+06,BROWARD,5060,,SUNFIRE HIGH SCHOOL,13,133,9.8,3,19,15.8,10,97,10.3,0,16,0,,,,*,*,*,6,81,7.4,7,52,13.5
+06,BROWARD,5091,,CORAL SPRINGS CHARTER SCHOOL,208,208,100,25,25,100,70,70,100,*,*,*,,,,,,,103,103,100,105,105,100
+06,BROWARD,5121,,CITY/PEMBROKE PINES CHARTER HIGH SCHOOL,432,437,98.9,36,36,100,136,139,97.8,*,*,*,,,,,,,202,205,98.5,230,232,99.1
+06,BROWARD,5142,,FRANKLIN ACADEMY PEMBROKE PINES HIGH SCHOOL,192,209,91.9,20,21,95.2,92,100,92,36,41,87.8,,,,*,*,*,96,104,92.3,96,105,91.4
+06,BROWARD,5209,,ASCEND CAREER ACADEMY,26,64,40.6,*,*,*,21,54,38.9,2,13,15.4,,,,,,,10,33,30.3,16,31,51.6
+06,BROWARD,5219,,CHAMPIONSHIP ACADEMY OF DISTINCTION HIGH SCHOOL,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+06,BROWARD,5221,,SOMERSET ACADEMY CHARTER HIGH,357,362,98.6,38,38,100,138,140,98.6,21,23,91.3,,,,*,*,*,182,182,100,175,180,97.2
+06,BROWARD,5224,,SOMERSET ACADEMY KEY CHARTER HIGH SCHOOL,52,63,82.5,*,*,*,42,51,82.4,7,10,70,,,,,,,36,43,83.7,16,20,80
+06,BROWARD,5233,,ACADEMIC SOLUTIONS ACADEMY A,6,71,8.5,*,*,*,5,55,9.1,2,20,10,*,*,*,,,,3,43,7,3,28,10.7
+06,BROWARD,5396,,SOMERSET ARTS CONSERVATORY,121,121,100,11,11,100,37,37,100,*,*,*,,,,,,,43,43,100,78,78,100
+06,BROWARD,5416,,INTERNATIONAL SCHOOL OF BROWARD,8,10,80,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+06,BROWARD,5481,,SUNRISE HIGH SCHOOL,46,90,51.1,10,20,50,39,75,52,11,18,61.1,,,,*,*,*,19,43,44.2,27,47,57.4
+06,BROWARD,5531,,BROWARD CHILDREN'S CENTER NORTH,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+06,BROWARD,5555,,INTERNATIONAL STUDIES ACADEMY HIGH SCHOOL,31,33,93.9,*,*,*,15,16,93.8,10,12,83.3,,,,,,,17,18,94.4,14,15,93.3
+06,BROWARD,5791,,AVANT GARDE ACADEMY OF BROWARD,85,86,98.8,11,11,100,44,45,97.8,33,33,100,,,,,,,42,42,100,43,44,97.7
+06,BROWARD,5861,,SUNED HIGH SCHOOL OF NORTH BROWARD,20,165,12.1,3,43,7,14,118,11.9,0,19,0,,,,,,,10,100,10,10,65,15.4
+06,BROWARD,6011,,BROWARD DETENTION CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+06,BROWARD,6017,,BROWARD YOUTH TREATMENT CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+06,BROWARD,6051,,AMIKIDS OF GREATER FORT LAUDERDALE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+06,BROWARD,6091,,"PACE CENTER FOR GIRLS, INC.",*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+06,BROWARD,6501,,HENRY D PERRY EDUCATION CENTER,187,616,30.4,52,102,51,111,438,25.3,39,106,36.8,,,,*,*,*,111,375,29.6,76,241,31.5
+06,BROWARD,7004,,BROWARD VIRTUAL FRANCHISE,165,165,100,14,14,100,33,33,100,*,*,*,,,,,,,71,71,100,94,94,100
+07,CALHOUN,0021,,BLOUNTSTOWN HIGH SCHOOL,110,114,96.5,29,30,96.7,*,*,*,,,,,,,,,,52,54,96.3,58,60,96.7
+07,CALHOUN,0101,,ALTHA PUBLIC SCHOOL,38,40,95,*,*,*,*,*,*,*,*,*,,,,,,,19,20,95,19,20,95
+07,CALHOUN,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+07,CALHOUN,7004,,CALHOUN VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+08,CHARLOTTE,0031,,CHARLOTTE HIGH SCHOOL,403,441,91.4,80,88,90.9,187,212,88.2,16,22,72.7,,,,*,*,*,207,236,87.7,196,205,95.6
+08,CHARLOTTE,0042,,CHARLOTTE HARBOR SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+08,CHARLOTTE,0051,,LEMON BAY HIGH SCHOOL,333,340,97.9,54,58,93.1,111,113,98.2,*,*,*,,,,*,*,*,179,186,96.2,154,154,100
+08,CHARLOTTE,0151,,PORT CHARLOTTE HIGH SCHOOL,307,362,84.8,84,96,87.5,160,195,82.1,13,16,81.3,,,,*,*,*,175,204,85.8,132,158,83.5
+08,CHARLOTTE,0171,,THE ACADEMY,109,199,54.8,42,70,60,70,141,49.6,*,*,*,,,,*,*,*,63,114,55.3,46,85,54.1
+08,CHARLOTTE,0502,,FLORIDA SOUTHWESTERN COLLEGIATE HIGH SCHOOL,84,84,100,*,*,*,27,27,100,*,*,*,,,,,,,44,44,100,40,40,100
+08,CHARLOTTE,0503,,BABCOCK NEIGHBORHOOD SCHOOL,33,37,89.2,*,*,*,*,*,*,*,*,*,,,,,,,16,18,88.9,17,19,89.5
+08,CHARLOTTE,7004,,CHARLOTTE VIRTUAL FRANCHISE,31,31,100,*,*,*,13,13,100,,,,,,,,,,10,10,100,21,21,100
+09,CITRUS,0031,,CITRUS HIGH SCHOOL,322,342,94.2,46,48,95.8,205,220,93.2,*,*,*,,,,,,,152,164,92.7,170,178,95.5
+09,CITRUS,0121,,CRYSTAL RIVER HIGH SCHOOL,280,301,93,48,52,92.3,164,184,89.1,*,*,*,*,*,*,,,,132,143,92.3,148,158,93.7
+09,CITRUS,0163,,LECANTO HIGH SCHOOL,376,397,94.7,42,45,93.3,191,203,94.1,*,*,*,,,,,,,165,177,93.2,211,220,95.9
+09,CITRUS,0201,,CREST SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+09,CITRUS,0321,,SRMI @ RENAISSANCE CENTER,0,17,0,*,*,*,0,16,0,,,,,,,,,,0,14,0,*,*,*
+09,CITRUS,7023,,CITRUS ESCHOOL 6-12,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+09,CITRUS,7073,,CAMP E-NINI HASSEE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+09,CITRUS,8001,,CYPRESS CREEK TREATMENT CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+09,CITRUS,8003,,PACE CENTER FOR GIRLS,*,*,*,,,,*,*,*,,,,,,,*,*,*,,,,*,*,*
+10,CLAY,0020,,FLORIDA YOUTH CHALLENGE ACADEMY,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+10,CLAY,0111,,R. C. BANNERMAN LEARNING CENTER,135,194,69.6,52,65,80,60,88,68.2,*,*,*,,,,,,,96,133,72.2,39,61,63.9
+10,CLAY,0112,,PACE CENTER FOR GIRLS CLAY,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+10,CLAY,0113,,AMIKIDS CLAY COUNTY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+10,CLAY,0252,,ORANGE PARK HIGH SCHOOL,421,459,91.7,61,67,91,90,101,89.1,25,26,96.2,,,,*,*,*,224,249,90,197,210,93.8
+10,CLAY,0311,,KEYSTONE HEIGHTS JUNIOR/SENIOR HIGH,182,196,92.9,41,42,97.6,14,17,82.4,,,,,,,,,,89,96,92.7,93,100,93
+10,CLAY,0341,,CLAY HIGH SCHOOL,382,411,92.9,76,80,95,140,160,87.5,10,13,76.9,,,,*,*,*,178,195,91.3,204,216,94.4
+10,CLAY,0391,,MIDDLEBURG HIGH SCHOOL,400,415,96.4,68,74,91.9,160,168,95.2,*,*,*,,,,,,,202,212,95.3,198,203,97.5
+10,CLAY,0431,,RIDGEVIEW HIGH SCHOOL,399,417,95.7,78,83,94,170,181,93.9,21,22,95.5,,,,,,,200,212,94.3,199,205,97.1
+10,CLAY,0551,,FLEMING ISLAND HIGH SCHOOL,494,509,97.1,49,53,92.5,103,107,96.3,*,*,*,,,,,,,246,251,98,248,258,96.1
+10,CLAY,0661,,OAKLEAF HIGH SCHOOL,567,581,97.6,64,66,97,187,194,96.4,24,27,88.9,,,,,,,261,269,97,306,312,98.1
+10,CLAY,0663,,FLORIDA CYBER CHARTER ACADEMY AT CLAY,25,33,75.8,*,*,*,6,11,54.5,*,*,*,,,,*,*,*,9,13,69.2,16,20,80
+10,CLAY,0667,,ST JOHNS CLASSICAL ACADEMY,30,30,100,*,*,*,*,*,*,,,,,,,,,,20,20,100,10,10,100
+10,CLAY,7004,,CLAY VIRTUAL FRANCHISE,34,35,97.1,*,*,*,*,*,*,,,,,,,,,,13,13,100,21,22,95.5
+11,COLLIER,0051,,EVERGLADES CITY SCHOOL,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+11,COLLIER,0151,,NAPLES HIGH SCHOOL,426,460,92.6,69,78,88.5,234,261,89.7,47,57,82.5,,,,*,*,*,221,244,90.6,205,216,94.9
+11,COLLIER,0261,,LELY HIGH SCHOOL,345,379,91,77,87,88.5,275,302,91.1,56,72,77.8,*,*,*,*,*,*,171,189,90.5,174,190,91.6
+11,COLLIER,0271,,IMMOKALEE HIGH SCHOOL,493,573,86,115,125,92,473,547,86.5,46,79,58.2,195,228,85.5,,,,234,294,79.6,259,279,92.8
+11,COLLIER,0282,,LORENZO WALKER TECHNICAL HIGH SCHOOL,146,146,100,13,13,100,102,102,100,*,*,*,*,*,*,,,,47,47,100,99,99,100
+11,COLLIER,0311,,BARRON COLLIER HIGH SCHOOL,401,421,95.2,49,52,94.2,113,130,86.9,29,37,78.4,,,,,,,192,205,93.7,209,216,96.8
+11,COLLIER,0392,,GULF COAST HIGH SCHOOL,547,579,94.5,58,61,95.1,168,186,90.3,33,38,86.8,*,*,*,,,,276,293,94.2,271,286,94.8
+11,COLLIER,0493,,PALMETTO RIDGE HIGH SCHOOL,494,531,93,85,94,90.4,287,315,91.1,43,47,91.5,,,,*,*,*,262,284,92.3,232,247,93.9
+11,COLLIER,0501,,GOLDEN GATE HIGH SCHOOL,412,457,90.2,74,80,92.5,325,363,89.5,92,118,78,,,,*,*,*,226,252,89.7,186,205,90.7
+11,COLLIER,0581,,IMMOKALEE TECHNICAL COLLEGE,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+11,COLLIER,0641,,AUBREY ROGERS HIGH SCHOOL,132,136,97.1,32,32,100,50,54,92.6,9,12,75,*,*,*,*,*,*,70,71,98.6,62,65,95.4
+11,COLLIER,7001,071,FLORIDA VIRTUAL SCHOOL – GRADES KG-12,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+11,COLLIER,9004,,IMMOKALEE TEEN PARENTING PROG,*,*,*,,,,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*
+11,COLLIER,9008,,NAPLES AREA TEENAGE PARENTING,0,10,0,*,*,*,0,10,0,*,*,*,,,,,,,,,,0,10,0
+11,COLLIER,9013,,COLLIER JUVENILE DETENTION CENTER,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+11,COLLIER,9015,,THE PHOENIX PROGRAM NAPLES,1,19,5.3,*,*,*,1,17,5.9,*,*,*,*,*,*,,,,1,18,5.6,*,*,*
+11,COLLIER,9017,,THE PACE PROGRAM,*,*,*,,,,*,*,*,,,,*,*,*,,,,,,,*,*,*
+11,COLLIER,9026,,THE PHOENIX PROGRAM-IMMOKALEE,0,12,0,*,*,*,0,12,0,,,,*,*,*,*,*,*,*,*,*,*,*,*
+11,COLLIER,9032,,MARCO ISLAND ACADEMY,67,67,100,*,*,*,12,12,100,*,*,*,,,,,,,33,33,100,34,34,100
+11,COLLIER,9035,,MASON CLASSICAL ACADEMY,49,49,100,*,*,*,*,*,*,*,*,*,,,,,,,23,23,100,26,26,100
+11,COLLIER,9039,,NAPLES CLASSICAL ACADEMY,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+12,COLUMBIA,0011,,COLUMBIA HIGH SCHOOL,331,378,87.6,55,59,93.2,146,175,83.4,*,*,*,,,,,,,158,183,86.3,173,195,88.7
+12,COLUMBIA,0123,,FORT WHITE HIGH SCHOOL,155,169,91.7,24,25,96,76,82,92.7,*,*,*,*,*,*,*,*,*,69,77,89.6,86,92,93.5
+12,COLUMBIA,0221,,PATHWAYS ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+12,COLUMBIA,0402,,BELMONT ACADEMY,48,48,100,*,*,*,*,*,*,,,,,,,,,,25,25,100,23,23,100
+12,COLUMBIA,7023,,COLUMBIA VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED),*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,0921,,NEVA KING COOPER EDUCATIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,1000,,TRUE NORTH CLASSICAL ACADEMY,56,58,96.6,*,*,*,12,12,100,*,*,*,,,,,,,35,36,97.2,21,22,95.5
+13,MIAMI-DADE,1070,,SOUTH FLORIDA AUTISM CHARTER SCHOOL INC,16,19,84.2,16,19,84.2,12,14,85.7,*,*,*,,,,,,,15,17,88.2,*,*,*
+13,MIAMI-DADE,3034,,BRIDGEPREP ACADEMY OF VILLAGE GREEN,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,3036,,BRIDGEPREP ACADEMY OF VILLAGE GREEN MIDDLE HIGH SCHOOL,44,44,100,*,*,*,28,28,100,11,11,100,,,,,,,30,30,100,14,14,100
+13,MIAMI-DADE,5007,,LINCOLN-MARTI CHARTER SCHOOL (HIALEAH CAMPUS),*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,6016,,COLEGIATE PREPARATORY ACADEMY,26,30,86.7,*,*,*,*,*,*,,,,,,,,,,18,19,94.7,8,11,72.7
+13,MIAMI-DADE,6017,,INTERNATIONAL STUDIES VIRTUAL ACADEMY,11,12,91.7,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,6018,,THE SEED SCHOOL OF MIAMI,28,32,87.5,*,*,*,28,32,87.5,*,*,*,,,,,,,18,20,90,10,12,83.3
+13,MIAMI-DADE,6040,,DOCTORS CHARTER SCHOOL OF MIAMI SHORES,72,72,100,*,*,*,47,47,100,*,*,*,,,,,,,41,41,100,31,31,100
+13,MIAMI-DADE,6052,,MIAMI ARTS STUDIO 6-12 AT ZELDA GLAZER,235,235,100,21,21,100,125,125,100,*,*,*,,,,,,,94,94,100,141,141,100
+13,MIAMI-DADE,6081,,CUTLER BAY SENIOR HIGH SCHOOL,144,144,100,10,10,100,70,70,100,*,*,*,,,,,,,76,76,100,68,68,100
+13,MIAMI-DADE,6093,,ACADEMY FOR INNOVATIVE EDUCATION,33,33,100,*,*,*,30,30,100,*,*,*,,,,,,,15,15,100,18,18,100
+13,MIAMI-DADE,6997,,MATER ACADEMY VIRTUAL CHARTER SCHOOL,11,13,84.6,*,*,*,9,10,90,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",23,24,95.8,*,*,*,11,11,100,,,,,,,,,,*,*,*,15,16,93.8
+13,MIAMI-DADE,7004,,MIAMI-DADE VIRTUAL HIGH SCHOOL FRANCHISE,46,58,79.3,16,17,94.1,34,45,75.6,*,*,*,,,,,,,20,25,80,26,33,78.8
+13,MIAMI-DADE,7005,,ITECH@THOMAS A EDISON EDUCATIONAL CENTER,52,55,94.5,*,*,*,48,51,94.1,*,*,*,,,,,,,34,36,94.4,18,19,94.7
+13,MIAMI-DADE,7006,,GRADUATION ALLIANCE,7,37,18.9,*,*,*,5,31,16.1,2,11,18.2,,,,,,,2,11,18.2,5,26,19.2
+13,MIAMI-DADE,7007,,INTERNATIONAL STUDIES CHARTER HIGH SCHOOL,90,90,100,*,*,*,53,53,100,15,15,100,,,,,,,54,54,100,36,36,100
+13,MIAMI-DADE,7008,,BIOTECH@RICHMOND HEIGHTS 9-12 HIGH SCHOOL,78,79,98.7,10,10,100,38,39,97.4,*,*,*,,,,,,,28,29,96.6,50,50,100
+13,MIAMI-DADE,7009,,DORAL PERFORMING ARTS & ENTERTAINMENT ACADEMY,123,123,100,*,*,*,53,53,100,*,*,*,,,,,,,24,24,100,99,99,100
+13,MIAMI-DADE,7011,,AMERICAN SENIOR HIGH SCHOOL,371,371,100,44,44,100,289,289,100,72,72,100,,,,*,*,*,193,193,100,178,178,100
+13,MIAMI-DADE,7014,,MATER PERFORMING ARTS & ENTERTAINMENT ACADEMY,77,77,100,*,*,*,61,61,100,*,*,*,,,,,,,21,21,100,56,56,100
+13,MIAMI-DADE,7015,,STELLAR LEADERSHIP ACADEMY,11,58,19,6,15,40,9,52,17.3,*,*,*,,,,,,,7,33,21.2,4,25,16
+13,MIAMI-DADE,7016,,SPORTS LEADERSHIP ARTS MANAGEMENT CHARTER HIGH SCHOOL,207,211,98.1,*,*,*,192,196,98,44,45,97.8,,,,,,,101,103,98.1,106,108,98.1
+13,MIAMI-DADE,7018,,MATER ACADEMY LAKES HIGH SCHOOL,274,283,96.8,13,13,100,208,215,96.7,22,24,91.7,,,,,,,120,126,95.2,154,157,98.1
+13,MIAMI-DADE,7020,,DORAL ACADEMY CHARTER HIGH SCHOOL,459,462,99.4,14,14,100,236,238,99.2,13,13,100,,,,,,,229,231,99.1,230,231,99.6
+13,MIAMI-DADE,7021,,CENTER FOR INTERNATIONAL EDUCATION A CAMBRIDGE ASSOCIATE SCHOOL,86,87,98.9,*,*,*,55,56,98.2,,,,,,,,,,47,47,100,39,40,97.5
+13,MIAMI-DADE,7026,,DON SOFFER AVENTURA CHARTER HIGH SCHOOL,191,191,100,*,*,*,41,41,100,19,19,100,,,,,,,99,99,100,92,92,100
+13,MIAMI-DADE,7027,,PINECREST GLADES PREPARATORY ACADEMY MIDDLE HIGH SCHOOL,86,86,100,*,*,*,54,54,100,*,*,*,,,,,,,53,53,100,33,33,100
+13,MIAMI-DADE,7029,,TERRA ENVIRONMENTAL RESEARCH INSTITUTE,364,364,100,10,10,100,179,179,100,*,*,*,,,,,,,182,182,100,182,182,100
+13,MIAMI-DADE,7031,,MAST@FIU,93,93,100,*,*,*,50,50,100,*,*,*,,,,,,,48,48,100,45,45,100
+13,MIAMI-DADE,7032,,PALM GLADES PREPARATORY HIGH SCHOOL,37,40,92.5,*,*,*,31,33,93.9,12,13,92.3,*,*,*,,,,18,19,94.7,19,21,90.5
+13,MIAMI-DADE,7033,,LAW ENFORCEMENT OFFICERS MEMORIAL HIGH SCHOOL,74,76,97.4,*,*,*,57,58,98.3,*,*,*,,,,,,,30,32,93.8,44,44,100
+13,MIAMI-DADE,7034,,SOMERSET ACADEMY CHARTER HIGH SCHOOL (SOUTH HOMESTEAD),104,121,86,11,11,100,82,99,82.8,15,23,65.2,*,*,*,*,*,*,53,61,86.9,51,60,85
+13,MIAMI-DADE,7041,,SCHOOL FOR ADVANCED STUDIES-WOLFSON,76,76,100,*,*,*,30,30,100,*,*,*,,,,,,,31,31,100,45,45,100
+13,MIAMI-DADE,7042,,SOMERSET ACADEMY CHARTER HIGH SCHOOL,218,232,94,13,14,92.9,173,182,95.1,17,18,94.4,,,,,,,118,124,95.2,100,108,92.6
+13,MIAMI-DADE,7044,,DOWNTOWN DORAL CHARTER UPPER SCHOOL,157,160,98.1,*,*,*,56,59,94.9,52,54,96.3,,,,*,*,*,80,81,98.8,77,79,97.5
+13,MIAMI-DADE,7048,,ALONZO & TRACY MOURNING SENIOR HIGH SCHOOL,329,367,89.6,22,22,100,203,223,91,79,102,77.5,,,,,,,165,188,87.8,164,179,91.6
+13,MIAMI-DADE,7049,,WESTLAND HIALEAH SENIOR HIGH SCHOOL,180,198,90.9,25,28,89.3,160,175,91.4,62,69,89.9,,,,*,*,*,78,88,88.6,102,110,92.7
+13,MIAMI-DADE,7050,,KEYS GATE CHARTER HIGH SCHOOL,135,146,92.5,16,18,88.9,94,102,92.2,26,31,83.9,*,*,*,,,,67,73,91.8,68,73,93.2
+13,MIAMI-DADE,7051,,G. HOLMES BRADDOCK SENIOR HIGH,542,577,93.9,73,79,92.4,408,440,92.7,92,101,91.1,,,,*,*,*,276,301,91.7,266,276,96.4
+13,MIAMI-DADE,7053,,PINECREST PREPARATORY ACADEMY CHARTER HIGH SCHOOL,136,137,99.3,*,*,*,87,87,100,10,10,100,,,,,,,68,68,100,68,69,98.6
+13,MIAMI-DADE,7055,,YOUNG WOMENS PREPARATORY ACADEMY,37,38,97.4,,,,23,24,95.8,*,*,*,,,,,,,,,,37,38,97.4
+13,MIAMI-DADE,7056,,YOUNG MEN'S PREPARATORY ACADEMY,14,16,87.5,*,*,*,14,16,87.5,*,*,*,,,,,,,14,16,87.5,,,
+13,MIAMI-DADE,7058,,MIAMI COMMUNITY CHARTER HIGH SCHOOL,35,38,92.1,*,*,*,34,36,94.4,*,*,*,*,*,*,,,,19,19,100,16,19,84.2
+13,MIAMI-DADE,7059,,MIAMI ARTS CHARTER SCHOOL,140,150,93.3,9,10,90,15,16,93.8,10,11,90.9,,,,*,*,*,38,42,90.5,102,108,94.4
+13,MIAMI-DADE,7060,,EVERGLADES PREPARATORY ACADEMY HIGH SCHOOL,104,112,92.9,11,11,100,80,87,92,16,18,88.9,*,*,*,,,,57,60,95,47,52,90.4
+13,MIAMI-DADE,7061,,SCHOOL FOR ADVANCED STUDIES NORTH,71,71,100,*,*,*,44,44,100,*,*,*,,,,,,,35,35,100,36,36,100
+13,MIAMI-DADE,7062,,C. G. BETHEL HIGH SCHOOL,72,176,40.9,7,12,58.3,56,133,42.1,13,55,23.6,,,,*,*,*,43,100,43,29,76,38.2
+13,MIAMI-DADE,7065,,CHAMBERS HIGH SCHOOL,39,83,47,10,17,58.8,32,70,45.7,4,12,33.3,*,*,*,,,,25,55,45.5,14,28,50
+13,MIAMI-DADE,7067,,GREEN SPRINGS HIGH SCHOOL,134,321,41.7,28,52,53.8,108,262,41.2,31,102,30.4,,,,*,*,*,79,189,41.8,55,132,41.7
+13,MIAMI-DADE,7068,,NORTH GARDENS HIGH SCHOOL,67,281,23.8,10,36,27.8,50,221,22.6,8,56,14.3,,,,*,*,*,31,170,18.2,36,111,32.4
+13,MIAMI-DADE,7069,,NORTH PARK HIGH SCHOOL,175,348,50.3,21,44,47.7,130,264,49.2,47,80,58.8,*,*,*,*,*,*,96,214,44.9,79,134,59
+13,MIAMI-DADE,7070,,YOUTH CO-OP PREPARATORY HIGH SCHOOL,41,41,100,*,*,*,32,32,100,*,*,*,,,,,,,20,20,100,21,21,100
+13,MIAMI-DADE,7071,,CORAL GABLES SENIOR HIGH SCHOOL,677,701,96.6,68,69,98.6,452,465,97.2,107,116,92.2,,,,*,*,*,340,356,95.5,337,345,97.7
+13,MIAMI-DADE,7073,,ACADEMY FOR ADVANCED ACADEMICS,23,23,100,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,15,15,100
+13,MIAMI-DADE,7080,,CHARTER HIGH SCHOOL OF THE AMERICAS,19,28,67.9,*,*,*,18,26,69.2,4,13,30.8,,,,,,,10,12,83.3,9,16,56.3
+13,MIAMI-DADE,7081,,DESIGN & ARCHITECTURE SENIOR HIGH,104,104,100,*,*,*,46,46,100,*,*,*,,,,,,,33,33,100,71,71,100
+13,MIAMI-DADE,7090,,IMATER PREPARATORY ACADEMY HIGH SCHOOL,227,237,95.8,11,11,100,209,218,95.9,44,48,91.7,,,,*,*,*,104,110,94.5,123,127,96.9
+13,MIAMI-DADE,7091,,SCHOOL FOR ADVANCED STUDIES - SOUTH,132,132,100,*,*,*,80,80,100,*,*,*,,,,,,,61,61,100,71,71,100
+13,MIAMI-DADE,7101,,CORAL REEF SENIOR HIGH SCHOOL,739,740,99.9,36,37,97.3,375,375,100,10,11,90.9,,,,,,,321,322,99.7,418,418,100
+13,MIAMI-DADE,7108,,SPORTS LEADERSHIP ARTS MANAGEMENT CHARTER HIGH SCHOOL (NORTH CAMPUS),48,51,94.1,*,*,*,43,46,93.5,15,15,100,,,,,,,21,23,91.3,27,28,96.4
+13,MIAMI-DADE,7111,,HIALEAH SENIOR HIGH SCHOOL,323,327,98.8,68,68,100,272,275,98.9,50,52,96.2,,,,,,,170,174,97.7,153,153,100
+13,MIAMI-DADE,7120,,MATER ACADEMY BAY HIGH SCHOOL,73,73,100,*,*,*,50,50,100,*,*,*,,,,,,,42,42,100,31,31,100
+13,MIAMI-DADE,7121,,JOHN A. FERGUSON SENIOR HIGH,"1,022","1,027",99.5,104,106,98.1,703,707,99.4,99,99,100,,,,*,*,*,498,502,99.2,524,525,99.8
+13,MIAMI-DADE,7131,,HIALEAH-MIAMI LAKES SENIOR HIGH,225,230,97.8,71,73,97.3,201,205,98,34,34,100,,,,*,*,*,129,132,97.7,96,98,98
+13,MIAMI-DADE,7141,,DR. MICHAEL M. KROP SENIOR HIGH,533,561,95,34,35,97.1,322,333,96.7,68,79,86.1,,,,,,,255,271,94.1,278,290,95.9
+13,MIAMI-DADE,7144,,CHARTER HIGH SCHOOL OF THE AMERICAS (FLORIDA CITY CAMPUS),9,11,81.8,*,*,*,8,10,80,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7151,,HOMESTEAD SENIOR HIGH SCHOOL,434,439,98.9,76,78,97.4,373,378,98.7,52,54,96.3,16,17,94.1,*,*,*,228,230,99.1,206,209,98.6
+13,MIAMI-DADE,7160,,MATER ACADEMY CHARTER HIGH SCHOOL,369,380,97.1,18,19,94.7,308,316,97.5,53,59,89.8,,,,,,,199,207,96.1,170,173,98.3
+13,MIAMI-DADE,7161,,MAST ACADEMY,210,214,98.1,*,*,*,45,47,95.7,*,*,*,,,,,,,95,96,99,115,118,97.5
+13,MIAMI-DADE,7171,,MEDICAL ACADEMY FOR SCIENCE AND TECHNOLOGY (M.A.S.T.) @ HOMESTEAD,172,172,100,*,*,*,110,110,100,*,*,*,*,*,*,,,,67,67,100,105,105,100
+13,MIAMI-DADE,7191,,HIALEAH GARDENS SENIOR HIGH SCHOOL,630,643,98,49,52,94.2,506,516,98.1,80,83,96.4,,,,*,*,*,277,284,97.5,353,359,98.3
+13,MIAMI-DADE,7201,,MIAMI BEACH SENIOR HIGH SCHOOL,468,511,91.6,47,52,90.4,231,255,90.6,80,100,80,,,,,,,237,264,89.8,231,247,93.5
+13,MIAMI-DADE,7231,,MIAMI CAROL CITY SENIOR HIGH,156,168,92.9,22,29,75.9,149,160,93.1,12,13,92.3,,,,,,,85,95,89.5,71,73,97.3
+13,MIAMI-DADE,7241,,RONALD W. REAGAN/DORAL SENIOR HIGH SCHOOL,286,292,97.9,11,11,100,125,127,98.4,91,94,96.8,,,,*,*,*,137,138,99.3,149,154,96.8
+13,MIAMI-DADE,7242,,SOMERSET PREPARATORY ACADEMY HIGH SCHOOL HOMESTEAD,62,67,92.5,*,*,*,54,55,98.2,11,11,100,,,,,,,28,33,84.8,34,34,100
+13,MIAMI-DADE,7251,,MIAMI CENTRAL SENIOR HIGH SCHOOL,281,293,95.9,43,45,95.6,252,262,96.2,31,37,83.8,,,,,,,139,148,93.9,142,145,97.9
+13,MIAMI-DADE,7261,,SCHOOL FOR ADVANCED STUDIES,65,65,100,*,*,*,37,37,100,*,*,*,,,,,,,18,18,100,47,47,100
+13,MIAMI-DADE,7262,,CITY OF HIALEAH EDUCATIONAL ACADEMY,125,125,100,*,*,*,114,114,100,14,14,100,,,,,,,73,73,100,52,52,100
+13,MIAMI-DADE,7265,,ARCHIMEDEAN UPPER CONSERVATORY,77,78,98.7,,,,31,31,100,*,*,*,,,,,,,37,38,97.4,40,40,100
+13,MIAMI-DADE,7271,,MIAMI CORAL PARK SENIOR HIGH,420,443,94.8,67,73,91.8,320,338,94.7,90,96,93.8,,,,*,*,*,230,245,93.9,190,198,96
+13,MIAMI-DADE,7291,,JOSE MARTI MAST 6-12 ACADEMY,98,98,100,*,*,*,62,62,100,*,*,*,,,,,,,53,53,100,45,45,100
+13,MIAMI-DADE,7301,,MIAMI EDISON SENIOR HIGH SCHOOL,125,132,94.7,17,19,89.5,101,107,94.4,41,41,100,,,,,,,71,75,94.7,54,57,94.7
+13,MIAMI-DADE,7341,,MIAMI JACKSON SENIOR HIGH SCHOOL,244,260,93.8,30,32,93.8,219,233,94,82,87,94.3,,,,,,,116,127,91.3,128,133,96.2
+13,MIAMI-DADE,7351,,ARTHUR AND POLLY MAYS CONSERVATORY OF THE ARTS,51,53,96.2,*,*,*,42,43,97.7,*,*,*,,,,*,*,*,16,16,100,35,37,94.6
+13,MIAMI-DADE,7361,,MIAMI KILLIAN SENIOR HIGH SCHOOL,192,193,99.5,34,34,100,132,133,99.2,35,35,100,,,,*,*,*,104,105,99,88,88,100
+13,MIAMI-DADE,7371,,ROBERT MORGAN EDUCATIONAL CENTER,367,376,97.6,58,62,93.5,287,294,97.6,21,21,100,*,*,*,,,,168,170,98.8,199,206,96.6
+13,MIAMI-DADE,7381,,MIAMI NORLAND SENIOR HIGH SCHOOL,355,375,94.7,43,47,91.5,298,315,94.6,25,27,92.6,,,,*,*,*,153,169,90.5,202,206,98.1
+13,MIAMI-DADE,7391,,MIAMI LAKES EDUCATIONAL CENTER,207,207,100,17,17,100,159,159,100,20,20,100,,,,,,,99,99,100,108,108,100
+13,MIAMI-DADE,7411,,MIAMI NORTHWESTERN SENIOR HIGH,343,356,96.3,41,46,89.1,312,323,96.6,24,27,88.9,,,,,,,122,130,93.8,221,226,97.8
+13,MIAMI-DADE,7431,,MIAMI PALMETTO SENIOR HIGH SCHOOL,652,680,95.9,75,78,96.2,254,277,91.7,33,36,91.7,*,*,*,,,,321,337,95.3,331,343,96.5
+13,MIAMI-DADE,7459,,IPREP  ACADEMY NORTH,26,26,100,*,*,*,15,15,100,,,,,,,,,,18,18,100,*,*,*
+13,MIAMI-DADE,7461,,MIAMI SENIOR HIGH SCHOOL,642,662,97,77,80,96.3,559,574,97.4,126,135,93.3,,,,*,*,*,319,332,96.1,323,330,97.9
+13,MIAMI-DADE,7511,,MIAMI SPRINGS SENIOR HIGH SCHOOL,206,215,95.8,31,34,91.2,172,178,96.6,36,38,94.7,,,,,,,116,124,93.5,90,91,98.9
+13,MIAMI-DADE,7516,,KENDALL GREENS HIGH SCHOOL,166,285,58.2,24,38,63.2,122,186,65.6,16,69,23.2,,,,*,*,*,85,159,53.5,81,126,64.3
+13,MIAMI-DADE,7531,,MIAMI SUNSET SENIOR HIGH SCHOOL,205,215,95.3,35,36,97.2,151,160,94.4,32,34,94.1,,,,*,*,*,119,125,95.2,86,90,95.6
+13,MIAMI-DADE,7541,,NORTH MIAMI BEACH SENIOR HIGH,231,243,95.1,33,33,100,208,215,96.7,34,39,87.2,,,,,,,113,121,93.4,118,122,96.7
+13,MIAMI-DADE,7551,,SCHOOL FOR ADVANCED STUDIES HOMESTEAD,76,76,100,*,*,*,47,47,100,*,*,*,,,,,,,30,30,100,46,46,100
+13,MIAMI-DADE,7571,,INTERNATIONAL STUDIES PREPARATORY ACADEMY,95,95,100,*,*,*,36,36,100,16,16,100,,,,,,,42,42,100,53,53,100
+13,MIAMI-DADE,7581,,I PREPARATORY ACADEMY,41,41,100,,,,16,16,100,*,*,*,,,,,,,21,21,100,20,20,100
+13,MIAMI-DADE,7591,,NORTH MIAMI SENIOR HIGH SCHOOL,383,404,94.8,38,41,92.7,334,348,96,114,123,92.7,,,,,,,184,192,95.8,199,212,93.9
+13,MIAMI-DADE,7601,,WILLIAM H. TURNER TECHNICAL ARTS HIGH SCHOOL,245,253,96.8,*,*,*,217,224,96.9,15,15,100,,,,,,,95,96,99,150,157,95.5
+13,MIAMI-DADE,7631,,MIAMI MACARTHUR EDUCATIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7641,,J.C. BERMUDEZ DORAL SENIOR HIGH,260,269,96.7,24,24,100,128,130,98.5,97,103,94.2,,,,*,*,*,137,140,97.9,123,129,95.3
+13,MIAMI-DADE,7675,,DORAL PARK HIGH SCHOOL,50,134,37.3,9,15,60,36,91,39.6,10,50,20,,,,,,,25,78,32.1,25,56,44.6
+13,MIAMI-DADE,7701,,SOUTH DADE SENIOR HIGH SCHOOL,625,644,97,97,101,96,540,556,97.1,85,94,90.4,31,32,96.9,*,*,*,310,321,96.6,315,323,97.5
+13,MIAMI-DADE,7721,,SOUTH MIAMI SENIOR HIGH SCHOOL,306,324,94.4,36,37,97.3,218,229,95.2,92,100,92,,,,,,,148,159,93.1,158,165,95.8
+13,MIAMI-DADE,7731,,MIAMI SOUTHRIDGE SENIOR HIGH,442,453,97.6,75,78,96.2,382,392,97.4,56,58,96.6,*,*,*,*,*,*,228,234,97.4,214,219,97.7
+13,MIAMI-DADE,7741,,SOUTHWEST MIAMI SENIOR HIGH,539,548,98.4,87,88,98.9,396,402,98.5,105,107,98.1,,,,*,*,*,290,294,98.6,249,254,98
+13,MIAMI-DADE,7751,,BARBARA GOLEMAN SENIOR HIGH,727,730,99.6,76,76,100,528,530,99.6,51,52,98.1,,,,*,*,*,333,334,99.7,394,396,99.5
+13,MIAMI-DADE,7781,,FELIX VARELA SENIOR HIGH SCHOOL,474,474,100,69,69,100,324,324,100,86,86,100,,,,,,,267,267,100,207,207,100
+13,MIAMI-DADE,7791,,BOOKER T. WASHINGTON SENIOR HIGH,185,187,98.9,39,39,100,155,157,98.7,62,62,100,,,,,,,98,100,98,87,87,100
+13,MIAMI-DADE,7804,,AMIKIDS MIAMI-DADE SOUTH,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+13,MIAMI-DADE,7811,,MIAMI YOUTH ACADEMY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7812,,MIAMI BRIDGE SOUTH,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7823,,HERE'S HELP,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7831,,GRADUATION ALLIANCE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7832,,MIAMI BRIDGE NORTH,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+13,MIAMI-DADE,7833,,CITRUS HEALTH SIPP/CRISIS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7840,,TURNER/GUILFORD/KNIGHT,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7855,,NICKLAUS CHILDREN'S HOSPITAL,0,12,0,*,*,*,0,10,0,*,*,*,*,*,*,,,,*,*,*,*,*,*
+13,MIAMI-DADE,7861,,SECONDARY STUDENT SUCCESS CENTER 802,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7862,,SECONDARY STUDENT SUCCESS CENTER 803,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7865,,HIS HOUSE,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7871,,ACCELERATION ACADEMIES-CENTRAL MIAMI,22,172,12.8,4,28,14.3,14,142,9.9,1,33,3,,,,*,*,*,10,85,11.8,12,87,13.8
+13,MIAMI-DADE,7891,,ACCELERATION ACADEMIES LLC HOMESTEAD,7,77,9.1,3,14,21.4,3,62,4.8,*,*,*,*,*,*,*,*,*,2,40,5,5,37,13.5
+13,MIAMI-DADE,7892,,SOUTH FLORIDA YOUTH ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+13,MIAMI-DADE,7901,,NEW WORLD SCHOOL OF THE ARTS,107,107,100,*,*,*,46,46,100,*,*,*,,,,,,,33,33,100,74,74,100
+13,MIAMI-DADE,8017,,ALTERNATIVE OUTREACH PROGRAM,2,10,20,,,,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,8019,,DR. MARVIN DUNN ACADEMY FOR COMMUNITY EDUCATION.,13,28,46.4,,,,12,26,46.2,*,*,*,,,,,,,6,17,35.3,7,11,63.6
+13,MIAMI-DADE,8101,,JANN MANN EDUCATIONAL CENTER,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,8121,,COPE CENTER NORTH,*,*,*,,,,*,*,*,*,*,*,,,,,,,,,,*,*,*
+13,MIAMI-DADE,8131,,DOROTHY M. WALLACE COPE CENTER,*,*,*,,,,*,*,*,*,*,*,,,,,,,,,,*,*,*
+13,MIAMI-DADE,8141,,JUVENILE JUSTICE CENTER ALT ED,0,10,0,*,*,*,*,*,*,*,*,*,,,,*,*,*,0,10,0,,,
+13,MIAMI-DADE,8151,,ROBERT RENICK EDUCATIONAL CENTER,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,8181,,RUTH OWENS KRUSE EDUCATION CENTER,10,14,71.4,10,13,76.9,9,13,69.2,,,,,,,,,,*,*,*,*,*,*
+13,MIAMI-DADE,9732,,BRUCIE BALL EDUCATIONAL CENTER,18,29,62.1,18,29,62.1,16,26,61.5,*,*,*,,,,*,*,*,7,14,50,11,15,73.3
+14,DESOTO,0031,,DESOTO COUNTY HIGH SCHOOL,239,293,81.6,26,28,92.9,151,187,80.7,8,28,28.6,15,22,68.2,*,*,*,104,134,77.6,135,159,84.9
+14,DESOTO,0291,,DESOTO SECONDARY SCHOOL,2,16,12.5,*,*,*,0,10,0,*,*,*,*,*,*,*,*,*,1,11,9.1,*,*,*
+14,DESOTO,7004,,DESOTO VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+14,DESOTO,7023,,DESOTO VIRTUAL ACADEMY,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+14,DESOTO,9114,,REDUCED SERVICES,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+15,DIXIE,0021,,DIXIE COUNTY HIGH SCHOOL,118,126,93.7,25,26,96.2,64,69,92.8,*,*,*,*,*,*,,,,60,68,88.2,58,58,100
+15,DIXIE,7004,,DIXIE VIRTUAL FRANCHISE,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+16,DUVAL,0141,,GRAND PARK CAREER CENTER,1,24,4.2,*,*,*,1,15,6.7,,,,,,,*,*,*,0,15,0,*,*,*
+16,DUVAL,0291,,THE BRIDGE TO SUCCESS ACADEMY AT W JACKSONVILLE,40,54,74.1,13,15,86.7,34,48,70.8,,,,,,,*,*,*,14,22,63.6,26,32,81.3
+16,DUVAL,0321,,MARINE SCIENCE EDUCATION CENTER,0,42,0,*,*,*,0,16,0,*,*,*,,,,,,,0,31,0,0,11,0
+16,DUVAL,0331,,RIVERSIDE HIGH SCHOOL,327,359,91.1,27,32,84.4,202,223,90.6,18,18,100,,,,,,,147,167,88,180,192,93.8
+16,DUVAL,0351,,ANDREW JACKSON HIGH SCHOOL,178,178,100,42,42,100,94,94,100,*,*,*,,,,*,*,*,115,115,100,63,63,100
+16,DUVAL,0381,,BALDWIN MIDDLE-SENIOR HIGH SCHOOL,178,183,97.3,12,12,100,67,70,95.7,*,*,*,,,,*,*,*,96,97,99,82,86,95.3
+16,DUVAL,0391,,GATEWAY COMMUNITY SERVICES,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+16,DUVAL,0431,,IMPACT HALFWAY HOUSE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+16,DUVAL,0471,,LONE STAR HIGH SCHOOL,101,164,61.6,20,28,71.4,73,123,59.3,13,21,61.9,,,,*,*,*,62,88,70.5,39,76,51.3
+16,DUVAL,0491,,DUVAL REGIONAL JUVENILE DETENTION CENTER,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+16,DUVAL,0521,,HORIZON INSTITUTE,69,192,35.9,19,36,52.8,42,135,31.1,2,10,20,,,,,,,39,98,39.8,30,94,31.9
+16,DUVAL,0531,,DUVAL MYCROSCHOOL OF INTEGRATED ACADEMICS AND TECHNOLOGIES,95,119,79.8,30,34,88.2,65,85,76.5,*,*,*,,,,*,*,*,63,76,82.9,32,43,74.4
+16,DUVAL,0751,,PAXON SCHOOL/ADVANCED STUDIES,277,279,99.3,17,17,100,92,94,97.9,*,*,*,,,,,,,120,120,100,157,159,98.7
+16,DUVAL,0811,,PACE CENTER FOR GIRLS-JAX,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+16,DUVAL,0861,,TERRY PARKER HIGH SCHOOL,275,301,91.4,45,48,93.8,170,185,91.9,49,56,87.5,,,,*,*,*,144,161,89.4,131,140,93.6
+16,DUVAL,0901,,ENGLEWOOD HIGH SCHOOL,391,448,87.3,71,79,89.9,230,267,86.1,110,129,85.3,,,,*,*,*,210,241,87.1,181,207,87.4
+16,DUVAL,0961,,JEAN RIBAULT HIGH SCHOOL,321,341,94.1,59,65,90.8,215,233,92.3,*,*,*,,,,,,,148,160,92.5,173,181,95.6
+16,DUVAL,1073,,DOUGLAS ANDERSON SCHOOL OF THE ARTS,255,255,100,*,*,*,49,49,100,*,*,*,,,,,,,67,67,100,188,188,100
+16,DUVAL,1201,,RIVER CITY SCIENCE ACADEMY,119,121,98.3,*,*,*,46,47,97.9,10,10,100,,,,,,,64,65,98.5,55,56,98.2
+16,DUVAL,1311,,DUVAL CHARTER HIGH SCHOOL AT BAYMEADOWS,117,118,99.2,23,23,100,42,43,97.7,16,16,100,,,,,,,62,63,98.4,55,55,100
+16,DUVAL,1451,,DARNELL COOKMAN MIDDLE/HIGH SCHOOL,46,46,100,*,*,*,21,21,100,*,*,*,,,,,,,16,16,100,30,30,100
+16,DUVAL,1531,,STANTON COLLEGE PREPARATORY,311,311,100,*,*,*,50,50,100,*,*,*,,,,,,,159,159,100,152,152,100
+16,DUVAL,1641,,MT. HERMAN ESE CENTER,9,10,90,9,10,90,*,*,*,,,,,,,,,,*,*,*,*,*,*
+16,DUVAL,1651,,WILLIAM M. RAINES HIGH SCHOOL,292,298,98,60,62,96.8,223,228,97.8,*,*,*,,,,*,*,*,145,148,98,147,150,98
+16,DUVAL,1701,,PALM AVENUE EXCEP. STUDENT CENTER,12,15,80,12,15,80,*,*,*,,,,,,,,,,7,10,70,*,*,*
+16,DUVAL,1761,,PRETRIAL DETENTION FACILITY,8,15,53.3,*,*,*,7,14,50,,,,,,,*,*,*,8,15,53.3,,,
+16,DUVAL,1811,,HOSPITAL AND HOMEBOUND,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,*,*,*
+16,DUVAL,1821,,YOUTH DEVELOPMENT CENTER,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+16,DUVAL,1851,,AMIKIDS JACKSONVILLE,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+16,DUVAL,2231,,DUNCAN U. FLETCHER HIGH SCHOOL,493,506,97.4,59,62,95.2,125,130,96.2,11,12,91.7,,,,,,,245,253,96.8,248,253,98
+16,DUVAL,2241,,SAMUEL W. WOLFSON HIGH SCHOOL,192,192,100,15,15,100,41,41,100,*,*,*,,,,,,,111,111,100,81,81,100
+16,DUVAL,2371,,SANDALWOOD HIGH SCHOOL,582,605,96.2,82,84,97.6,211,225,93.8,68,77,88.3,,,,,,,319,332,96.1,263,273,96.3
+16,DUVAL,2411,,WESTSIDE HIGH SCHOOL,340,389,87.4,78,85,91.8,216,256,84.4,35,39,89.7,,,,*,*,*,177,209,84.7,163,180,90.6
+16,DUVAL,2481,,EDWARD H. WHITE HIGH SCHOOL,311,322,96.6,63,67,94,200,205,97.6,30,31,96.8,,,,*,*,*,143,151,94.7,168,171,98.2
+16,DUVAL,2521,,ALDEN ROAD EXCEP. STUDENT CENTER,12,13,92.3,12,13,92.3,*,*,*,,,,,,,,,,*,*,*,*,*,*
+16,DUVAL,2601,,MANDARIN HIGH SCHOOL,593,611,97.1,71,73,97.3,154,164,93.9,28,33,84.8,,,,,,,300,311,96.5,293,300,97.7
+16,DUVAL,2651,,FIRST COAST HIGH SCHOOL,480,518,92.7,49,63,77.8,215,239,90,13,15,86.7,,,,*,*,*,240,268,89.6,240,250,96
+16,DUVAL,2681,,ATLANTIC COAST HIGH SCHOOL,606,622,97.4,98,102,96.1,223,233,95.7,71,73,97.3,,,,,,,303,317,95.6,303,305,99.3
+16,DUVAL,2801,,FRANK H. PETERSON ACADEMIES,175,185,94.6,30,31,96.8,104,110,94.5,*,*,*,,,,,,,77,81,95.1,98,104,94.2
+16,DUVAL,2851,,A. PHILIP RANDOLPH ACADEMIES,65,69,94.2,15,15,100,51,54,94.4,*,*,*,,,,,,,31,33,93.9,34,36,94.4
+16,DUVAL,5371,,FLORIDA CYBER CHARTER ACADEMY,92,122,75.4,19,26,73.1,49,70,70,*,*,*,,,,*,*,*,32,49,65.3,60,73,82.2
+16,DUVAL,5381,,SAN JOSE PREP,63,64,98.4,11,12,91.7,24,25,96,11,11,100,,,,,,,28,29,96.6,35,35,100
+16,DUVAL,5421,,BISCAYNE HIGH SCHOOL,65,100,65,14,19,73.7,44,72,61.1,*,*,*,*,*,*,,,,33,52,63.5,32,48,66.7
+16,DUVAL,5731,,GLOBAL OUTREACH CHARTER ACADEMY HIGH SCHOOL,108,112,96.4,13,13,100,68,68,100,35,36,97.2,,,,,,,67,70,95.7,41,42,97.6
+16,DUVAL,5861,,SAN JOSE EARLY COLLEGE AT CECIL,31,32,96.9,*,*,*,*,*,*,*,*,*,,,,,,,16,16,100,15,16,93.8
+16,DUVAL,5881,,SAN JOSE CYBER,*,*,*,,,,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+16,DUVAL,5901,,KIPP JACKSONVILLE K-12,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+16,DUVAL,7023,,DUVAL VIRTUAL INSTRUCTION ACADEMY,131,184,71.2,25,34,73.5,52,86,60.5,*,*,*,,,,*,*,*,41,67,61.2,90,117,76.9
+17,ESCAMBIA,0211,,ACHIEVE ACADEMY AT MCMILLIAN,0,16,0,*,*,*,0,13,0,,,,,,,,,,0,11,0,*,*,*
+17,ESCAMBIA,0281,,ESCAMBIA HIGH SCHOOL,285,339,84.1,55,61,90.2,154,193,79.8,*,*,*,,,,,,,140,164,85.4,145,175,82.9
+17,ESCAMBIA,0401,,ESCAMBIA COUNTY ACCELERATION ACADEMY,43,161,26.7,8,31,25.8,23,114,20.2,*,*,*,,,,*,*,*,16,81,19.8,27,80,33.8
+17,ESCAMBIA,0411,,PENSACOLA HIGH SCHOOL,226,257,87.9,30,33,90.9,104,123,84.6,12,20,60,,,,,,,105,119,88.2,121,138,87.7
+17,ESCAMBIA,0521,,J. M. TATE SENIOR HIGH SCHOOL,460,493,93.3,58,61,95.1,222,248,89.5,*,*,*,,,,,,,232,254,91.3,228,239,95.4
+17,ESCAMBIA,0862,,PINE FOREST HIGH SCHOOL,356,417,85.4,63,75,84,218,263,82.9,22,23,95.7,,,,*,*,*,163,204,79.9,193,213,90.6
+17,ESCAMBIA,0866,,SUCCESS ACADEMY,69,88,78.4,33,37,89.2,50,65,76.9,,,,,,,*,*,*,44,57,77.2,25,31,80.6
+17,ESCAMBIA,0916,,ESCAMBIA JUVENILE DETENTION,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+17,ESCAMBIA,0922,,ESCAMBIA WESTGATE CENTER,13,15,86.7,13,15,86.7,*,*,*,,,,,,,,,,10,12,83.3,*,*,*
+17,ESCAMBIA,0924,,HOPE HORIZON AT JUDY ANDREWS CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+17,ESCAMBIA,0933,,HOSPITAL & HOMEBOUND,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+17,ESCAMBIA,0951,,WASHINGTON SENIOR HIGH SCHOOL,345,401,86,45,53,84.9,144,189,76.2,*,*,*,*,*,*,*,*,*,143,174,82.2,202,227,89
+17,ESCAMBIA,0962,,COUNTY ADMINISTRATIVE ANNEX,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+17,ESCAMBIA,1231,,NORTHVIEW HIGH SCHOOL,108,117,92.3,13,14,92.9,35,39,89.7,,,,,,,,,,49,52,94.2,59,65,90.8
+17,ESCAMBIA,1251,,WEST FLORIDA HIGH SCHOOL/TECHNICAL,282,286,98.6,10,10,100,175,179,97.8,*,*,*,*,*,*,,,,135,137,98.5,147,149,98.7
+17,ESCAMBIA,2034,,PACE PROGRAM,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+17,ESCAMBIA,2067,,ESCAMBIA SCH. DIST. JAIL PROG.,0,10,0,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+17,ESCAMBIA,2102,,PENSACOLA STATE CHARTER ACADEMY,42,42,100,*,*,*,*,*,*,,,,,,,,,,19,19,100,23,23,100
+17,ESCAMBIA,7004,,ESCAMBIA VIRTUAL ACADEMY FRANCHISE,67,67,100,*,*,*,25,25,100,*,*,*,,,,,,,30,30,100,37,37,100
+18,FLAGLER,0090,,MATANZAS HIGH SCHOOL,422,462,91.3,74,89,83.1,196,223,87.9,11,14,78.6,,,,,,,233,258,90.3,189,204,92.6
+18,FLAGLER,0091,,FLAGLER-PALM COAST HIGH SCHOOL,601,684,87.9,108,131,82.4,312,368,84.8,20,27,74.1,,,,*,*,*,304,347,87.6,297,337,88.1
+18,FLAGLER,7004,,IFLAGLER-VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+19,FRANKLIN,0091,,FRANKLIN COUNTY SCHOOL,50,59,84.7,22,22,100,31,35,88.6,*,*,*,,,,,,,27,31,87.1,23,28,82.1
+19,FRANKLIN,0101,,FRANKLIN COUNTY LEARNING CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+19,FRANKLIN,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+20,GADSDEN,0051,,GADSDEN COUNTY HIGH SCHOOL,185,257,72,40,53,75.5,176,234,75.2,9,21,42.9,*,*,*,,,,88,132,66.7,97,125,77.6
+20,GADSDEN,0231,,CARTER PARRAMORE ACADEMY,8,14,57.1,*,*,*,8,13,61.5,,,,,,,,,,5,10,50,*,*,*
+20,GADSDEN,0245,,GADSDEN TECHNICAL COLLEGE,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+20,GADSDEN,9104,,CROSSROAD ACADEMY,33,33,100,*,*,*,26,26,100,*,*,*,,,,,,,15,15,100,18,18,100
+20,GADSDEN,9106,,GADSDEN CENTRAL ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+21,GILCHRIST,0021,,TRENTON HIGH SCHOOL,85,96,88.5,11,15,73.3,42,49,85.7,*,*,*,*,*,*,*,*,*,36,46,78.3,49,50,98
+21,GILCHRIST,0031,,BELL HIGH SCHOOL,63,75,84,*,*,*,22,29,75.9,*,*,*,*,*,*,*,*,*,31,40,77.5,32,35,91.4
+21,GILCHRIST,7004,,GILCHRIST VIRTUAL FRANCHISE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+22,GLADES,0021,,MOORE HAVEN MIDDLE HIGH SCHOOL.,64,71,90.1,16,17,94.1,35,39,89.7,*,*,*,*,*,*,,,,37,41,90.2,27,30,90
+22,GLADES,7001,071,FLORIDA VIRTUAL SCHOOL – GRADES KG-12,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+23,GULF,0061,,PORT ST. JOE HIGH SCHOOL,95,115,82.6,13,21,61.9,34,47,72.3,*,*,*,,,,*,*,*,46,60,76.7,49,55,89.1
+23,GULF,0081,,WEWAHITCHKA HIGH SCHOOL,60,67,89.6,12,14,85.7,26,30,86.7,,,,,,,*,*,*,28,32,87.5,32,35,91.4
+24,HAMILTON,0032,,HAMILTON COUNTY HIGH SCHOOL,95,114,83.3,13,14,92.9,62,76,81.6,9,14,64.3,9,11,81.8,*,*,*,31,41,75.6,64,73,87.7
+24,HAMILTON,7004,,HAMILTON VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,*,*,*,,,,,,,,,,*,*,*
+24,HAMILTON,7023,,HAMILTON VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED),*,*,*,,,,,,,,,,,,,*,*,*,,,,*,*,*
+25,HARDEE,0021,,HARDEE SENIOR HIGH SCHOOL,241,328,73.5,35,47,74.5,148,218,67.9,12,19,63.2,23,32,71.9,*,*,*,119,174,68.4,122,154,79.2
+25,HARDEE,0031,,HARDEE JUNIOR HIGH SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+25,HARDEE,0081,,PIONEER CAREER ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+25,HARDEE,7004,,HARDEE VIRTUAL FRANCHISE,20,24,83.3,,,,*,*,*,*,*,*,*,*,*,,,,10,11,90.9,10,13,76.9
+26,HENDRY,0181,,LABELLE HIGH SCHOOL,329,377,87.3,45,51,88.2,208,242,86,35,54,64.8,17,24,70.8,,,,173,198,87.4,156,179,87.2
+26,HENDRY,0201,,CLEWISTON HIGH SCHOOL,216,249,86.7,35,40,87.5,156,179,87.2,15,23,65.2,11,13,84.6,*,*,*,92,109,84.4,124,140,88.6
+26,HENDRY,0401,,LABELLE YOUTH DEVELOPMENTAL ACADEMY,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+26,HENDRY,5201,,COUNTY WIDE EXCEPTIONAL STUDENT EDUCATION,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+26,HENDRY,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",361,487,74.1,53,68,77.9,210,293,71.7,17,26,65.4,*,*,*,*,*,*,167,224,74.6,194,263,73.8
+26,HENDRY,7006,,HENDRY ONLINE LEARNING ACADEMY,9,20,45,,,,8,16,50,*,*,*,*,*,*,,,,5,12,41.7,*,*,*
+27,HERNANDO,0051,,HERNANDO HIGH SCHOOL,253,284,89.1,36,41,87.8,129,157,82.2,*,*,*,,,,*,*,*,116,135,85.9,137,149,91.9
+27,HERNANDO,0181,,FRANK W. SPRINGSTEAD HIGH SCHOOL,417,463,90.1,37,46,80.4,202,234,86.3,18,21,85.7,,,,*,*,*,200,227,88.1,217,236,91.9
+27,HERNANDO,0251,,CENTRAL HIGH SCHOOL,294,341,86.2,65,72,90.3,163,193,84.5,17,18,94.4,,,,*,*,*,165,199,82.9,129,142,90.8
+27,HERNANDO,0331,,ENDEAVOR ACADEMY,0,17,0,*,*,*,0,15,0,,,,,,,*,*,*,0,14,0,*,*,*
+27,HERNANDO,0332,,HERNANDO COUNTY JAIL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+27,HERNANDO,0342,,PACE CENTER FOR GIRLS,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,,,,*,*,*
+27,HERNANDO,0351,,NATURE COAST TECHNICAL HIGH,310,330,93.9,26,27,96.3,128,139,92.1,*,*,*,,,,,,,160,171,93.6,150,159,94.3
+27,HERNANDO,0391,,WEEKI WACHEE HIGH SCHOOL,265,303,87.5,34,38,89.5,133,155,85.8,*,*,*,,,,*,*,*,121,141,85.8,144,162,88.9
+27,HERNANDO,7004,,HERNANDO ESCHOOL VIRTUAL FRANCHISE,30,31,96.8,*,*,*,*,*,*,,,,,,,,,,*,*,*,22,23,95.7
+27,HERNANDO,8015,,CENTER FOR SUCCESS AND INDEPENDENCE BROOKSVILLE ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+28,HIGHLANDS,0221,,SEBRING HIGH SCHOOL,367,424,86.6,60,68,88.2,206,248,83.1,14,22,63.6,17,19,89.5,*,*,*,191,224,85.3,176,200,88
+28,HIGHLANDS,0231,,AVON PARK HIGH SCHOOL,176,210,83.8,35,40,87.5,119,144,82.6,10,13,76.9,8,12,66.7,*,*,*,80,97,82.5,96,113,85
+28,HIGHLANDS,0251,,LAKE PLACID HIGH SCHOOL,164,188,87.2,19,23,82.6,99,113,87.6,8,12,66.7,29,32,90.6,*,*,*,66,78,84.6,98,110,89.1
+28,HIGHLANDS,7023,,HIGHLANDS VIRTUAL SCHOOL,23,37,62.2,*,*,*,16,22,72.7,,,,,,,*,*,*,9,17,52.9,14,20,70
+28,HIGHLANDS,9005,,HIGHLANDS COUNTY SCHOOLS JAIL PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+28,HIGHLANDS,9006,,HIGHLANDS COUNTY HOSPITAL/HOMEBOUND PROGRAM,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+28,HIGHLANDS,9007,,THE ACADEMY AT YOUTH CARE LANE,0,12,0,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,0043,,SPOTO HIGH SCHOOL,412,434,94.9,64,70,91.4,297,317,93.7,55,56,98.2,,,,*,*,*,176,191,92.1,236,243,97.1
+29,HILLSBOROUGH,0063,,CARVER EXCEPTIONAL CENTER,3,10,30,3,10,30,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,0073,,LENNARD HIGH SCHOOL,500,569,87.9,51,67,76.1,324,375,86.4,43,65,66.2,*,*,*,*,*,*,232,274,84.7,268,295,90.8
+29,HILLSBOROUGH,0089,,STEINBRENNER HIGH SCHOOL,601,614,97.9,48,49,98,148,155,95.5,19,20,95,,,,*,*,*,301,309,97.4,300,305,98.4
+29,HILLSBOROUGH,0093,,STRAWBERRY CREST HIGH SCHOOL,567,596,95.1,47,51,92.2,285,310,91.9,40,47,85.1,35,37,94.6,,,,248,265,93.6,319,331,96.4
+29,HILLSBOROUGH,0106,,JULE F SUMNER HIGH SCHOOL,775,850,91.2,93,103,90.3,452,516,87.6,62,86,72.1,17,21,81,,,,382,424,90.1,393,426,92.3
+29,HILLSBOROUGH,0131,,ARMWOOD HIGH SCHOOL,422,491,85.9,56,72,77.8,330,395,83.5,55,68,80.9,*,*,*,*,*,*,200,234,85.5,222,257,86.4
+29,HILLSBOROUGH,0151,,ALONSO HIGH SCHOOL,603,629,95.9,57,62,91.9,341,364,93.7,92,94,97.9,,,,,,,311,329,94.5,292,300,97.3
+29,HILLSBOROUGH,0281,,BLAKE HIGH SCHOOL,271,345,78.6,47,68,69.1,186,252,73.8,10,24,41.7,,,,,,,102,149,68.5,169,196,86.2
+29,HILLSBOROUGH,0291,,BRANDON HIGH SCHOOL,334,356,93.8,65,71,91.5,245,266,92.1,41,44,93.2,*,*,*,,,,167,181,92.3,167,175,95.4
+29,HILLSBOROUGH,0363,,MEDICAL ACADEMY AT D.W. WATERS,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+29,HILLSBOROUGH,0371,,SIMMONS CAREER CENTER,66,78,84.6,13,13,100,58,70,82.9,13,17,76.5,*,*,*,*,*,*,27,31,87.1,39,47,83
+29,HILLSBOROUGH,0761,,CHAMBERLAIN HIGH SCHOOL,259,333,77.8,34,55,61.8,217,287,75.6,58,74,78.4,,,,*,*,*,144,185,77.8,115,148,77.7
+29,HILLSBOROUGH,1202,,WILLIS PETERS EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,1291,,DURANT HIGH SCHOOL,534,577,92.5,97,106,91.5,268,307,87.3,27,36,75,14,15,93.3,*,*,*,275,307,89.6,259,270,95.9
+29,HILLSBOROUGH,1322,,EAST BAY HIGH SCHOOL,403,442,91.2,60,66,90.9,271,302,89.7,35,46,76.1,*,*,*,*,*,*,185,207,89.4,218,235,92.8
+29,HILLSBOROUGH,1331,,EISENHOWER EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,1541,,FREEDOM HIGH SCHOOL,344,377,91.2,52,56,92.9,211,243,86.8,43,58,74.1,,,,*,*,*,187,202,92.6,157,175,89.7
+29,HILLSBOROUGH,1551,,GAITHER HIGH SCHOOL,428,465,92,53,68,77.9,224,254,88.2,59,63,93.7,,,,,,,208,232,89.7,220,233,94.4
+29,HILLSBOROUGH,1881,,HILLSBOROUGH HIGH SCHOOL,378,418,90.4,54,61,88.5,252,285,88.4,62,74,83.8,,,,*,*,*,195,216,90.3,183,202,90.6
+29,HILLSBOROUGH,2241,,KING HIGH SCHOOL,274,335,81.8,26,36,72.2,171,226,75.7,36,45,80,,,,*,*,*,144,177,81.4,130,158,82.3
+29,HILLSBOROUGH,2421,,LETO HIGH SCHOOL,469,491,95.5,69,70,98.6,404,424,95.3,124,137,90.5,,,,*,*,*,222,236,94.1,247,255,96.9
+29,HILLSBOROUGH,2541,,LOPEZ EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,3004,,MIDDLETON HIGH SCHOOL,269,322,83.5,37,47,78.7,168,217,77.4,26,31,83.9,*,*,*,*,*,*,163,192,84.9,106,130,81.5
+29,HILLSBOROUGH,3171,,NEWSOME HIGH SCHOOL,854,862,99.1,93,95,97.9,143,146,97.9,17,18,94.4,,,,,,,432,436,99.1,422,426,99.1
+29,HILLSBOROUGH,3371,,RIVERVIEW HIGH SCHOOL,607,630,96.3,77,80,96.3,305,320,95.3,36,39,92.3,*,*,*,*,*,*,297,310,95.8,310,320,96.9
+29,HILLSBOROUGH,3411,,PLANT HIGH SCHOOL,601,614,97.9,32,37,86.5,103,105,98.1,18,19,94.7,,,,,,,285,292,97.6,316,322,98.1
+29,HILLSBOROUGH,3431,,PLANT CITY HIGH SCHOOL,563,586,96.1,97,102,95.1,411,428,96,87,94,92.6,11,12,91.7,*,*,*,264,280,94.3,299,306,97.7
+29,HILLSBOROUGH,3731,,ROBINSON HIGH SCHOOL,258,299,86.3,32,43,74.4,116,152,76.3,11,13,84.6,,,,,,,124,151,82.1,134,148,90.5
+29,HILLSBOROUGH,3782,,LAVOY EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,3784,,JEFFERSON HIGH SCHOOL,285,299,95.3,32,33,97,224,234,95.7,51,56,91.1,,,,,,,145,150,96.7,140,149,94
+29,HILLSBOROUGH,4002,,SIMMONS EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,4141,,BLOOMINGDALE HIGH SCHOOL,507,547,92.7,56,62,90.3,209,238,87.8,43,49,87.8,,,,*,*,*,240,268,89.6,267,279,95.7
+29,HILLSBOROUGH,4151,,SICKLES HIGH SCHOOL,548,563,97.3,63,65,96.9,227,238,95.4,67,71,94.4,,,,*,*,*,278,289,96.2,270,274,98.5
+29,HILLSBOROUGH,4154,,SOUTH COUNTY CAREER CENTER,81,119,68.1,19,28,67.9,61,91,67,8,14,57.1,*,*,*,*,*,*,41,66,62.1,40,53,75.5
+29,HILLSBOROUGH,4155,,BUILDING CONSTRUCTION ACADEMY AT BOWERS WHITLEY,12,26,46.2,7,12,58.3,10,24,41.7,*,*,*,,,,*,*,*,8,17,47.1,*,*,*
+29,HILLSBOROUGH,4221,,TAMPA BAY TECH HIGH SCHOOL,420,431,97.4,21,21,100,339,348,97.4,19,19,100,,,,,,,159,164,97,261,267,97.8
+29,HILLSBOROUGH,4321,,DOROTHY THOMAS CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,4331,,NORTH TAMPA SUCCESS CENTER,0,32,0,*,*,*,0,31,0,*,*,*,,,,*,*,*,0,24,0,*,*,*
+29,HILLSBOROUGH,4332,,BRANDON SUCCESS CENTER,4,71,5.6,0,15,0,3,64,4.7,*,*,*,*,*,*,*,*,*,3,56,5.4,1,15,6.7
+29,HILLSBOROUGH,4391,,ACTS,*,*,*,,,,*,*,*,*,*,*,,,,*,*,*,*,*,*,,,
+29,HILLSBOROUGH,4562,,CAMINITI EXCEPTIONAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,4731,,WHARTON HIGH SCHOOL,448,546,82.1,66,87,75.9,227,307,73.9,40,59,67.8,,,,*,*,*,225,278,80.9,223,268,83.2
+29,HILLSBOROUGH,5044,,"DETENTION CENTER, WEST",*,*,*,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*
+29,HILLSBOROUGH,5051,,AMI KIDS TAMPA,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,,,
+29,HILLSBOROUGH,5052,,AMI KIDS YES,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+29,HILLSBOROUGH,5054,,PACE CENTER FOR GIRLS,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+29,HILLSBOROUGH,5056,,TAMPA RESIDENTIAL FACILITY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+29,HILLSBOROUGH,5058,,FALKENBURG ROAD JAIL,1,42,2.4,1,16,6.3,0,31,0,*,*,*,*,*,*,*,*,*,1,37,2.7,*,*,*
+29,HILLSBOROUGH,5062,,COLUMBUS RESIDENTIAL JUVENILE FACILITY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+29,HILLSBOROUGH,5215,,WIMAUMA ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+29,HILLSBOROUGH,5371,,HOSPITAL/HOMEBOUND/HOMEBASED PROGRAMS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,6609,,PEPIN ACADEMIES,80,83,96.4,80,83,96.4,44,46,95.7,*,*,*,,,,*,*,*,57,60,95,23,23,100
+29,HILLSBOROUGH,6626,,KIDS COMMUNITY COLLEGE RIVERVIEW SOUTH (K-12),*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,6634,,BROOKS DEBARTOLO COLLEGIATE HIGH SCHOOL,140,140,100,*,*,*,32,32,100,*,*,*,,,,,,,70,70,100,70,70,100
+29,HILLSBOROUGH,6639,,FLORIDA AUTISM CHARTER SCHOOL OF EXCELLENCE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+29,HILLSBOROUGH,6646,,SEMINOLE HEIGHTS CHARTER HIGH SCHOOL,19,210,9,3,44,6.8,12,175,6.9,1,25,4,,,,*,*,*,12,118,10.2,7,92,7.6
+29,HILLSBOROUGH,6656,,PIVOT CHARTER SCHOOL,33,36,91.7,*,*,*,18,20,90,*,*,*,,,,,,,16,18,88.9,17,18,94.4
+29,HILLSBOROUGH,6659,,WEST UNIVERSITY CHARTER HIGH,53,278,19.1,5,56,8.9,49,249,19.7,10,52,19.2,,,,*,*,*,28,166,16.9,25,112,22.3
+29,HILLSBOROUGH,6661,,BELL CREEK ACADEMY,132,133,99.2,*,*,*,15,16,93.8,*,*,*,,,,,,,67,68,98.5,65,65,100
+29,HILLSBOROUGH,7023,,HILLSBOROUGH VIRTUAL SCHOOL,66,73,90.4,*,*,*,31,34,91.2,,,,,,,*,*,*,25,27,92.6,41,46,89.1
+29,HILLSBOROUGH,7672,,FOCUS ACADEMY,11,11,100,11,11,100,*,*,*,,,,,,,,,,*,*,*,*,*,*
+29,HILLSBOROUGH,7813,,KIDS COMMUNITY COLLEGE CHARTER HIGH SCHOOL,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+29,HILLSBOROUGH,7815,,SPORTS LEADERSHIP AND MANAGEMENT ACADEMY (TAMPA),58,62,93.5,*,*,*,40,43,93,*,*,*,,,,*,*,*,35,37,94.6,23,25,92
+29,HILLSBOROUGH,7826,,FLORIDA CONNECTIONS ACADEMY,395,578,68.3,51,74,68.9,166,274,60.6,13,22,59.1,,,,*,*,*,181,258,70.2,214,320,66.9
+29,HILLSBOROUGH,7827,,DR KIRAN C PATEL HIGH SCHOOL,160,160,100,15,15,100,16,16,100,*,*,*,,,,,,,74,74,100,86,86,100
+29,HILLSBOROUGH,7832,,WINTHROP COLLEGE PREP ACADEMY,153,155,98.7,18,19,94.7,62,64,96.9,14,14,100,,,,,,,76,78,97.4,77,77,100
+30,HOLMES,0031,,POPLAR SPRINGS HIGH SCHOOL,39,41,95.1,*,*,*,13,14,92.9,*,*,*,,,,,,,23,25,92,16,16,100
+30,HOLMES,0041,,BETHLEHEM HIGH SCHOOL,27,27,100,*,*,*,11,11,100,,,,,,,,,,15,15,100,12,12,100
+30,HOLMES,0061,,PONCE DE LEON HIGH SCHOOL,31,34,91.2,*,*,*,17,19,89.5,,,,,,,,,,14,15,93.3,17,19,89.5
+30,HOLMES,0261,,HOLMES COUNTY HIGH SCHOOL,101,107,94.4,17,19,89.5,47,52,90.4,,,,,,,,,,55,58,94.8,46,49,93.9
+30,HOLMES,0471,,GRADUATION ASSISTANCE PROGRAM,7,26,26.9,*,*,*,7,23,30.4,,,,,,,,,,6,19,31.6,*,*,*
+30,HOLMES,7004,,HOLMES VIRTUAL-FRANCHISE FLVS,3,10,30,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+31,INDIAN RIVER,0031,,VERO BEACH HIGH SCHOOL,637,657,97,84,88,95.5,279,292,95.5,21,22,95.5,,,,*,*,*,310,323,96,327,334,97.9
+31,INDIAN RIVER,0033,,IR PREP,0,17,0,*,*,*,0,11,0,*,*,*,,,,,,,0,14,0,*,*,*
+31,INDIAN RIVER,0131,,WABASSO SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+31,INDIAN RIVER,0291,,SEBASTIAN RIVER HIGH SCHOOL,430,437,98.4,53,55,96.4,183,187,97.9,13,14,92.9,,,,*,*,*,213,217,98.2,217,220,98.6
+31,INDIAN RIVER,5001,,INDIAN RIVER CHARTER HIGH SCHOOL,157,158,99.4,13,13,100,23,23,100,*,*,*,,,,,,,69,69,100,88,89,98.9
+31,INDIAN RIVER,7001,071,FLORIDA VIRTUAL SCHOOL – GRADES KG-12,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+31,INDIAN RIVER,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+31,INDIAN RIVER,7001,320,GRADUATION ALLIANCE - GRADES 09-12,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+32,JACKSON,0021,,MARIANNA HIGH SCHOOL,166,184,90.2,19,19,100,67,81,82.7,,,,,,,,,,83,91,91.2,83,93,89.2
+32,JACKSON,0121,,MALONE SCHOOL,35,37,94.6,*,*,*,14,15,93.3,*,*,*,,,,,,,13,15,86.7,22,22,100
+32,JACKSON,0141,,SNEADS HIGH SCHOOL,80,89,89.9,11,11,100,35,41,85.4,,,,,,,,,,38,42,90.5,42,47,89.4
+32,JACKSON,0202,,HOPE SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+32,JACKSON,0212,,JACKSON ALTERNATIVE SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+32,JACKSON,0251,,COTTONDALE HIGH SCHOOL,54,65,83.1,*,*,*,22,29,75.9,,,,,,,,,,31,40,77.5,23,25,92
+32,JACKSON,0491,,GRACEVILLE SCHOOL,36,42,85.7,*,*,*,18,22,81.8,,,,,,,,,,20,21,95.2,16,21,76.2
+32,JACKSON,7001,071,FLORIDA VIRTUAL SCHOOL – GRADES KG-12,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+32,JACKSON,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+32,JACKSON,9020,,THE DOVE (DEVELOPING OPPORTUNITIES THRU VOC. ED.),*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+33,JEFFERSON,0024,,JEFFERSON COUNTY HIGH A SOMERSET CHARTER SCHOOL,*,*,*,,,,*,*,*,*,*,*,,,,,,,*,*,*,,,
+33,JEFFERSON,0111,,JEFFERSON SCHOOLS K-12,27,32,84.4,*,*,*,17,21,81,*,*,*,,,,,,,13,15,86.7,14,17,82.4
+33,JEFFERSON,6016,,TURNING POINT,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+34,LAFAYETTE,0021,,LAFAYETTE HIGH SCHOOL,78,78,100,16,16,100,41,41,100,*,*,*,*,*,*,,,,40,40,100,38,38,100
+34,LAFAYETTE,7004,,LAFAYETTE VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+35,LAKE,0081,,EUSTIS HIGH SCHOOL,333,388,85.8,60,74,81.1,131,166,78.9,11,15,73.3,,,,,,,170,203,83.7,163,185,88.1
+35,LAKE,0161,,LEESBURG HIGH SCHOOL,403,443,91,62,74,83.8,222,243,91.4,21,25,84,,,,*,*,*,215,246,87.4,188,197,95.4
+35,LAKE,0181,,MT. DORA HIGH SCHOOL,282,286,98.6,49,51,96.1,108,111,97.3,21,21,100,,,,,,,154,158,97.5,128,128,100
+35,LAKE,0211,,TAVARES HIGH SCHOOL,368,400,92,55,62,88.7,158,179,88.3,14,15,93.3,,,,,,,189,207,91.3,179,193,92.7
+35,LAKE,0231,,UMATILLA HIGH SCHOOL,194,200,97,40,42,95.2,86,88,97.7,*,*,*,*,*,*,,,,88,93,94.6,106,107,99.1
+35,LAKE,0532,,THE ACADEMY AT LAKE HILLS SCHOOL- SOUTH,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+35,LAKE,0533,,LAKE HILLS SCHOOL,14,16,87.5,14,16,87.5,*,*,*,,,,,,,,,,9,10,90,*,*,*
+35,LAKE,0701,,SOUTH LAKE HIGH SCHOOL,443,486,91.2,71,78,91,170,196,86.7,18,20,90,,,,*,*,*,235,268,87.7,208,218,95.4
+35,LAKE,0801,,EAST RIDGE HIGH SCHOOL,671,691,97.1,109,112,97.3,216,226,95.6,57,59,96.6,,,,*,*,*,328,340,96.5,343,351,97.7
+35,LAKE,0901,,LAKE MINNEOLA HIGH SCHOOL,537,550,97.6,94,97,96.9,173,178,97.2,16,16,100,,,,,,,269,276,97.5,268,274,97.8
+35,LAKE,7004,,LAKE VIRTUAL FRANCHISE,60,66,90.9,16,17,94.1,21,27,77.8,*,*,*,,,,,,,24,28,85.7,36,38,94.7
+35,LAKE,7006,,LAKE VIRTUAL INSTRUCTION COURSE OFFERINGS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+35,LAKE,9004,,NONSCHOOL EXCEPTIONAL EDUCATION,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+35,LAKE,9013,,LAKE COUNTY ACER PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+35,LAKE,9018,,ALEE ACADEMY CHARTER SCHOOL,12,83,14.5,3,15,20,9,52,17.3,*,*,*,,,,*,*,*,6,50,12,6,33,18.2
+35,LAKE,9043,,LAKE SUCCESS ACADEMY,4,10,40,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*
+35,LAKE,9061,,PINECREST LAKES MIDDLE/HIGH ACADEMY,58,59,98.3,*,*,*,*,*,*,*,*,*,,,,,,,30,30,100,28,29,96.6
+36,LEE,0152,,YOUNG PARENT EDUCATION PROGRAM,*,*,*,,,,*,*,*,,,,,,,*,*,*,,,,*,*,*
+36,LEE,0221,,FORT MYERS HIGH SCHOOL,433,453,95.6,41,44,93.2,149,159,93.7,22,34,64.7,,,,,,,212,222,95.5,221,231,95.7
+36,LEE,0241,,LEHIGH SENIOR HIGH SCHOOL,498,558,89.2,57,61,93.4,280,315,88.9,53,78,67.9,*,*,*,*,*,*,218,260,83.8,280,298,94
+36,LEE,0311,,NORTH FORT MYERS HIGH SCHOOL,411,421,97.6,34,35,97.1,106,113,93.8,21,21,100,,,,*,*,*,158,166,95.2,253,255,99.2
+36,LEE,0491,,ISLAND COAST HIGH SCHOOL,303,336,90.2,30,32,93.8,157,174,90.2,52,67,77.6,,,,,,,169,190,88.9,134,146,91.8
+36,LEE,0511,,SOUTH FORT MYERS HIGH SCHOOL,356,406,87.7,45,48,93.8,189,208,90.9,88,122,72.1,*,*,*,*,*,*,163,190,85.8,193,216,89.4
+36,LEE,0531,,CYPRESS LAKE HIGH SCHOOL,347,368,94.3,37,39,94.9,112,123,91.1,44,53,83,,,,,,,150,161,93.2,197,207,95.2
+36,LEE,0547,,LEE COUNTY ACCELERATION ACADEMIES,18,86,20.9,4,11,36.4,9,49,18.4,1,14,7.1,,,,*,*,*,8,46,17.4,10,40,25
+36,LEE,0591,,RIVERDALE HIGH SCHOOL,441,452,97.6,51,55,92.7,195,200,97.5,41,44,93.2,*,*,*,,,,196,205,95.6,245,247,99.2
+36,LEE,0621,,CAPE CORAL HIGH SCHOOL,403,429,93.9,35,37,94.6,162,179,90.5,53,58,91.4,,,,,,,214,227,94.3,189,202,93.6
+36,LEE,0651,,ROYAL PALM EXCEPTIONAL SCHOOL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+36,LEE,0661,,SOUTHWEST FLORIDA JUVENILE DETENTION CENTER,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+36,LEE,0701,,BUCKINGHAM EXCEPTIONAL STUDENT CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+36,LEE,0721,,MARINER HIGH SCHOOL,413,441,93.7,45,49,91.8,170,183,92.9,59,66,89.4,,,,,,,203,222,91.4,210,219,95.9
+36,LEE,0731,,ESTERO HIGH SCHOOL,306,322,95,28,28,100,65,73,89,20,32,62.5,*,*,*,*,*,*,149,157,94.9,157,165,95.2
+36,LEE,0745,,EAST LEE COUNTY HIGH SCHOOL,352,375,93.9,47,48,97.9,217,232,93.5,82,88,93.2,*,*,*,*,*,*,183,196,93.4,169,179,94.4
+36,LEE,0831,,DUNBAR HIGH SCHOOL,329,387,85,32,33,97,184,214,86,88,123,71.5,*,*,*,,,,167,201,83.1,162,186,87.1
+36,LEE,0841,,BONITA SPRINGS HIGH SCHOOL,319,359,88.9,28,28,100,101,117,86.3,44,67,65.7,*,*,*,,,,164,191,85.9,155,168,92.3
+36,LEE,0842,,GATEWAY HIGH SCHOOL,439,471,93.2,46,47,97.9,218,235,92.8,60,76,78.9,*,*,*,*,*,*,222,239,92.9,217,232,93.5
+36,LEE,0861,,IDA S. BAKER HIGH SCHOOL,397,418,95,51,53,96.2,145,155,93.5,34,40,85,,,,,,,183,191,95.8,214,227,94.3
+36,LEE,4103,,GATEWAY CHARTER SCHOOL,96,102,94.1,*,*,*,44,48,91.7,14,18,77.8,*,*,*,,,,56,59,94.9,40,43,93
+36,LEE,4155,,FLORIDA SOUTHWESTERN COLLEGIATE HIGH SCHOOL,98,98,100,*,*,*,33,33,100,,,,,,,*,*,*,44,44,100,54,54,100
+36,LEE,4181,,OASIS CHARTER HIGH SCHOOL,161,163,98.8,*,*,*,52,52,100,*,*,*,,,,,,,78,80,97.5,83,83,100
+36,LEE,4212,,CITY OF PALMS CHARTER HIGH SCHOOL,11,52,21.2,*,*,*,4,26,15.4,2,13,15.4,,,,,,,4,27,14.8,7,25,28
+36,LEE,4223,,PALM ACRES CHARTER HIGH SCHOOL,13,82,15.9,3,15,20,10,59,16.9,0,23,0,*,*,*,*,*,*,8,47,17,5,35,14.3
+36,LEE,4242,,NORTH NICHOLAS HIGH SCHOOL,61,141,43.3,4,12,33.3,25,57,43.9,9,24,37.5,,,,*,*,*,32,81,39.5,29,60,48.3
+36,LEE,4251,,CORONADO HIGH SCHOOL,16,123,13,1,13,7.7,8,67,11.9,0,39,0,*,*,*,*,*,*,9,73,12.3,7,50,14
+36,LEE,4274,,ISLAND PARK HIGH SCHOOL,32,126,25.4,6,16,37.5,17,70,24.3,9,45,20,*,*,*,,,,17,79,21.5,15,47,31.9
+36,LEE,4302,,DONNA J. BEASLEY TECHNICAL ACADEMY,18,132,13.6,2,22,9.1,11,83,13.3,2,30,6.7,*,*,*,*,*,*,10,84,11.9,8,48,16.7
+36,LEE,4303,,NORTHERN PALMS CHARTER HIGH SCHOOL,8,25,32,*,*,*,5,17,29.4,*,*,*,,,,,,,6,15,40,2,10,20
+36,LEE,7004,,LEE COUNTY VIRTUAL FRANCHISE,98,98,100,10,10,100,18,18,100,*,*,*,,,,,,,33,33,100,65,65,100
+36,LEE,9450,,COUNTY WIDE EXCEPTIONAL CHILD PROGRAMS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+37,LEON,0021,,LEON HIGH SCHOOL,431,509,84.7,32,40,80,119,179,66.5,10,14,71.4,,,,*,*,*,201,240,83.8,230,269,85.5
+37,LEON,0051,,JAMES RICKARDS HIGH SCHOOL,312,368,84.8,52,59,88.1,184,226,81.4,8,11,72.7,*,*,*,,,,129,157,82.2,183,211,86.7
+37,LEON,0161,,AMOS P. GODBY HIGH SCHOOL,222,308,72.1,36,48,75,136,192,70.8,12,14,85.7,,,,*,*,*,84,137,61.3,138,171,80.7
+37,LEON,0191,,SECOND CHANCE AT GHAZVINI LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+37,LEON,0204,,SAIL,85,89,95.5,14,14,100,24,27,88.9,,,,,,,*,*,*,41,43,95.3,44,46,95.7
+37,LEON,0411,,GRETCHEN EVERHART SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+37,LEON,0452,,HERITAGE TRAILS COMMUNITY SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+37,LEON,1091,,LINCOLN HIGH SCHOOL,392,434,90.3,35,41,85.4,93,121,76.9,*,*,*,,,,,,,184,207,88.9,208,227,91.6
+37,LEON,1141,,LAWTON CHILES HIGH SCHOOL,456,462,98.7,33,34,97.1,40,43,93,*,*,*,,,,,,,233,237,98.3,223,225,99.1
+37,LEON,1211,,SUCCESS ACADEMY AT GHAZVINI LEARNING CENTER,6,46,13,1,10,10,3,39,7.7,,,,,,,*,*,*,0,25,0,6,21,28.6
+37,LEON,1502,,LEON CO JUVENILE DETENTION CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+37,LEON,1503,,PACE CENTER FOR GIRLS,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+37,LEON,1519,,LEON COUNTY JAIL,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+37,LEON,7004,,LEON COUNTY VIRTUAL SCHOOL FRANCHISE,20,21,95.2,*,*,*,*,*,*,,,,,,,,,,*,*,*,13,13,100
+37,LEON,9003,,LEON COUNTYWIDE ADULT EDUCATION PROG,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+38,LEVY,0021,,BRONSON MIDDLE/HIGH SCHOOL,56,57,98.2,23,23,100,34,34,100,*,*,*,,,,*,*,*,30,30,100,26,27,96.3
+38,LEVY,0041,,CEDAR KEY HIGH SCHOOL,16,16,100,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*,*,*,*
+38,LEVY,0051,,CHIEFLAND MIDDLE HIGH SCHOOL,109,113,96.5,21,23,91.3,56,59,94.9,,,,*,*,*,,,,60,62,96.8,49,51,96.1
+38,LEVY,0091,,WILLISTON MIDDLE HIGH SCHOOL,150,163,92,22,25,88,87,97,89.7,*,*,*,,,,*,*,*,84,92,91.3,66,71,93
+39,LIBERTY,0021,,LIBERTY COUNTY HIGH SCHOOL,86,92,93.5,11,12,91.7,26,31,83.9,*,*,*,,,,,,,41,44,93.2,45,48,93.8
+39,LIBERTY,0053,,APALACHICOLA FOREST YOUTH ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+39,LIBERTY,7004,,LIBERTY VIRTUAL FRANCHISE,*,*,*,*,*,*,*,*,*,,,,*,*,*,,,,*,*,*,*,*,*
+40,MADISON,0011,,MADISON COUNTY HIGH SCHOOL,89,112,79.5,17,25,68,46,59,78,*,*,*,*,*,*,,,,43,58,74.1,46,54,85.2
+40,MADISON,0121,,JAMES MADISON PREPARATORY HIGH SCHOOL,50,53,94.3,*,*,*,*,*,*,,,,,,,,,,25,26,96.2,25,27,92.6
+40,MADISON,0931,,WAYPOINT CHARTER ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+40,MADISON,7004,,MADISON VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+41,MANATEE,0072,,BAYSHORE HIGH SCHOOL,258,317,81.4,45,58,77.6,163,206,79.1,69,84,82.1,,,,*,*,*,136,174,78.2,122,143,85.3
+41,MANATEE,0181,,MANATEE HIGH SCHOOL,438,515,85,64,78,82.1,245,303,80.9,43,65,66.2,*,*,*,,,,212,257,82.5,226,258,87.6
+41,MANATEE,0351,,PALMETTO HIGH SCHOOL,441,486,90.7,67,75,89.3,259,289,89.6,56,73,76.7,*,*,*,,,,231,259,89.2,210,227,92.5
+41,MANATEE,0431,,SOUTHEAST HIGH SCHOOL,346,388,89.2,46,58,79.3,224,260,86.2,89,100,89,*,*,*,*,*,*,170,193,88.1,176,195,90.3
+41,MANATEE,0721,,LAKEWOOD RANCH HIGH SCHOOL,585,606,96.5,75,78,96.2,118,131,90.1,31,35,88.6,*,*,*,,,,297,314,94.6,288,292,98.6
+41,MANATEE,0731,,HORIZONS ACADEMY,141,358,39.4,27,70,38.6,99,268,36.9,20,69,29,*,*,*,*,*,*,77,199,38.7,64,159,40.3
+41,MANATEE,0762,,BRADEN RIVER HIGH SCHOOL,401,434,92.4,44,51,86.3,151,174,86.8,37,47,78.7,*,*,*,,,,195,214,91.1,206,220,93.6
+41,MANATEE,0852,,PARRISH COMMUNITY HIGH SCHOOL,483,508,95.1,60,70,85.7,144,160,90,25,27,92.6,15,16,93.8,*,*,*,233,247,94.3,250,261,95.8
+41,MANATEE,2004,,PACE CENTER FOR GIRLS,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+41,MANATEE,2011,,ACCESS TO EDUCATION,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+41,MANATEE,2051,,JUVENILE DETENTION CENTER,0,10,0,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+41,MANATEE,2056,,PALMSHORES BEHAVIOR HEALTH CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+41,MANATEE,2068,,THE PORT ACADEMY,1,11,9.1,*,*,*,*,*,*,*,*,*,,,,,,,1,11,9.1,,,
+41,MANATEE,2102,,TEAM SUCCESS A SCHOOL OF EXCELLENCE,56,62,90.3,*,*,*,47,52,90.4,22,27,81.5,*,*,*,,,,26,29,89.7,30,33,90.9
+41,MANATEE,2104,,MANATEE SCHOOL FOR THE ARTS,186,202,92.1,25,25,100,78,86,90.7,11,16,68.8,,,,,,,77,82,93.9,109,120,90.8
+41,MANATEE,2141,,STATE COLLEGE OF FLORIDA COLLEGIATE SCHOOL,74,74,100,*,*,*,30,30,100,*,*,*,,,,,,,32,32,100,42,42,100
+41,MANATEE,7004,,MANATEE VIRTUAL SCHOOL ( VIRTUAL FRANCHISE),16,20,80,*,*,*,*,*,*,,,,,,,,,,9,10,90,7,10,70
+42,MARION,0331,,NORTH MARION HIGH SCHOOL,259,315,82.2,39,46,84.8,174,220,79.1,7,11,63.6,,,,*,*,*,111,139,79.9,148,176,84.1
+42,MARION,0351,,FOREST HIGH SCHOOL,524,573,91.4,67,79,84.8,248,285,87,10,14,71.4,,,,*,*,*,249,279,89.2,275,294,93.5
+42,MARION,0461,,VANGUARD HIGH SCHOOL,325,380,85.5,38,51,74.5,213,259,82.2,10,19,52.6,*,*,*,*,*,*,148,175,84.6,177,205,86.3
+42,MARION,0471,,HILLCREST,19,23,82.6,19,23,82.6,15,17,88.2,,,,,,,,,,11,12,91.7,8,11,72.7
+42,MARION,0501,,LAKE WEIR HIGH SCHOOL,223,289,77.2,27,35,77.1,164,224,73.2,11,20,55,,,,*,*,*,120,158,75.9,103,131,78.6
+42,MARION,0521,,DUNNELLON HIGH SCHOOL,262,302,86.8,31,36,86.1,177,207,85.5,16,22,72.7,,,,*,*,*,131,146,89.7,131,156,84
+42,MARION,0661,,BELLEVIEW HIGH SCHOOL,352,413,85.2,44,57,77.2,200,250,80,22,32,68.8,,,,*,*,*,175,209,83.7,177,204,86.8
+42,MARION,0701,,WEST PORT HIGH SCHOOL,667,752,88.7,70,87,80.5,390,453,86.1,33,48,68.8,,,,*,*,*,332,387,85.8,335,365,91.8
+42,MARION,9401,,MARION TECHNICAL INSTITUTE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+42,MARION,9618,,SILVER RIVER MENTORING AND INSTRUCTION,5,58,8.6,*,*,*,4,51,7.8,*,*,*,,,,*,*,*,2,37,5.4,3,21,14.3
+42,MARION,9722,,MARION REG. JUVENILE DETENTION CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+42,MARION,9728,,OCALA CENTER FOR SUCCESS AND INDEPENDENCE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+42,MARION,9731,,NEW LEAF CENTER,1,11,9.1,1,11,9.1,1,10,10,*,*,*,,,,,,,*,*,*,*,*,*
+42,MARION,9734,,"PACE CENTER FOR GIRLS, INC.",*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+42,MARION,9737,,MCSO ADULTS,0,18,0,*,*,*,0,12,0,,,,,,,*,*,*,0,18,0,,,
+42,MARION,9738,,MARION COUNTY ACCELERATION ACADEMY,4,132,3,0,12,0,2,107,1.9,*,*,*,,,,*,*,*,1,62,1.6,3,70,4.3
+43,MARTIN,0031,,MARTIN COUNTY HIGH SCHOOL,550,573,96,70,74,94.6,218,227,96,36,42,85.7,,,,*,*,*,278,289,96.2,272,284,95.8
+43,MARTIN,0070,,RIVERBEND ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+43,MARTIN,0071,,ESE HOMEBOUND,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+43,MARTIN,0073,,SPECTRUM ACADEMY,4,60,6.7,0,10,0,4,44,9.1,2,19,10.5,*,*,*,*,*,*,0,33,0,4,27,14.8
+43,MARTIN,0241,,SOUTH FORK HIGH SCHOOL,407,439,92.7,54,56,96.4,185,211,87.7,53,69,76.8,,,,*,*,*,217,236,91.9,190,203,93.6
+43,MARTIN,0294,,WILLOUGHBY LEARNING CENTER,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+43,MARTIN,0351,,JENSEN BEACH HIGH SCHOOL,366,373,98.1,44,45,97.8,93,96,96.9,20,23,87,,,,,,,195,200,97.5,171,173,98.8
+43,MARTIN,0400,,CLARK ADVANCED LEARNING CENTER,96,96,100,*,*,*,23,23,100,*,*,*,,,,,,,44,44,100,52,52,100
+43,MARTIN,0431,,MARTIN COUNTY ACCELERATION ACADEMIES,*,*,*,,,,*,*,*,*,*,*,,,,,,,,,,*,*,*
+44,MONROE,0041,,CORAL SHORES HIGH SCHOOL,163,179,91.1,28,31,90.3,58,67,86.6,*,*,*,,,,*,*,*,95,103,92.2,68,76,89.5
+44,MONROE,0101,,KEY WEST HIGH SCHOOL,281,316,88.9,37,43,86,100,118,84.7,26,46,56.5,,,,,,,135,159,84.9,146,157,93
+44,MONROE,0106,,KEYS CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+44,MONROE,0112,,LOWER KEYS ACADEMIC CONNECTIONS FOR EXCELLENCE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+44,MONROE,0113,,UPPER KEYS ACADEMIC CONNECTIONS FOR EXCELLENCE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+44,MONROE,0131,,MARATHON SCHOOL,74,89,83.1,15,19,78.9,31,42,73.8,13,18,72.2,,,,*,*,*,39,50,78,35,39,89.7
+44,MONROE,0293,,MONROE COUNTY DETENTION CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+44,MONROE,0382,,SOMERSET ISLAND PREP,32,32,100,*,*,*,*,*,*,*,*,*,,,,,,,19,19,100,13,13,100
+44,MONROE,7001,309,EDGENUITY – GRADES KG-12,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+44,MONROE,7001,310,EDMENTUM - GRADES 06-12,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+44,MONROE,7001,320,GRADUATION ALLIANCE - GRADES 09-12,6,12,50,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+44,MONROE,7004,,MONROE VIRTUAL FRANCHISE,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+45,NASSAU,0053,,NASSAU COUNTY COMMUNITY SCHOOL,19,57,33.3,3,11,27.3,9,31,29,*,*,*,,,,,,,12,36,33.3,7,21,33.3
+45,NASSAU,0151,,HILLIARD MIDDLE-SENIOR HIGH,101,106,95.3,13,13,100,47,52,90.4,,,,,,,,,,54,59,91.5,47,47,100
+45,NASSAU,0191,,WEST NASSAU COUNTY HIGH SCHOOL,208,217,95.9,27,28,96.4,94,100,94,*,*,*,,,,*,*,*,92,99,92.9,116,118,98.3
+45,NASSAU,0231,,YULEE HIGH SCHOOL,279,294,94.9,41,47,87.2,86,98,87.8,*,*,*,,,,,,,147,153,96.1,132,141,93.6
+45,NASSAU,0291,,FERNANDINA BEACH HIGH SCHOOL,219,224,97.8,25,25,100,75,78,96.2,*,*,*,,,,,,,124,127,97.6,95,97,97.9
+45,NASSAU,7004,,NASSAU VIRTUAL FRANCHISE,23,27,85.2,*,*,*,11,13,84.6,,,,,,,,,,9,11,81.8,14,16,87.5
+46,OKALOOSA,0041,,BAKER SCHOOL,116,122,95.1,29,30,96.7,49,51,96.1,,,,,,,*,*,*,46,50,92,70,72,97.2
+46,OKALOOSA,0201,,LAUREL HILL SCHOOL,39,39,100,12,12,100,25,25,100,,,,,,,,,,18,18,100,21,21,100
+46,OKALOOSA,0211,,NICEVILLE SENIOR HIGH SCHOOL,510,527,96.8,52,53,98.1,85,97,87.6,*,*,*,,,,*,*,*,243,250,97.2,267,277,96.4
+46,OKALOOSA,0241,,SILVER SANDS-EXCEP. CHILDREN,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+46,OKALOOSA,0581,,CHOCTAWHATCHEE SENIOR HIGH SCHOOL,292,321,91,45,47,95.7,131,149,87.9,9,21,42.9,,,,,,,132,146,90.4,160,175,91.4
+46,OKALOOSA,0601,,CRESTVIEW HIGH SCHOOL,495,510,97.1,87,87,100,201,207,97.1,*,*,*,,,,,,,235,241,97.5,260,269,96.7
+46,OKALOOSA,0641,,FORT WALTON BEACH HIGH SCHOOL,342,386,88.6,41,46,89.1,138,158,87.3,5,12,41.7,,,,,,,184,204,90.2,158,182,86.8
+46,OKALOOSA,0701,,OKALOOSA TECHNICAL COLLEGE,6,21,28.6,*,*,*,*,*,*,*,*,*,,,,*,*,*,5,14,35.7,*,*,*
+46,OKALOOSA,0791,,EMERALD COAST CAREER INSTITUTE N,11,30,36.7,5,11,45.5,4,18,22.2,,,,,,,*,*,*,7,16,43.8,4,14,28.6
+46,OKALOOSA,0801,,RICHBOURG SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+46,OKALOOSA,7004,,OKALOOSA VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+46,OKALOOSA,7023,,OKALOOSA ONLINE NON FRANCHISED,93,186,50,20,40,50,44,100,44,*,*,*,*,*,*,*,*,*,51,99,51.5,42,87,48.3
+46,OKALOOSA,9700,,DESTIN HIGH SCHOOL,80,96,83.3,*,*,*,19,24,79.2,,,,,,,,,,45,56,80.4,35,40,87.5
+46,OKALOOSA,9800,,OKALOOSA ACADEMY,18,45,40,6,11,54.5,15,31,48.4,*,*,*,,,,*,*,*,13,26,50,5,19,26.3
+46,OKALOOSA,9805,,COLLEGIATE HIGH SCHOOL AT NORTHWEST FLORIDA STATE COLLEGE,92,92,100,*,*,*,19,19,100,,,,,,,,,,38,38,100,54,54,100
+46,OKALOOSA,9811,,CRESTVIEW YOUTH ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+46,OKALOOSA,9812,,OKALOOSA YOUTH ACADEMY,*,*,*,,,,*,*,*,,,,,,,*,*,*,*,*,*,,,
+46,OKALOOSA,9813,,OKALOOSA REGIONAL DETENTION,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+46,OKALOOSA,9819,,ADJUDICATED YOUTH FACILITY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+46,OKALOOSA,9821,,CRESTVIEW YOUTH ACADEMY (NON SECURE),*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+47,OKEECHOBEE,0101,,OKEECHOBEE HIGH SCHOOL,366,427,85.7,86,99,86.9,198,239,82.8,13,31,41.9,35,37,94.6,*,*,*,201,238,84.5,165,189,87.3
+47,OKEECHOBEE,0113,,OKEECHOBEE ACHIEVEMENT ACADEMY,0,15,0,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+47,OKEECHOBEE,7004,,OKEECHOBEE VIRTUAL FRANCHISE,11,14,78.6,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+47,OKEECHOBEE,7006,,OKEECHOBEE  VIRTUAL SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+47,OKEECHOBEE,9103,,TANTIE,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,,,
+48,ORANGE,0011,,HOSPITAL HOMEBOUND,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+48,ORANGE,0032,,ESTEEM ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+48,ORANGE,0040,,PROSPERITAS LEADERSHIP ACADEMY CHARTER,1,33,3,*,*,*,1,23,4.3,1,18,5.6,,,,*,*,*,1,17,5.9,0,16,0
+48,ORANGE,0041,,SIMON YOUTH FOUND ACAD AT OUTLET MKTPLCE,13,19,68.4,*,*,*,13,18,72.2,*,*,*,,,,,,,*,*,*,11,14,78.6
+48,ORANGE,0042,,BETA,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*
+48,ORANGE,0074,,WORKFORCE ADVANTAGE ACADEMY CHARTER,18,122,14.8,6,15,40,14,104,13.5,*,*,*,,,,*,*,*,8,64,12.5,10,58,17.2
+48,ORANGE,0084,,SHEELER HIGH CHARTER,52,206,25.2,5,25,20,39,149,26.2,1,40,2.5,*,*,*,*,*,*,28,111,25.2,24,95,25.3
+48,ORANGE,0085,,CHANCERY HIGH CHARTER,51,276,18.5,6,25,24,35,162,21.6,12,112,10.7,,,,*,*,*,20,153,13.1,31,123,25.2
+48,ORANGE,0089,,ORLANDO SCIENCE MIDDLE HIGH CHARTER,131,134,97.8,*,*,*,47,49,95.9,*,*,*,,,,,,,78,80,97.5,53,54,98.1
+48,ORANGE,0111,,WILLIAM R BOONE HIGH,665,688,96.7,70,73,95.9,355,368,96.5,75,81,92.6,,,,,,,334,347,96.3,331,341,97.1
+48,ORANGE,0113,,PROJECT COMPASS,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,,,
+48,ORANGE,0114,,JUVENILE OFFENDERS PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+48,ORANGE,0119,,LEGACY HIGH CHARTER,35,36,97.2,*,*,*,*,*,*,,,,,,,,,,22,23,95.7,13,13,100
+48,ORANGE,0120,,ALOMA HIGH CHARTER,59,194,30.4,8,25,32,38,127,29.9,15,51,29.4,,,,,,,24,94,25.5,35,100,35
+48,ORANGE,0121,,EDGEWATER HIGH,407,421,96.7,62,63,98.4,271,284,95.4,16,16,100,,,,*,*,*,202,210,96.2,205,211,97.2
+48,ORANGE,0122,,POSITIVE PATHWAYS TRANSITION CENTER,22,71,31,5,15,33.3,21,65,32.3,*,*,*,,,,,,,16,55,29.1,6,16,37.5
+48,ORANGE,0128,,UNIVERSAL EDUCATION CENTER,15,15,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+48,ORANGE,0146,,CORNERSTONE CHARTER ACADEMY HIGH,119,124,96,*,*,*,52,55,94.5,8,10,80,,,,,,,56,59,94.9,63,65,96.9
+48,ORANGE,0149,,CENTRAL FLORIDA LEADERSHIP ACADEMY CHARTER,12,13,92.3,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+48,ORANGE,0152,,INNOVATIONS MIDDLE CHARTER,0,12,0,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*
+48,ORANGE,0172,,INNOVATION MONTESSORI OCOEE,31,31,100,*,*,*,13,13,100,*,*,*,,,,,,,12,12,100,19,19,100
+48,ORANGE,0177,,ACCESS CHARTER,0,12,0,0,12,0,,,,,,,,,,,,,0,10,0,*,*,*
+48,ORANGE,0183,,UCP TRANSITIONAL LEARNING ACADEMY CHARTER,18,20,90,18,19,94.7,8,10,80,*,*,*,,,,*,*,*,9,11,81.8,*,*,*
+48,ORANGE,0202,,SUNSHINE HIGH SCHOOL-GREATER ORLANDO CAMPUS,54,283,19.1,7,26,26.9,34,179,19,15,88,17,,,,*,*,*,26,147,17.7,28,136,20.6
+48,ORANGE,0252,,OCOEE HIGH,595,601,99,65,65,100,455,461,98.7,26,26,100,*,*,*,*,*,*,286,290,98.6,309,311,99.4
+48,ORANGE,0395,,VILLAGE,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+48,ORANGE,0441,,DEVEREUX TREATMENT PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+48,ORANGE,0591,,SILVER PINES ACADEMY K-12 LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+48,ORANGE,0661,,COLONIAL HIGH,689,750,91.9,89,90,98.9,575,630,91.3,140,164,85.4,,,,*,*,*,337,372,90.6,352,378,93.1
+48,ORANGE,0671,,MAYNARD EVANS HIGH,508,573,88.7,52,59,88.1,466,528,88.3,61,74,82.4,,,,*,*,*,244,282,86.5,264,291,90.7
+48,ORANGE,0691,,OAK RIDGE HIGH,497,529,94,51,54,94.4,439,466,94.2,132,149,88.6,,,,,,,262,279,93.9,235,250,94
+48,ORANGE,0931,,DR. PHILLIPS HIGH,714,733,97.4,58,58,100,425,441,96.4,157,159,98.7,,,,*,*,*,349,357,97.8,365,376,97.1
+48,ORANGE,0932,,LAKE BUENA VISTA HIGH SCHOOL,354,379,93.4,28,30,93.3,206,226,91.2,136,145,93.8,,,,,,,177,194,91.2,177,185,95.7
+48,ORANGE,1001,,UNIVERSITY HIGH,550,582,94.5,54,57,94.7,358,383,93.5,64,71,90.1,,,,,,,280,297,94.3,270,285,94.7
+48,ORANGE,1002,,ECON RIVER HIGH CHARTER,52,190,27.4,9,42,21.4,35,131,26.7,3,31,9.7,,,,*,*,*,26,115,22.6,26,75,34.7
+48,ORANGE,1311,,JUVENILE DETENTION,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,*,*,*
+48,ORANGE,1411,,WINTER PARK HIGH,780,801,97.4,64,68,94.1,289,307,94.1,55,60,91.7,,,,*,*,*,377,386,97.7,403,415,97.1
+48,ORANGE,1471,,HORIZON HIGH SCHOOL,460,477,96.4,36,37,97.3,133,142,93.7,111,120,92.5,,,,,,,225,235,95.7,235,242,97.1
+48,ORANGE,1511,,WEST ORANGE HIGH,643,682,94.3,58,67,86.6,268,297,90.2,48,57,84.2,,,,*,*,*,288,314,91.7,355,368,96.5
+48,ORANGE,1521,,APOPKA HIGH,753,800,94.1,80,80,100,449,489,91.8,26,35,74.3,*,*,*,,,,361,389,92.8,392,411,95.4
+48,ORANGE,1542,,WEKIVA HIGH,389,405,96,54,55,98.2,331,345,95.9,30,31,96.8,*,*,*,,,,207,216,95.8,182,189,96.3
+48,ORANGE,1561,,MAGNOLIA SCHOOL,12,14,85.7,12,14,85.7,11,12,91.7,,,,,,,,,,11,12,91.7,*,*,*
+48,ORANGE,1631,,TIMBER CREEK HIGH,890,898,99.1,86,86,100,316,322,98.1,58,59,98.3,,,,*,*,*,429,433,99.1,461,465,99.1
+48,ORANGE,1632,,OLYMPIA HIGH,691,730,94.7,46,51,90.2,381,407,93.6,122,131,93.1,,,,,,,354,379,93.4,337,351,96
+48,ORANGE,1651,,CYPRESS CREEK HIGH,803,832,96.5,80,81,98.8,650,674,96.4,168,178,94.4,,,,*,*,*,404,421,96,399,411,97.1
+48,ORANGE,1662,,FREEDOM HIGH,597,606,98.5,38,38,100,397,402,98.8,187,194,96.4,,,,*,*,*,292,300,97.3,305,306,99.7
+48,ORANGE,1691,,PACE CENTER FOR GIRLS,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+48,ORANGE,1801,,EAST RIVER HIGH,426,441,96.6,44,44,100,238,252,94.4,31,35,88.6,,,,,,,234,242,96.7,192,199,96.5
+48,ORANGE,1811,,ACCELERATION EAST,56,72,77.8,13,14,92.9,49,60,81.7,7,12,58.3,,,,*,*,*,25,33,75.8,31,39,79.5
+48,ORANGE,1841,,ACCELERATION WEST,33,37,89.2,*,*,*,31,35,88.6,*,*,*,*,*,*,,,,14,16,87.5,19,21,90.5
+48,ORANGE,1908,,WINDERMERE HIGH,771,779,99,52,53,98.1,211,216,97.7,174,177,98.3,,,,*,*,*,371,375,98.9,400,404,99
+48,ORANGE,1951,,LAKE NONA HIGH,986,990,99.6,68,69,98.6,380,384,99,211,211,100,,,,,,,513,516,99.4,473,474,99.8
+48,ORANGE,5711,,JONES HIGH,319,346,92.2,40,42,95.2,302,324,93.2,22,27,81.5,,,,,,,135,151,89.4,184,195,94.4
+48,ORANGE,5831,,RANDALL ACADEMY,15,16,93.8,*,*,*,13,14,92.9,*,*,*,,,,,,,12,13,92.3,*,*,*
+48,ORANGE,7004,,OCVS VIRTUAL FRANCHISE,203,211,96.2,14,14,100,91,94,96.8,15,18,83.3,,,,,,,94,96,97.9,109,115,94.8
+48,ORANGE,7006,,OCVS VIRTUAL INSTRUCTION (COURSE OFFERINGS),*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+49,OSCEOLA,0005,,TOHOPEKALIGA HIGH SCHOOL,613,664,92.3,42,47,89.4,324,359,90.3,137,150,91.3,,,,*,*,*,298,332,89.8,315,332,94.9
+49,OSCEOLA,0081,,OSCEOLA HIGH SCHOOL,505,533,94.7,58,65,89.2,289,305,94.8,146,159,91.8,,,,,,,235,254,92.5,270,279,96.8
+49,OSCEOLA,0152,,FOUR CORNERS UPPER SCHOOL,165,171,96.5,20,20,100,77,78,98.7,24,26,92.3,,,,,,,89,90,98.9,76,81,93.8
+49,OSCEOLA,0155,,VICTORY CHARTER SCHOOL,61,70,87.1,*,*,*,31,34,91.2,37,43,86,,,,,,,35,41,85.4,26,29,89.7
+49,OSCEOLA,0162,,ST. CLOUD PREPARATORY ACADEMY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+49,OSCEOLA,0201,,ST. CLOUD HIGH SCHOOL,496,528,93.9,70,76,92.1,235,255,92.2,63,76,82.9,,,,,,,230,253,90.9,266,275,96.7
+49,OSCEOLA,0601,,GATEWAY HIGH SCHOOL,359,380,94.5,29,37,78.4,191,204,93.6,67,77,87,,,,*,*,*,171,185,92.4,188,195,96.4
+49,OSCEOLA,0841,,POINCIANA HIGH SCHOOL,538,556,96.8,69,71,97.2,280,292,95.9,115,121,95,,,,,,,288,301,95.7,250,255,98
+49,OSCEOLA,0842,,LIBERTY HIGH SCHOOL,375,425,88.2,50,60,83.3,231,257,89.9,64,76,84.2,,,,,,,187,215,87,188,210,89.5
+49,OSCEOLA,0853,,NEW DIMENSIONS HIGH SCHOOL,88,91,96.7,*,*,*,53,54,98.1,15,16,93.8,,,,,,,41,42,97.6,47,49,95.9
+49,OSCEOLA,0859,,HERITAGE PARK ACADEMY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+49,OSCEOLA,0862,,PROFESSIONAL & TECHNICAL HIGH SCHOOL,113,113,100,*,*,*,45,45,100,19,19,100,,,,,,,54,54,100,59,59,100
+49,OSCEOLA,0902,,CELEBRATION HIGH SCHOOL,528,578,91.3,37,47,78.7,201,231,87,152,173,87.9,,,,*,*,*,257,294,87.4,271,284,95.4
+49,OSCEOLA,0921,,OSCEOLA COUNTY SCHOOL FOR THE ARTS,141,141,100,*,*,*,48,48,100,*,*,*,,,,,,,31,31,100,110,110,100
+49,OSCEOLA,0922,,HARMONY HIGH SCHOOL,581,641,90.6,77,92,83.7,238,269,88.5,73,85,85.9,,,,,,,278,316,88,303,325,93.2
+49,OSCEOLA,0959,,MAIN STREET HIGH SCHOOL,56,210,26.7,27,38,71.1,34,141,24.1,10,59,16.9,,,,*,*,*,37,137,27,19,73,26
+49,OSCEOLA,0962,,NEOCITY ACADEMY,99,99,100,*,*,*,31,31,100,*,*,*,,,,,,,71,71,100,28,28,100
+49,OSCEOLA,0971,,MATER BRIGHTON LAKES ACADEMY PREPARATORY HIGH,68,74,91.9,*,*,*,56,61,91.8,12,15,80,,,,,,,35,41,85.4,33,33,100
+49,OSCEOLA,7004,,OSCEOLA VIRTUAL FRANCHISE (SECONDARY),35,37,94.6,*,*,*,12,13,92.3,*,*,*,,,,,,,15,15,100,20,22,90.9
+49,OSCEOLA,7030,,VIRTUAL PREPARATORY ACADEMY OF FLORIDA,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+49,OSCEOLA,9003,,ZENITH ACCELERATED ACADEMY,107,202,53,16,30,53.3,77,138,55.8,24,53,45.3,,,,,,,49,103,47.6,58,99,58.6
+49,OSCEOLA,9020,,OASIS RESIDENTIAL CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+49,OSCEOLA,9036,,NEW BEGINNINGS EDUCATION CENTER,0,26,0,*,*,*,0,15,0,*,*,*,,,,,,,0,22,0,*,*,*
+50,PALM BEACH,0081,,JUPITER HIGH SCHOOL,654,673,97.2,97,100,97,250,263,95.1,34,45,75.6,,,,*,*,*,334,347,96.3,320,326,98.2
+50,PALM BEACH,0151,,SUNCOAST COMMUNITY HIGH SCHOOL,354,354,100,*,*,*,126,126,100,*,*,*,,,,,,,202,202,100,152,152,100
+50,PALM BEACH,0395,,ALEXANDER W DREYFOOS JUNIOR SCHOOL OF THE ARTS,341,342,99.7,12,12,100,99,99,100,*,*,*,,,,,,,92,92,100,249,250,99.6
+50,PALM BEACH,0581,,FOREST HILL COMMUNITY HIGH SCHOOL,533,575,92.7,78,81,96.3,421,456,92.3,86,108,79.6,,,,,,,254,286,88.8,279,289,96.5
+50,PALM BEACH,0691,,LAKE WORTH HIGH SCHOOL,479,484,99,80,82,97.6,413,418,98.8,110,111,99.1,*,*,*,,,,230,232,99.1,249,252,98.8
+50,PALM BEACH,0842,,TURNING POINTS ACADEMY,6,18,33.3,*,*,*,6,17,35.3,,,,*,*,*,*,*,*,5,15,33.3,*,*,*
+50,PALM BEACH,0862,,ATLANTIC HIGH SCHOOL,468,507,92.3,64,69,92.8,347,384,90.4,61,76,80.3,,,,*,*,*,202,221,91.4,266,286,93
+50,PALM BEACH,0961,,BOCA RATON COMMUNITY HIGH SCHOOL,708,740,95.7,83,89,93.3,293,313,93.6,89,105,84.8,,,,*,*,*,344,362,95,364,378,96.3
+50,PALM BEACH,1361,,JOHN I. LEONARD HIGH SCHOOL,768,797,96.4,104,107,97.2,641,666,96.2,174,182,95.6,*,*,*,*,*,*,377,395,95.4,391,402,97.3
+50,PALM BEACH,1371,,PALM BEACH GARDENS HIGH SCHOOL,559,597,93.6,95,101,94.1,419,446,93.9,61,85,71.8,*,*,*,,,,259,277,93.5,300,320,93.8
+50,PALM BEACH,1461,,INLET GROVE COMMUNITY HIGH SCHOOL,152,153,99.3,15,16,93.8,130,131,99.2,*,*,*,,,,,,,63,64,98.4,89,89,100
+50,PALM BEACH,1561,,DR. JOAQUIN GARCIA HIGH SCHOOL,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+50,PALM BEACH,1571,,SOUTH TECH ACADEMY,198,201,98.5,31,32,96.9,165,167,98.8,13,14,92.9,,,,,,,100,103,97.1,98,98,100
+50,PALM BEACH,1611,,SANTALUCES COMMUNITY HIGH,651,676,96.3,93,95,97.9,533,551,96.7,79,90,87.8,,,,*,*,*,365,377,96.8,286,299,95.7
+50,PALM BEACH,1681,,SPANISH RIVER COMMUNITY HIGH SCHOOL,670,670,100,66,66,100,202,202,100,74,74,100,,,,*,*,*,325,325,100,345,345,100
+50,PALM BEACH,1771,,PAHOKEE MIDDLE-SENIOR HIGH,98,100,98,30,32,93.8,94,96,97.9,*,*,*,33,33,100,,,,50,51,98,48,49,98
+50,PALM BEACH,1801,,ROYAL PALM SCHOOL,11,11,100,11,11,100,10,10,100,,,,*,*,*,,,,*,*,*,*,*,*
+50,PALM BEACH,1851,,PALM BEACH LAKES HIGH SCHOOL,576,635,90.7,99,108,91.7,477,528,90.3,114,134,85.1,*,*,*,*,*,*,284,316,89.9,292,319,91.5
+50,PALM BEACH,2001,,PARK VISTA COMMUNITY HIGH SCHOOL,753,765,98.4,102,104,98.1,303,313,96.8,27,30,90,*,*,*,*,*,*,384,392,98,369,373,98.9
+50,PALM BEACH,2181,,OLYMPIC HEIGHTS COMMUNITY HIGH,577,577,100,76,76,100,251,251,100,62,62,100,,,,*,*,*,307,307,100,270,270,100
+50,PALM BEACH,2191,,WELLINGTON HIGH SCHOOL,660,664,99.4,98,100,98,258,261,98.9,44,44,100,,,,,,,320,323,99.1,340,341,99.7
+50,PALM BEACH,2201,,WILLIAM T. DWYER HIGH SCHOOL,554,575,96.3,102,103,99,252,271,93,15,18,83.3,,,,*,*,*,298,313,95.2,256,262,97.7
+50,PALM BEACH,2301,,GLADES CENTRAL HIGH SCHOOL,150,153,98,19,21,90.5,139,142,97.9,26,26,100,43,44,97.7,,,,59,59,100,91,94,96.8
+50,PALM BEACH,2331,,ROYAL PALM BEACH HIGH SCHOOL,558,581,96,94,97,96.9,405,425,95.3,68,76,89.5,*,*,*,*,*,*,285,297,96,273,284,96.1
+50,PALM BEACH,2361,,BOYNTON BEACH COMMUNITY HIGH,301,332,90.7,51,55,92.7,239,263,90.9,65,74,87.8,,,,,,,129,145,89,172,187,92
+50,PALM BEACH,2411,,INDIAN RIDGE SCHOOL,8,10,80,8,10,80,*,*,*,,,,,,,,,,*,*,*,*,*,*
+50,PALM BEACH,2521,,ED VENTURE CHARTER SCHOOL,8,23,34.8,8,23,34.8,7,21,33.3,*,*,*,,,,,,,5,17,29.4,*,*,*
+50,PALM BEACH,2631,,PALM BEACH CENTRAL HIGH SCHOOL,708,730,97,106,110,96.4,385,402,95.8,48,58,82.8,*,*,*,,,,358,369,97,350,361,97
+50,PALM BEACH,2811,,VILLAGE ACADEMY ON THE ART & SARA JO KOBACKER CAMPUS,16,16,100,*,*,*,16,16,100,*,*,*,,,,,,,*,*,*,11,11,100
+50,PALM BEACH,2941,,PALM BEACH SCHOOL FOR AUTISM,23,28,82.1,23,28,82.1,10,13,76.9,,,,,,,,,,19,24,79.2,*,*,*
+50,PALM BEACH,3002,,PALM BEACH COUNTY JAIL,11,18,61.1,*,*,*,11,17,64.7,,,,,,,,,,10,17,58.8,*,*,*
+50,PALM BEACH,3006,,PALM BEACH REGIONAL DETENTION CENTER,0,11,0,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+50,PALM BEACH,3010,,PACE CENTER FOR GIRLS,*,*,*,,,,*,*,*,*,*,*,,,,,,,,,,*,*,*
+50,PALM BEACH,3039,,ALTERNATIVE PROGRAM CENTRAL,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+50,PALM BEACH,3046,,SOUTH AREA SECONDARY INTENSIVE TRANSITION PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+50,PALM BEACH,3083,,THE LEARNING ACADEMY AT THE ELS CENTER OF EXCELLENCE,13,15,86.7,13,15,86.7,*,*,*,,,,,,,,,,13,14,92.9,*,*,*
+50,PALM BEACH,3091,,EDUCATIONAL SERVICES PROGRAM-WEST,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+50,PALM BEACH,3101,,CROSSROADS ACADEMY,50,54,92.6,21,21,100,38,42,90.5,*,*,*,*,*,*,*,*,*,29,29,100,21,25,84
+50,PALM BEACH,3251,,WEST BOCA RATON HIGH SCHOOL,560,565,99.1,62,63,98.4,226,229,98.7,67,67,100,,,,,,,258,263,98.1,302,302,100
+50,PALM BEACH,3354,,PALM BEACH JUVENILE CORRECTIONAL FACILITY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+50,PALM BEACH,3355,,RIVIERA BEACH PREPARATORY & ACHIEVEMENT ACADEMY,70,86,81.4,13,13,100,53,66,80.3,*,*,*,,,,*,*,*,29,38,76.3,41,48,85.4
+50,PALM BEACH,3386,,TOUSSAINT L'OUVERTURE HIGH,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+50,PALM BEACH,3391,,SEAGULL ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+50,PALM BEACH,3396,,G-STAR SCHOOL OF THE ARTS,148,157,94.3,16,17,94.1,86,93,92.5,10,11,90.9,,,,,,,61,62,98.4,87,95,91.6
+50,PALM BEACH,3398,,EVERGLADES PREPARATORY ACADEMY,30,42,71.4,11,12,91.7,26,36,72.2,*,*,*,*,*,*,*,*,*,13,20,65,17,22,77.3
+50,PALM BEACH,3400,,BELIEVERS ACADEMY,6,20,30,6,20,30,5,17,29.4,*,*,*,,,,,,,4,16,25,*,*,*
+50,PALM BEACH,3401,,QUANTUM HIGH SCHOOL,54,245,22,11,48,22.9,42,192,21.9,7,41,17.1,,,,*,*,*,32,142,22.5,22,103,21.4
+50,PALM BEACH,3421,,WORTHINGTON HIGH SCHOOL,94,276,34.1,21,59,35.6,76,230,33,7,39,17.9,,,,*,*,*,47,160,29.4,47,116,40.5
+50,PALM BEACH,3861,,SEMINOLE RIDGE COMMUNITY HIGH SCHOOL,561,573,97.9,87,88,98.9,246,254,96.9,27,29,93.1,*,*,*,,,,282,288,97.9,279,285,97.9
+50,PALM BEACH,3924,,PALM BEACH MARITIME ACADEMY SECONDARY,28,32,87.5,*,*,*,24,28,85.7,*,*,*,*,*,*,,,,21,23,91.3,*,*,*
+50,PALM BEACH,3971,,PALM BEACH PREPARATORY CHARTER ACADEMY,132,272,48.5,31,43,72.1,123,251,49,15,49,30.6,*,*,*,,,,67,155,43.2,65,117,55.6
+50,PALM BEACH,4013,,SOMERSET ACADEMY CANYONS HIGH SCHOOL,233,238,97.9,16,16,100,127,131,96.9,12,13,92.3,,,,,,,139,139,100,94,99,94.9
+50,PALM BEACH,4081,,FLORIDA FUTURES ACADEMY,3,59,5.1,*,*,*,3,49,6.1,*,*,*,,,,*,*,*,3,38,7.9,0,21,0
+50,PALM BEACH,4103,,SLAM BOCA,82,82,100,*,*,*,44,44,100,18,18,100,,,,,,,37,37,100,45,45,100
+50,PALM BEACH,4111,,SLAM ACADEMY HIGH SCHOOL PALM BEACH,65,70,92.9,17,18,94.4,48,50,96,12,14,85.7,,,,,,,30,34,88.2,35,36,97.2
+50,PALM BEACH,7001,309,EDGENUITY – GRADES KG-12,12,12,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+50,PALM BEACH,7001,320,GRADUATION ALLIANCE - GRADES 09-12,3,43,7,*,*,*,1,34,2.9,*,*,*,,,,,,,1,25,4,2,18,11.1
+50,PALM BEACH,7004,,PALM BEACH VIRTUAL FRANCHISE,38,38,100,,,,11,11,100,,,,,,,,,,20,20,100,18,18,100
+51,PASCO,0031,,PASCO HIGH SCHOOL,406,424,95.8,82,85,96.5,261,277,94.2,40,43,93,*,*,*,*,*,*,186,196,94.9,220,228,96.5
+51,PASCO,0063,,WESLEY CHAPEL HIGH SCHOOL,452,462,97.8,73,74,98.6,182,186,97.8,34,35,97.1,,,,,,,219,226,96.9,233,236,98.7
+51,PASCO,0073,,JAMES W. MITCHELL HIGH SCHOOL,495,503,98.4,65,66,98.5,163,167,97.6,19,19,100,,,,,,,230,236,97.5,265,267,99.3
+51,PASCO,0090,,WIREGRASS RANCH HIGH SCHOOL,532,557,95.5,61,62,98.4,160,173,92.5,29,36,80.6,,,,,,,254,273,93,278,284,97.9
+51,PASCO,0101,,SUNLAKE HIGH SCHOOL,481,501,96,63,66,95.5,135,145,93.1,10,13,76.9,,,,,,,247,260,95,234,241,97.1
+51,PASCO,0113,,ANCLOTE HIGH SCHOOL,239,251,95.2,58,61,95.1,185,196,94.4,27,28,96.4,,,,,,,121,129,93.8,118,122,96.7
+51,PASCO,0114,,FIVAY HIGH SCHOOL,313,371,84.4,84,88,95.5,257,309,83.2,28,34,82.4,,,,*,*,*,170,203,83.7,143,168,85.1
+51,PASCO,0123,,CYPRESS CREEK HIGH SCHOOL,446,452,98.7,63,64,98.4,193,199,97,28,32,87.5,,,,*,*,*,242,244,99.2,204,208,98.1
+51,PASCO,0128,,WENDELL KRINN TECHNICAL HIGH SCHOOL,133,133,100,11,11,100,88,88,100,,,,,,,*,*,*,81,81,100,52,52,100
+51,PASCO,0131,,ZEPHYRHILLS HIGH SCHOOL,404,432,93.5,85,88,96.6,275,300,91.7,34,37,91.9,*,*,*,*,*,*,207,217,95.4,197,215,91.6
+51,PASCO,0242,,WEST PASCO EDUCATION ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+51,PASCO,0331,,GULF HIGH SCHOOL,314,347,90.5,68,74,91.9,232,263,88.2,34,41,82.9,,,,,,,165,184,89.7,149,163,91.4
+51,PASCO,0471,,RIVER RIDGE HIGH SCHOOL,399,414,96.4,63,64,98.4,170,180,94.4,12,13,92.3,,,,*,*,*,193,205,94.1,206,209,98.6
+51,PASCO,0521,,HUDSON HIGH SCHOOL,293,300,97.7,53,53,100,198,202,98,*,*,*,,,,*,*,*,154,161,95.7,139,139,100
+51,PASCO,0801,,LAND O' LAKES HIGH SCHOOL,555,571,97.2,72,76,94.7,175,186,94.1,23,25,92,,,,,,,285,295,96.6,270,276,97.8
+51,PASCO,4301,,DAYSPRING ACADEMY,39,40,97.5,,,,*,*,*,,,,,,,,,,12,12,100,27,28,96.4
+51,PASCO,4326,,CLASSICAL PREPARATORY SCHOOL,12,12,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+51,PASCO,4328,,PEPIN ACADEMIES OF PASCO COUNTY,39,43,90.7,39,43,90.7,30,33,90.9,,,,,,,,,,29,33,87.9,10,10,100
+51,PASCO,5881,,PASCO COUNTY CORRECTION DEPARTMENT,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+51,PASCO,7004,,PASCO ESCHOOL-VIRTUAL FRANCHISE,129,133,97,20,20,100,45,49,91.8,*,*,*,,,,,,,52,54,96.3,77,79,97.5
+51,PASCO,7023,,PASCO VIRTUAL INSTRUCTION PROGRAM (DISTRICT PROVIDED),*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+51,PASCO,7081,,JUVENILE DETENTION CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+51,PASCO,8991,,MARCHMAN TECHNICAL COLLEGE,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+52,PINELLAS,0251,,BAYSIDE HIGH SCHOOL,68,90,75.6,15,15,100,48,65,73.8,*,*,*,,,,,,,29,45,64.4,39,45,86.7
+52,PINELLAS,0431,,BOCA CIEGA HIGH SCHOOL,339,372,91.1,44,48,91.7,202,228,88.6,14,15,93.3,,,,,,,124,145,85.5,215,227,94.7
+52,PINELLAS,0681,,PAUL B. STEPHENS ESE CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+52,PINELLAS,0711,,CLEARWATER HIGH SCHOOL,357,366,97.5,34,36,94.4,208,213,97.7,60,61,98.4,,,,*,*,*,178,184,96.7,179,182,98.4
+52,PINELLAS,0751,,COUNTRYSIDE HIGH SCHOOL,386,403,95.8,30,36,83.3,146,157,93,37,38,97.4,,,,,,,198,208,95.2,188,195,96.4
+52,PINELLAS,0981,,DISSTON ACADEMY,18,36,50,*,*,*,16,32,50,,,,,,,*,*,*,7,18,38.9,11,18,61.1
+52,PINELLAS,1031,,DIXIE M. HOLLINS HIGH SCHOOL,420,438,95.9,55,58,94.8,245,258,95,48,50,96,,,,*,*,*,210,220,95.5,210,218,96.3
+52,PINELLAS,1081,,DUNEDIN HIGH SCHOOL,290,291,99.7,43,43,100,139,140,99.3,30,30,100,,,,,,,147,147,100,143,144,99.3
+52,PINELLAS,1531,,GIBBS HIGH SCHOOL,234,265,88.3,49,55,89.1,140,165,84.8,*,*,*,,,,,,,96,110,87.3,138,155,89
+52,PINELLAS,1801,,CALVIN A. HUNSINGER SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+52,PINELLAS,2031,,LAKEWOOD HIGH SCHOOL,217,232,93.5,31,33,93.9,136,150,90.7,*,*,*,,,,,,,136,148,91.9,81,84,96.4
+52,PINELLAS,2081,,LARGO HIGH SCHOOL,482,500,96.4,39,40,97.5,229,243,94.2,44,47,93.6,,,,*,*,*,210,223,94.2,272,277,98.2
+52,PINELLAS,2151,,LEALMAN INNOVATION ACADEMY,39,46,84.8,18,18,100,29,36,80.6,,,,,,,,,,24,29,82.8,15,17,88.2
+52,PINELLAS,2581,,NINA HARRIS ESE CENTER,14,15,93.3,14,15,93.3,*,*,*,,,,,,,,,,*,*,*,*,*,*
+52,PINELLAS,2641,,NORTHEAST HIGH SCHOOL,404,408,99,65,67,97,206,209,98.6,31,31,100,,,,,,,218,221,98.6,186,187,99.5
+52,PINELLAS,2821,,PINELLAS SECONDARY SCHOOL,0,17,0,*,*,*,0,16,0,,,,,,,*,*,*,0,15,0,*,*,*
+52,PINELLAS,3031,,OSCEOLA FUNDAMENTAL HIGH,382,384,99.5,36,38,94.7,107,108,99.1,10,10,100,,,,,,,190,192,99,192,192,100
+52,PINELLAS,3231,,RICHARD L. SANDERS SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+52,PINELLAS,3371,,RICHARD O JACOBSON TECHNICAL HIGH SCHOOL AT SEMINOLE,108,110,98.2,15,15,100,45,45,100,,,,,,,*,*,*,61,62,98.4,47,48,97.9
+52,PINELLAS,3421,,PINELLAS PARK HIGH SCHOOL,407,438,92.9,67,73,91.8,216,238,90.8,67,74,90.5,,,,*,*,*,211,230,91.7,196,208,94.2
+52,PINELLAS,3781,,ST. PETERSBURG HIGH SCHOOL,422,424,99.5,40,41,97.6,151,152,99.3,19,19,100,,,,*,*,*,205,207,99,217,217,100
+52,PINELLAS,3921,,SEMINOLE HIGH SCHOOL,355,367,96.7,37,40,92.5,135,142,95.1,*,*,*,,,,*,*,*,176,182,96.7,179,185,96.8
+52,PINELLAS,4521,,TARPON SPRINGS HIGH SCHOOL,278,282,98.6,25,25,100,122,124,98.4,22,22,100,,,,*,*,*,135,136,99.3,143,146,97.9
+52,PINELLAS,4681,,PALM HARBOR UNIVERSITY HIGH,573,574,99.8,30,30,100,137,138,99.3,14,14,100,,,,,,,259,260,99.6,314,314,100
+52,PINELLAS,6181,,EAST LAKE HIGH SCHOOL,558,561,99.5,52,53,98.1,117,117,100,33,33,100,,,,*,*,*,279,281,99.3,279,280,99.6
+52,PINELLAS,6371,,PINELLAS GULF COAST ACADEMY,88,171,51.5,6,11,54.5,55,107,51.4,15,23,65.2,,,,*,*,*,50,100,50,38,71,53.5
+52,PINELLAS,7004,,PINELLAS VIRTUAL FRANCHISE,37,39,94.9,*,*,*,*,*,*,,,,,,,,,,17,17,100,20,22,90.9
+52,PINELLAS,7051,,PINELLAS TELESCHOOL,0,20,0,*,*,*,0,16,0,*,*,*,,,,,,,0,15,0,*,*,*
+52,PINELLAS,7071,,DROPOUT PREVENTION SCHOOL,3,86,3.5,0,14,0,1,60,1.7,1,11,9.1,,,,*,*,*,1,56,1.8,2,30,6.7
+52,PINELLAS,7081,,HOSPITAL/HOMEBOUND,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+52,PINELLAS,7191,,ST. PETERSBURG COLLEGIATE HIGH SCHOOL,80,81,98.8,*,*,*,19,20,95,*,*,*,,,,,,,35,35,100,45,46,97.8
+52,PINELLAS,7411,,ST. PETERSBURG COLLEGIATE HIGH SCHOOL  NORTH PINELLAS,67,67,100,*,*,*,16,16,100,*,*,*,,,,,,,21,21,100,46,46,100
+52,PINELLAS,7421,,NORTHSTAR ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,,,
+52,PINELLAS,7491,,PINELLAS MYCROSCHOOL OF INTEGRATED ACADEMICS AND TECHNOLOGIES (MYCROSCHOOL PINELLAS),37,101,36.6,5,17,29.4,27,80,33.8,*,*,*,,,,*,*,*,25,64,39.1,12,37,32.4
+52,PINELLAS,7731,,ENTERPRISE CHARTER HIGH SCHOOL,145,220,65.9,27,45,60,83,133,62.4,15,26,57.7,,,,*,*,*,68,108,63,77,112,68.8
+52,PINELLAS,8006,,STRIVE ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+52,PINELLAS,8028,,PACE CENTER FOR GIRLS,*,*,*,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*
+52,PINELLAS,8031,,PINELLAS JUVENILE DET CENTER,*,*,*,,,,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+52,PINELLAS,8060,,PINELLAS COUNTY JAIL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+53,POLK,0031,,LAKELAND SENIOR HIGH SCHOOL,432,476,90.8,59,69,85.5,188,217,86.6,24,35,68.6,,,,,,,186,209,89,246,267,92.1
+53,POLK,0092,,DORIS A. SANDERS LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+53,POLK,0421,,DON E WOODS OPPORTUNITY CENTER,0,10,0,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+53,POLK,0441,,RIDGEVIEW GLOBAL STUDIES ACADEMY,67,70,95.7,*,*,*,36,36,100,*,*,*,,,,,,,36,38,94.7,31,32,96.9
+53,POLK,0481,,WINTER HAVEN SENIOR HIGH SCHOOL,565,647,87.3,62,72,86.1,280,341,82.1,38,52,73.1,*,*,*,*,*,*,266,311,85.5,299,336,89
+53,POLK,0661,,KAREN M. SIEGEL ACADEMY,12,16,75,12,16,75,*,*,*,,,,,,,,,,7,10,70,*,*,*
+53,POLK,0791,,FORT MEADE MIDDLE/SENIOR HIGH SCHOOL,107,117,91.5,13,17,76.5,70,77,90.9,*,*,*,11,11,100,*,*,*,52,61,85.2,55,56,98.2
+53,POLK,0811,,AUBURNDALE SENIOR HIGH SCHOOL,371,427,86.9,57,63,90.5,176,218,80.7,20,31,64.5,*,*,*,*,*,*,198,233,85,173,194,89.2
+53,POLK,0901,,BARTOW SENIOR HIGH SCHOOL,415,431,96.3,64,68,94.1,177,190,93.2,22,24,91.7,*,*,*,,,,217,229,94.8,198,202,98
+53,POLK,0916,,FRESH START COMMUNITY SCHOOL,*,*,*,,,,*,*,*,*,*,*,,,,*,*,*,,,,*,*,*
+53,POLK,0917,,POLK GRAD ACADEMY,12,33,36.4,*,*,*,6,20,30,,,,,,,,,,10,22,45.5,2,11,18.2
+53,POLK,0921,,REAL ACADEMY (REACHING EVERY ADOLESCENT LEARNER),0,12,0,*,*,*,0,10,0,*,*,*,,,,,,,*,*,*,*,*,*
+53,POLK,0937,,RIDGE COMMUNITY HIGH SCHOOL,577,654,88.2,64,75,85.3,306,351,87.2,108,133,81.2,,,,*,*,*,263,307,85.7,314,347,90.5
+53,POLK,0962,,JEAN O'DELL LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+53,POLK,1051,,TENOROC HIGH SCHOOL,207,265,78.1,36,48,75,114,154,74,14,23,60.9,*,*,*,*,*,*,95,122,77.9,112,143,78.3
+53,POLK,1131,,MULBERRY SENIOR HIGH SCHOOL,278,307,90.6,57,62,91.9,161,186,86.6,28,35,80,17,19,89.5,,,,146,164,89,132,143,92.3
+53,POLK,1181,,KATHLEEN SENIOR HIGH SCHOOL,365,462,79,73,85,85.9,217,281,77.2,46,58,79.3,*,*,*,,,,210,264,79.5,155,198,78.3
+53,POLK,1381,,ROOSEVELT ACADEMY,31,39,79.5,29,33,87.9,21,27,77.8,*,*,*,*,*,*,,,,21,25,84,10,14,71.4
+53,POLK,1491,,GAUSE ACADEMY OF LEADERSHIP,4,11,36.4,*,*,*,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*
+53,POLK,1561,,MAYNARD A TRAVISS TECHNICAL ACADEMY,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+53,POLK,1661,,RIDGE TECHNICAL ACADEMY,1,11,9.1,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+53,POLK,1671,,MCKEEL ACADEMY OF TECHNOLOGY,232,233,99.6,13,13,100,69,69,100,*,*,*,,,,,,,109,109,100,123,124,99.2
+53,POLK,1721,,LAKE WALES SENIOR HIGH SCHOOL,335,359,93.3,39,42,92.9,177,198,89.4,29,30,96.7,*,*,*,*,*,*,175,189,92.6,160,170,94.1
+53,POLK,1762,,LAKE GIBSON SENIOR HIGH SCHOOL,481,518,92.9,76,83,91.6,233,259,90,28,34,82.4,,,,*,*,*,250,269,92.9,231,249,92.8
+53,POLK,1791,,HAINES CITY SENIOR HIGH SCHOOL,591,732,80.7,87,103,84.5,368,451,81.6,100,150,66.7,,,,*,*,*,308,389,79.2,283,343,82.5
+53,POLK,1801,,FROSTPROOF MIDDLE/SENIOR HIGH,141,157,89.8,21,25,84,78,89,87.6,14,16,87.5,*,*,*,*,*,*,72,83,86.7,69,74,93.2
+53,POLK,1931,,GEORGE W. JENKINS SENIOR HIGH,505,515,98.1,76,78,97.4,198,204,97.1,26,26,100,*,*,*,*,*,*,223,229,97.4,282,286,98.6
+53,POLK,1991,,LAKE REGION HIGH SCHOOL,307,382,80.4,50,57,87.7,166,217,76.5,32,41,78,10,12,83.3,,,,166,220,75.5,141,162,87
+53,POLK,2001,,BILL DUNCAN OPPORTUNITY CENTER,0,11,0,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*
+53,POLK,2002,,DAVENPORT HIGH SCHOOL,437,501,87.2,68,72,94.4,197,241,81.7,76,93,81.7,,,,*,*,*,222,260,85.4,215,241,89.2
+53,POLK,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+53,POLK,7001,320,GRADUATION ALLIANCE - GRADES 09-12,2,47,4.3,1,10,10,2,35,5.7,*,*,*,,,,*,*,*,1,26,3.8,1,21,4.8
+53,POLK,7023,,POLK FULL TIME ESCHOOL,79,106,74.5,12,13,92.3,35,43,81.4,*,*,*,,,,*,*,*,32,41,78,47,65,72.3
+53,POLK,8003,,POLK STATE LAKELAND GATEWAY TO COLLEGE COLLEGIATE HIGH SCHOOL,137,142,96.5,*,*,*,61,63,96.8,*,*,*,,,,,,,47,48,97.9,90,94,95.7
+53,POLK,8004,,NEW BEGINNINGS HIGH SCHOOL,87,563,15.5,19,93,20.4,54,404,13.4,4,72,5.6,*,*,*,*,*,*,43,300,14.3,44,263,16.7
+53,POLK,8008,,LANGUAGE & LITERACY ACADEMY FOR LEARNING,15,15,100,15,15,100,14,14,100,*,*,*,,,,,,,11,11,100,*,*,*
+53,POLK,8131,,POLK STATE COLLEGE COLLEGIATE HIGH SCHOOL,171,171,100,*,*,*,34,34,100,,,,*,*,*,,,,54,54,100,117,117,100
+53,POLK,8133,,CHAIN OF LAKES COLLEGIATE HIGH,164,164,100,*,*,*,46,46,100,*,*,*,,,,,,,58,58,100,106,106,100
+53,POLK,8143,,VICTORY RIDGE ACADEMY,13,14,92.9,13,14,92.9,*,*,*,,,,,,,,,,12,13,92.3,*,*,*
+53,POLK,8181,,DISCOVERY HIGH SCHOOL,166,171,97.1,17,18,94.4,113,117,96.6,19,21,90.5,,,,,,,83,85,97.6,83,86,96.5
+53,POLK,9003,,HOSPITAL HOMEBOUND,1,16,6.3,1,13,7.7,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+53,POLK,9225,,PACE CENTER FOR GIRLS,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+53,POLK,9228,,POLK COUNTY SHERIFF'S CENTRAL CENTER,1,14,7.1,*,*,*,0,11,0,,,,,,,,,,0,12,0,*,*,*
+53,POLK,9236,,POLK COUNTY SHERIFFS REGIONAL DETENTION CENTER,1,53,1.9,1,12,8.3,0,33,0,*,*,*,,,,*,*,*,0,43,0,1,10,10
+53,POLK,9240,,ECKERD CONNECTS,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+53,POLK,9263,,ECKERD CONNECTS STRIVE ACADEMY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+53,POLK,9997,,MIGRANT NON-ENROLLED STUDENTS,*,*,*,,,,*,*,*,,,,*,*,*,,,,*,*,*,,,
+54,PUTNAM,0071,,PUTNAM EDGE HIGH SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+54,PUTNAM,0112,,INTERLACHEN JR-SR HIGH SCHOOL,159,175,90.9,35,45,77.8,108,121,89.3,,,,,,,,,,76,86,88.4,83,89,93.3
+54,PUTNAM,0125,,Q.I. ROBERTS JR. - SR. HIGH SCHOOL,51,52,98.1,*,*,*,23,24,95.8,,,,,,,,,,29,30,96.7,22,22,100
+54,PUTNAM,0261,,CRESCENT CITY JR-SR HIGH SCHOOL,151,155,97.4,71,72,98.6,103,107,96.3,16,16,100,*,*,*,,,,81,84,96.4,70,71,98.6
+54,PUTNAM,0301,,PALATKA JR - SR HIGH SCHOOL,225,257,87.5,80,89,89.9,128,151,84.8,*,*,*,*,*,*,,,,93,116,80.2,132,141,93.6
+54,PUTNAM,0321,,MELLON LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+54,PUTNAM,7004,,PUTNAM VIRTUAL FRANCHISE,16,16,100,*,*,*,10,10,100,*,*,*,,,,,,,*,*,*,*,*,*
+55,ST. JOHNS,0032,,GAINES ALTERNATIVE AT HAMBLEN,0,15,0,*,*,*,*,*,*,,,,,,,,,,0,11,0,*,*,*
+55,ST. JOHNS,0033,,ST. JOHNS TECHNICAL HIGH SCHOOL,28,31,90.3,23,25,92,15,16,93.8,*,*,*,,,,,,,21,22,95.5,*,*,*
+55,ST. JOHNS,0061,,THE EVELYN HAMBLEN CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+55,ST. JOHNS,0072,,ST. JOHNS COMMUNITY CAMPUS,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+55,ST. JOHNS,0073,,LIFE WORK/PROJECT SEARCH,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+55,ST. JOHNS,0181,,ST. AUGUSTINE HIGH SCHOOL,421,457,92.1,115,132,87.1,179,202,88.6,*,*,*,,,,,,,210,231,90.9,211,226,93.4
+55,ST. JOHNS,0231,,FIRST COAST TECHNICAL COLLEGE,*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+55,ST. JOHNS,0251,,ALLEN D NEASE SENIOR HIGH SCHOOL,527,540,97.6,47,51,92.2,24,30,80,10,11,90.9,,,,,,,279,288,96.9,248,252,98.4
+55,ST. JOHNS,0401,,PEDRO MENENDEZ HIGH SCHOOL,346,411,84.2,80,101,79.2,131,166,78.9,*,*,*,*,*,*,*,*,*,171,213,80.3,175,198,88.4
+55,ST. JOHNS,0402,,BEACHSIDE HIGH SCHOOL,350,354,98.9,60,61,98.4,38,40,95,10,10,100,,,,*,*,*,190,193,98.4,160,161,99.4
+55,ST. JOHNS,0411,,BARTRAM TRAIL HIGH SCHOOL,589,601,98,86,89,96.6,38,40,95,*,*,*,,,,*,*,*,310,319,97.2,279,282,98.9
+55,ST. JOHNS,0417,,DEEP CREEK YOUTH ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+55,ST. JOHNS,0421,,HASTINGS JUVENILE CORRECTIONAL,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*,,,
+55,ST. JOHNS,0442,,ST JOHNS COUNTY JUVENILE RESIDENTIAL AT ST. JOHNS YOUTH ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+55,ST. JOHNS,0452,,DEEP CREEK ACADEMY,*,*,*,,,,*,*,*,,,,,,,*,*,*,*,*,*,,,
+55,ST. JOHNS,0492,,PONTE VEDRA HIGH SCHOOL,491,497,98.8,43,46,93.5,21,23,91.3,*,*,*,,,,,,,258,261,98.9,233,236,98.7
+55,ST. JOHNS,0493,,CREEKSIDE HIGH SCHOOL,658,676,97.3,103,111,92.8,45,48,93.8,*,*,*,,,,,,,355,365,97.3,303,311,97.4
+55,ST. JOHNS,0552,,TOCOI CREEK HIGH SCHOOL,447,459,97.4,65,70,92.9,75,78,96.2,*,*,*,,,,,,,219,226,96.9,228,233,97.9
+55,ST. JOHNS,7004,,ST. JOHNS VIRTUAL FRANCHISE,46,51,90.2,*,*,*,*,*,*,,,,,,,,,,21,24,87.5,25,27,92.6
+56,ST. LUCIE,0121,,LINCOLN PARK ACADEMY,191,191,100,*,*,*,102,102,100,10,10,100,,,,,,,85,85,100,106,106,100
+56,ST. LUCIE,0161,,FORT PIERCE CENTRAL HIGH SCHOOL,792,813,97.4,91,94,96.8,492,508,96.9,104,109,95.4,*,*,*,*,*,*,389,400,97.3,403,413,97.6
+56,ST. LUCIE,0162,,PERFORMANCE BASED PREPARATORY ACADEMY,105,131,80.2,17,18,94.4,72,93,77.4,14,23,60.9,,,,,,,59,79,74.7,46,52,88.5
+56,ST. LUCIE,0201,,FORT PIERCE WESTWOOD ACADEMY THE W.E.S.T. PREP MAGNET,385,398,96.7,57,58,98.3,293,303,96.7,61,68,89.7,*,*,*,*,*,*,193,201,96,192,197,97.5
+56,ST. LUCIE,0205,,DALE CASSENS EDUCATION COMPLEX,*,*,*,*,*,*,*,*,*,*,*,*,,,,*,*,*,*,*,*,*,*,*
+56,ST. LUCIE,0212,,ACCELERATION ACADEMY,130,236,55.1,19,31,61.3,80,163,49.1,8,23,34.8,,,,*,*,*,62,113,54.9,68,123,55.3
+56,ST. LUCIE,0301,,PORT ST. LUCIE HIGH SCHOOL,405,412,98.3,75,75,100,255,260,98.1,50,52,96.2,,,,*,*,*,230,235,97.9,175,177,98.9
+56,ST. LUCIE,0401,,ST. LUCIE WEST CENTENNIAL HIGH,637,653,97.5,84,89,94.4,377,387,97.4,52,54,96.3,*,*,*,*,*,*,342,352,97.2,295,301,98
+56,ST. LUCIE,0411,,TREASURE COAST HIGH SCHOOL,813,817,99.5,104,104,100,500,503,99.4,71,71,100,,,,*,*,*,419,422,99.3,394,395,99.7
+56,ST. LUCIE,0712,,SOMERSET COLLEGE PREPARATORY ACADEMY,156,157,99.4,*,*,*,62,63,98.4,*,*,*,,,,,,,75,76,98.7,81,81,100
+56,ST. LUCIE,0722,,TRADITION PREPARATORY HIGH SCHOOL,115,120,95.8,18,18,100,56,61,91.8,*,*,*,,,,,,,66,68,97.1,49,52,94.2
+56,ST. LUCIE,5001,,ST. LUCIE DETENTION CENTER,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*
+56,ST. LUCIE,5003,,DATA HOUSE,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+56,ST. LUCIE,5005,,ST LUCIE COUNTY JAIL - ROCK ROAD ACADEMY,*,*,*,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,,,
+56,ST. LUCIE,5031,,"PACE CENTER FOR GIRLS, TREASURE COAST",*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+56,ST. LUCIE,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+56,ST. LUCIE,7001,309,EDGENUITY – GRADES KG-12,*,*,*,,,,,,,,,,,,,,,,*,*,*,*,*,*
+56,ST. LUCIE,7004,,MOSAIC DIGITAL ACADEMY (ST. LUCIE VIRTUAL FRANCHISE) PT,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+56,ST. LUCIE,7023,,MOSAIC DIGITAL ACADEMY K-12,25,25,100,*,*,*,11,11,100,*,*,*,,,,,,,*,*,*,18,18,100
+57,SANTA ROSA,0021,,CENTRAL SCHOOL,51,56,91.1,9,10,90,21,26,80.8,,,,,,,,,,23,26,88.5,28,30,93.3
+57,SANTA ROSA,0103,,GULF BREEZE HIGH SCHOOL,490,507,96.6,39,41,95.1,113,118,95.8,*,*,*,,,,*,*,*,269,281,95.7,221,226,97.8
+57,SANTA ROSA,0141,,JAY HIGH SCHOOL,77,81,95.1,15,16,93.8,41,44,93.2,,,,,,,,,,40,41,97.6,37,40,92.5
+57,SANTA ROSA,0151,,MILTON HIGH SCHOOL,472,504,93.7,64,73,87.7,230,255,90.2,*,*,*,,,,*,*,*,251,269,93.3,221,235,94
+57,SANTA ROSA,0152,,SANTA ROSA HIGH SCHOOL,54,136,39.7,20,39,51.3,36,93,38.7,,,,,,,*,*,*,26,75,34.7,28,61,45.9
+57,SANTA ROSA,0182,,PACE HIGH SCHOOL,529,557,95,64,69,92.8,139,156,89.1,*,*,*,,,,,,,250,267,93.6,279,290,96.2
+57,SANTA ROSA,0351,,NAVARRE HIGH SCHOOL,546,575,95,73,81,90.1,142,159,89.3,*,*,*,,,,*,*,*,268,287,93.4,278,288,96.5
+57,SANTA ROSA,1421,,HIGH ROAD,6,14,42.9,6,14,42.9,5,11,45.5,,,,,,,,,,5,11,45.5,*,*,*
+57,SANTA ROSA,7004,,SANTA ROSA VIRTUAL FRANCHISE,19,19,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,11,11,100
+57,SANTA ROSA,8001,,LEARNING ACADEMY OF SANTA ROSA,5,23,21.7,*,*,*,4,18,22.2,,,,,,,*,*,*,2,15,13.3,*,*,*
+57,SANTA ROSA,8004,,COASTAL CONNECTIONS ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+58,SARASOTA,0021,,PINE VIEW SCHOOL,155,155,100,*,*,*,26,26,100,,,,,,,,,,69,69,100,86,86,100
+58,SARASOTA,0051,,SARASOTA HIGH SCHOOL,591,634,93.2,82,90,91.1,225,254,88.6,38,44,86.4,,,,*,*,*,302,332,91,289,302,95.7
+58,SARASOTA,0074,,SARASOTA MILITARY ACADEMY,122,128,95.3,28,29,96.6,55,59,93.2,15,16,93.8,,,,,,,71,75,94.7,51,53,96.2
+58,SARASOTA,0085,,BOOKER HIGH SCHOOL,310,342,90.6,55,68,80.9,198,219,90.4,32,40,80,,,,,,,145,162,89.5,165,180,91.7
+58,SARASOTA,0103,,IMAGINE SCHOOL AT NORTH PORT,67,71,94.4,9,10,90,24,27,88.9,*,*,*,,,,,,,44,48,91.7,23,23,100
+58,SARASOTA,0119,,SARASOTA COUNTY ACCELERATION ACADEMIES,17,45,37.8,*,*,*,7,23,30.4,*,*,*,,,,*,*,*,9,23,39.1,8,22,36.4
+58,SARASOTA,0122,,STATE COLLEGE OF FLA COLLEGIATE SCHOOL-VENICE,14,15,93.3,*,*,*,*,*,*,,,,,,,,,,*,*,*,11,12,91.7
+58,SARASOTA,0181,,RIVERVIEW HIGH SCHOOL,630,680,92.6,69,82,84.1,201,243,82.7,44,50,88,,,,,,,319,347,91.9,311,333,93.4
+58,SARASOTA,0221,,VENICE SENIOR HIGH SCHOOL,628,648,96.9,78,81,96.3,167,178,93.8,26,28,92.9,,,,*,*,*,311,326,95.4,317,322,98.4
+58,SARASOTA,0293,,OAK PARK SCHOOL,14,14,100,14,14,100,*,*,*,,,,,,,,,,12,12,100,*,*,*
+58,SARASOTA,0294,,TRIAD,1,22,4.5,1,10,10,0,15,0,*,*,*,,,,*,*,*,0,17,0,*,*,*
+58,SARASOTA,1251,,NORTH PORT HIGH SCHOOL,580,639,90.8,81,100,81,303,341,88.9,47,57,82.5,,,,*,*,*,285,328,86.9,295,311,94.9
+58,SARASOTA,1391,,SUNCOAST POLYTECHNICAL HIGH SCHOOL,123,123,100,*,*,*,38,38,100,*,*,*,,,,,,,73,73,100,50,50,100
+58,SARASOTA,7001,309,EDGENUITY – GRADES KG-12,12,12,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,10,10,100
+58,SARASOTA,7004,,SARASOTA VIRTUAL ACADEMY (VIRTUAL FRANCHISE),15,15,100,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+59,SEMINOLE,0071,,LAKE MARY HIGH SCHOOL,598,650,92,92,107,86,249,286,87.1,33,41,80.5,,,,,,,313,350,89.4,285,300,95
+59,SEMINOLE,0181,,SEMINOLE HIGH SCHOOL,850,963,88.3,142,175,81.1,440,530,83,48,59,81.4,,,,,,,381,448,85,469,515,91.1
+59,SEMINOLE,0251,,CROOMS ACADEMY OF INFORMATION TECHNOLOGY,182,182,100,20,20,100,78,78,100,*,*,*,,,,,,,131,131,100,51,51,100
+59,SEMINOLE,0311,,ENDEAVOR SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+59,SEMINOLE,0421,,OVIEDO HIGH SCHOOL,558,576,96.9,79,86,91.9,173,185,93.5,14,14,100,,,,*,*,*,268,278,96.4,290,298,97.3
+59,SEMINOLE,0431,,LYMAN HIGH SCHOOL,470,507,92.7,61,69,88.4,261,288,90.6,39,46,84.8,,,,,,,265,287,92.3,205,220,93.2
+59,SEMINOLE,0491,,LAKE BRANTLEY HIGH SCHOOL,635,648,98,67,69,97.1,287,296,97,44,45,97.8,,,,,,,296,304,97.4,339,344,98.5
+59,SEMINOLE,0551,,LAKE HOWELL HIGH SCHOOL,478,489,97.8,62,63,98.4,263,272,96.7,44,44,100,,,,,,,220,227,96.9,258,262,98.5
+59,SEMINOLE,0571,,JOURNEYS ACADEMY,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+59,SEMINOLE,0911,,WINTER SPRINGS HIGH SCHOOL,481,520,92.5,79,85,92.9,230,258,89.1,25,34,73.5,,,,,,,228,248,91.9,253,272,93
+59,SEMINOLE,0931,,HAGERTY HIGH SCHOOL,620,634,97.8,55,58,94.8,150,156,96.2,15,17,88.2,,,,*,*,*,304,310,98.1,316,324,97.5
+59,SEMINOLE,7004,,SEMINOLE COUNTY VIRTUAL FRANCHISE (SCVS),42,47,89.4,*,*,*,20,24,83.3,*,*,*,,,,,,,18,22,81.8,24,25,96
+59,SEMINOLE,9224,,SCPS CONSEQUENCE UNIT,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+59,SEMINOLE,9225,,JOHN POLK ALTERNATIVE SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+59,SEMINOLE,9234,,SEMINOLE COUNTY DETENTION CENTER,0,24,0,*,*,*,0,19,0,*,*,*,,,,*,*,*,0,21,0,*,*,*
+59,SEMINOLE,9263,,ELEVATION HIGH SCHOOL,29,124,23.4,7,34,20.6,23,98,23.5,*,*,*,,,,,,,12,63,19,17,61,27.9
+60,SUMTER,0161,,WILDWOOD MIDDLE/ HIGH SCHOOL,93,100,93,34,37,91.9,45,49,91.8,11,12,91.7,,,,*,*,*,44,47,93.6,49,53,92.5
+60,SUMTER,0171,,SOUTH SUMTER HIGH SCHOOL,210,215,97.7,59,61,96.7,95,99,96,*,*,*,*,*,*,,,,107,110,97.3,103,105,98.1
+60,SUMTER,2001,,VILLAGES CHARTER SCHOOL,246,246,100,27,27,100,68,68,100,*,*,*,,,,,,,108,108,100,138,138,100
+60,SUMTER,3001,,SUMTER PREP ACADEMY,0,34,0,0,13,0,0,19,0,*,*,*,,,,,,,0,25,0,*,*,*
+60,SUMTER,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+60,SUMTER,7004,,SUMTER VIRTUAL FRANCHISE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+61,SUWANNEE,0010,,COMMUNITY BASE SERVICE STUDENTS,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,*,*,*
+61,SUWANNEE,0043,,SUWANNEE HIGH SCHOOL,234,251,93.2,40,43,93,21,25,84,*,*,*,*,*,*,,,,109,120,90.8,125,131,95.4
+61,SUWANNEE,0063,,SUWANNEE OPPORTUNITY SCHOOL,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+61,SUWANNEE,0091,,BRANFORD HIGH SCHOOL,82,88,93.2,18,19,94.7,14,15,93.3,*,*,*,,,,,,,48,51,94.1,34,37,91.9
+61,SUWANNEE,7023,,SUWANNEE VIRTUAL SCHOOL,12,12,100,*,*,*,*,*,*,,,,,,,*,*,*,*,*,*,*,*,*
+61,SUWANNEE,9003,,DONALD RALPH COOKE SCHOOL,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+62,TAYLOR,0161,,TAYLOR COUNTY HIGH SCHOOL,123,154,79.9,25,26,96.2,66,88,75,,,,,,,*,*,*,63,86,73.3,60,68,88.2
+62,TAYLOR,7004,,TAYLOR PAEC VIRTUAL FRANCHISE,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+62,TAYLOR,8002,,TAYLOR COUNTY ACCELERATED SCHOOL,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+63,UNION,0021,,UNION COUNTY HIGH SCHOOL,125,152,82.2,34,43,79.1,47,66,71.2,*,*,*,*,*,*,,,,69,86,80.2,56,66,84.8
+64,VOLUSIA,1453,,DELAND HIGH SCHOOL,583,604,96.5,124,125,99.2,239,252,94.8,33,38,86.8,*,*,*,*,*,*,283,294,96.3,300,310,96.8
+64,VOLUSIA,1551,,UNIVERSITY HIGH SCHOOL,533,555,96,84,90,93.3,241,260,92.7,45,49,91.8,,,,*,*,*,269,283,95.1,264,272,97.1
+64,VOLUSIA,2041,,HIGHBANKS LEARNING CENTER,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+64,VOLUSIA,3436,,MAINLAND HIGH SCHOOL,364,384,94.8,60,66,90.9,225,238,94.5,17,19,89.5,,,,*,*,*,169,181,93.4,195,203,96.1
+64,VOLUSIA,3839,,NEW SMYRNA BEACH HIGH SCHOOL,449,462,97.2,65,69,94.2,148,154,96.1,*,*,*,,,,,,,219,227,96.5,230,235,97.9
+64,VOLUSIA,4436,,SPRUCE CREEK HIGH SCHOOL,562,591,95.1,66,69,95.7,169,181,93.4,18,21,85.7,,,,,,,274,288,95.1,288,303,95
+64,VOLUSIA,4941,,ATLANTIC HIGH SCHOOL,251,260,96.5,45,50,90,111,118,94.1,*,*,*,,,,,,,117,122,95.9,134,138,97.1
+64,VOLUSIA,5434,,RIVERVIEW LEARNING CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+64,VOLUSIA,5836,,SEABREEZE HIGH SCHOOL,363,371,97.8,57,59,96.6,122,127,96.1,*,*,*,,,,,,,186,190,97.9,177,181,97.8
+64,VOLUSIA,6633,,T. DEWITT TAYLOR MIDDLE-HIGH SCHOOL,150,167,89.8,32,36,88.9,87,97,89.7,17,21,81,*,*,*,*,*,*,71,80,88.8,79,87,90.8
+64,VOLUSIA,6761,,DELTONA HIGH SCHOOL,393,393,100,80,80,100,205,205,100,19,19,100,,,,*,*,*,177,177,100,216,216,100
+64,VOLUSIA,6881,,PINE RIDGE HIGH SCHOOL,355,363,97.8,69,72,95.8,188,194,96.9,27,30,90,,,,,,,198,203,97.5,157,160,98.1
+64,VOLUSIA,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+64,VOLUSIA,7004,,VOLUSIA ONLINE LEARNING-FLVS (FRANCHISE),52,59,88.1,*,*,*,15,17,88.2,*,*,*,,,,*,*,*,29,31,93.5,23,28,82.1
+64,VOLUSIA,7006,,VOLUSIA VIRTUAL INSTRUCTION (COURSE OFFERINGS),*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+64,VOLUSIA,7023,,VOLUSIA VIRTUAL INSTRUCTION PROGRAM DISTRICT PROVIDED,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+64,VOLUSIA,7631,,BURNS SCIENCE AND TECHNOLOGY CHARTER SCHOOL,21,26,80.8,*,*,*,*,*,*,,,,,,,,,,12,14,85.7,9,12,75
+64,VOLUSIA,7841,,THE CHILES ACADEMY,9,24,37.5,*,*,*,7,20,35,*,*,*,,,,*,*,*,,,,9,24,37.5
+64,VOLUSIA,7891,,RICHARD MILBURN ACADEMY,434,528,82.2,160,171,93.6,283,340,83.2,32,53,60.4,,,,*,*,*,241,293,82.3,193,235,82.1
+64,VOLUSIA,8031,,AMIKIDS VOLUSIA,*,*,*,,,,,,,,,,,,,,,,*,*,*,,,
+64,VOLUSIA,9801,,VOLUSIA REGIONAL JUVENILE DETENTION CENTER,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+64,VOLUSIA,9802,,HALIFAX BEHAVIORAL SERVICES,*,*,*,,,,,,,,,,,,,,,,,,,*,*,*
+64,VOLUSIA,9808,,PACE CENTER FOR GIRLS,*,*,*,*,*,*,*,*,*,,,,,,,*,*,*,,,,*,*,*
+64,VOLUSIA,9817,,DAYTONA JUVENILE RESIDENTIAL FACILITY,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,,,
+64,VOLUSIA,9850,,HOSPITAL HOMEBOUND,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+64,VOLUSIA,9870,,LEGACY SCHOLARS ACADEMY,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+64,VOLUSIA,9892,,STEWART TREATMENT CENTER,*,*,*,*,*,*,,,,,,,,,,,,,,,,*,*,*
+64,VOLUSIA,9894,,DEPT. OF CORRECTIONS EDUCATIONAL PROGRAM,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,,,
+65,WAKULLA,0021,,WAKULLA INSTITUTE,*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+65,WAKULLA,0071,,WAKULLA HIGH SCHOOL,299,306,97.7,74,76,97.4,97,100,97,*,*,*,,,,,,,156,162,96.3,143,144,99.3
+66,WALTON,0101,,PAXTON SCHOOL,46,48,95.8,*,*,*,17,18,94.4,,,,,,,,,,25,26,96.2,21,22,95.5
+66,WALTON,0141,,FREEPORT SENIOR HIGH SCHOOL,158,158,100,26,26,100,67,67,100,*,*,*,,,,*,*,*,79,79,100,79,79,100
+66,WALTON,0153,,SOUTH WALTON HIGH SCHOOL,241,242,99.6,16,16,100,41,42,97.6,23,23,100,,,,,,,115,116,99.1,126,126,100
+66,WALTON,0245,,MAGNET INNOVATION CENTER,32,32,100,*,*,*,*,*,*,,,,,,,,,,22,22,100,10,10,100
+66,WALTON,0271,,WALTON HIGH SCHOOL,171,173,98.8,29,29,100,109,110,99.1,11,11,100,,,,*,*,*,94,96,97.9,77,77,100
+66,WALTON,0282,,WALTON INITIATIVE FOR SUCCESS IN EDUCATION (WISE),13,14,92.9,*,*,*,*,*,*,,,,,,,*,*,*,9,10,90,*,*,*
+66,WALTON,1110,,SEASIDE NEIGHBORHOOD SCHOOL,56,56,100,*,*,*,*,*,*,,,,,,,,,,22,22,100,34,34,100
+66,WALTON,1111,,"WALTON ACADEMY, INC.",19,32,59.4,6,10,60,15,23,65.2,*,*,*,,,,*,*,*,10,17,58.8,9,15,60
+66,WALTON,2021,,WALTON LEARNING CENTER,*,*,*,*,*,*,,,,,,,,,,,,,*,*,*,,,
+66,WALTON,7004,,WALTON VIRTUAL FRANCHISE,*,*,*,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+67,WASHINGTON,0021,,CHIPLEY HIGH SCHOOL,134,154,87,25,34,73.5,44,57,77.2,*,*,*,,,,*,*,*,70,81,86.4,64,73,87.7
+67,WASHINGTON,0051,,VERNON HIGH SCHOOL,62,73,84.9,21,26,80.8,24,31,77.4,,,,,,,*,*,*,20,27,74.1,42,46,91.3
+67,WASHINGTON,0123,,WASHINGTON ACADEMY OF VARYING EXCEPTIONALITIES (WAVE),*,*,*,*,*,*,*,*,*,,,,,,,,,,*,*,*,*,*,*
+67,WASHINGTON,7001,302,"K12 FLORIDA, LLC – GRADES KG-12",*,*,*,,,,*,*,*,,,,,,,,,,,,,*,*,*
+67,WASHINGTON,7004,,WASHINGTON VIRTUAL FRANCHISE,10,10,100,,,,*,*,*,,,,,,,,,,*,*,*,*,*,*
+68,DEAF/BLIND,0013,,DEAF HIGH SCHOOL (FSDB),28,34,82.4,28,33,84.8,20,24,83.3,*,*,*,,,,,,,16,19,84.2,12,15,80
+68,DEAF/BLIND,0016,,BLIND HIGH SCHOOL (FSDB),31,35,88.6,31,35,88.6,26,27,96.3,*,*,*,,,,,,,15,17,88.2,16,18,88.9
+71,FL VIRTUAL,0400,,FLORIDA VIRTUAL HIGH SCHOOL,"1,150","1,190",96.6,103,105,98.1,425,445,95.5,12,12,100,,,,*,*,*,472,490,96.3,678,700,96.9
+72,FAU LAB SCH,0011,,A.D. HENDERSON UNIVERSITY SCHOOL & FAU HIGH SCHOOL,192,192,100,*,*,*,47,47,100,,,,,,,,,,81,81,100,111,111,100
+73,FSU LAB SCH,0341,,FLORIDA STATE UNIVERSITY SCHOOL,161,163,98.8,*,*,*,37,37,100,*,*,*,,,,,,,81,83,97.6,80,80,100
+74,FAMU LAB SCH,0351,,FLORIDA A&M UNIVERSITY DEVELOPMENTAL RESEARCH SCHOOL,32,33,97,*,*,*,31,32,96.9,,,,,,,,,,17,17,100,15,16,93.8
+75,UF LAB SCH,0391,,P.K. YONGE DEVELOPMENTAL RESEARCH SCHOOL,126,126,100,12,12,100,47,47,100,,,,,,,*,*,*,63,63,100,63,63,100

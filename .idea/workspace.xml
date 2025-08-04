@@ -7,10 +7,14 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -26,19 +30,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0071aaa4-41e8-4430-8f53-e0105d8c1d92" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/BTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/BTree.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/BTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log.recompact" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SuperSchoolers" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SuperSchoolers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/EodOfYear Math Scores- Grade 3 up.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/EodOfYear Math Scores- Grade 3 up.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/High School Graduations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/High School Graduations.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SchoolSystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolSystem.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SchoolSystem.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/SchoolSystem.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schools_clean.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/schools_clean.hpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +65,29 @@
     &quot;assignee&quot;: &quot;goatmanjah&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="7fb4a1d5-b06b-4680-9169-6d15fca13bd3" />
-        <option name="url" value="https://github.com/Bolu123-sudo/Project-3--Super-Schoolers.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bolu123-sudo/Project-3--Super-Schoolers.git",
+    "accountId": "0e8a19ea-33c1-4729-a915-556c93317668"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/main.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/main.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/BTree.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/boluabegunde/CLionProjects/Project-3--Super-Schoolers/src/SchoolSystem.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,8 +110,10 @@
     "CMake Application.Main.executor": "Run",
     "CMake Application.SuperSchoolers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
@@ -118,17 +133,17 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.SuperSchoolers">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/src/main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="SuperSchoolers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SuperSchoolers" TARGET_NAME="SuperSchoolers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SuperSchoolers" RUN_TARGET_NAME="SuperSchoolers">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -148,6 +163,7 @@
       <updated>1754178120773</updated>
       <workItem from="1754178122150" duration="501000" />
       <workItem from="1754178784493" duration="2487000" />
+      <workItem from="1754311822785" duration="5819000" />
     </task>
     <task id="LOCAL-00001" summary="main, parsing, and object refining">
       <option name="closed" value="true" />
