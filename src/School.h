@@ -3,8 +3,6 @@
 #ifndef PROJECT_3_SUPER_SCHOOLERS_SCHOOL_H
 #define PROJECT_3_SUPER_SCHOOLERS_SCHOOL_H
 
-#ifndef SCHOOL_H
-#define SCHOOL_H
 #include <string>
 using namespace std;
 

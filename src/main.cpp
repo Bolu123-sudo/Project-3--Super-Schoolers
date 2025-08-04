@@ -1,5 +1,6 @@
 #include <iostream>
 #include "SchoolSystem.h"
+#include <iomanip>
 using namespace std;
 
 int getPreferenceWeight(const string& metric) {

@@ -207,5 +207,6 @@ vector<School> SchoolSystem::filterSchools(const string& county, const string& l
 vector<School> SchoolSystem::recommendTopSchools(const string& county, const string& level,
                                                  float wTest, float wGrad, float wSafe, float wStable, int topN) {
     auto filtered = filterSchools(county, level);
-    return MaxHeap::getTopSchools(filtered, wTest, wGrad, wSafe, wStable, topN);
+    return {};
+    //return MaxHeap::getTopSchools(filtered, wTest, wGrad, wSafe, wStable, topN);
 }
