@@ -1,4 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S "/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers" -B "/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug"
--- Configuring done (0.2s)
+-- Configuring done (0.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug

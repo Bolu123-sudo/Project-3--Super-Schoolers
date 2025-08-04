@@ -41,45 +41,6 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/noteli/Desktop/UFW/8$ Summer$ 2025/Project-3--Super-Schoolers/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Main
-
-
-#############################################
-# Order-only phony target for Main
-
-build cmake_object_order_depends_target_Main: phony || CMakeFiles/Main.dir
-
-build CMakeFiles/Main.dir/src/main.cpp.o: CXX_COMPILER__Main_unscanned_Debug /Users/noteli/Desktop/UFW/8$ Summer$ 2025/Project-3--Super-Schoolers/src/main.cpp || cmake_object_order_depends_target_Main
-  DEP_FILE = CMakeFiles/Main.dir/src/main.cpp.o.d
-  FLAGS = -Wall -Werror -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
-  INCLUDES = -I"/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/src"
-  OBJECT_DIR = CMakeFiles/Main.dir
-  OBJECT_FILE_DIR = CMakeFiles/Main.dir/src
-
-build CMakeFiles/Main.dir/src/SchoolSystem.cpp.o: CXX_COMPILER__Main_unscanned_Debug /Users/noteli/Desktop/UFW/8$ Summer$ 2025/Project-3--Super-Schoolers/src/SchoolSystem.cpp || cmake_object_order_depends_target_Main
-  DEP_FILE = CMakeFiles/Main.dir/src/SchoolSystem.cpp.o.d
-  FLAGS = -Wall -Werror -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
-  INCLUDES = -I"/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/src"
-  OBJECT_DIR = CMakeFiles/Main.dir
-  OBJECT_FILE_DIR = CMakeFiles/Main.dir/src
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Main
-
-
-#############################################
-# Link the executable Main
-
-build Main: CXX_EXECUTABLE_LINKER__Main_Debug CMakeFiles/Main.dir/src/main.cpp.o CMakeFiles/Main.dir/src/SchoolSystem.cpp.o
-  FLAGS = -Wall -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
-  OBJECT_DIR = CMakeFiles/Main.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = Main
-  TARGET_PDB = Main.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target Project3
 
 
@@ -95,6 +56,13 @@ build CMakeFiles/Project3.dir/src/main.cpp.o: CXX_COMPILER__Project3_unscanned_D
   OBJECT_DIR = CMakeFiles/Project3.dir
   OBJECT_FILE_DIR = CMakeFiles/Project3.dir/src
 
+build CMakeFiles/Project3.dir/src/SchoolSystem.cpp.o: CXX_COMPILER__Project3_unscanned_Debug /Users/noteli/Desktop/UFW/8$ Summer$ 2025/Project-3--Super-Schoolers/src/SchoolSystem.cpp || cmake_object_order_depends_target_Project3
+  DEP_FILE = CMakeFiles/Project3.dir/src/SchoolSystem.cpp.o.d
+  FLAGS = -Wall -Werror -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  INCLUDES = -I"/Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/src"
+  OBJECT_DIR = CMakeFiles/Project3.dir
+  OBJECT_FILE_DIR = CMakeFiles/Project3.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Project3
@@ -103,7 +71,7 @@ build CMakeFiles/Project3.dir/src/main.cpp.o: CXX_COMPILER__Project3_unscanned_D
 #############################################
 # Link the executable Project3
 
-build Project3: CXX_EXECUTABLE_LINKER__Project3_Debug CMakeFiles/Project3.dir/src/main.cpp.o
+build Project3: CXX_EXECUTABLE_LINKER__Project3_Debug CMakeFiles/Project3.dir/src/main.cpp.o CMakeFiles/Project3.dir/src/SchoolSystem.cpp.o
   FLAGS = -Wall -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   OBJECT_DIR = CMakeFiles/Project3.dir
   POST_BUILD = :
@@ -145,7 +113,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/noteli/Desktop/UFW/8 Summer 2025/Project-3--Super-Schoolers/cmake-build-debug
 
-build all: phony Main Project3
+build all: phony Project3
 
 # =============================================================================
 # Built-in targets
